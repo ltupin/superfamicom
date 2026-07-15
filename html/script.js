@@ -31,8 +31,18 @@ let gamesData = [];
 let filteredData = [];
 
 async function loadAndRender(){
-  const res = await fetch('listing.csv');
-  const txt = await res.text();
+  // Try several candidate paths so the page works from /html/ or from repo root
+  const candidates = ['data/listing.csv','../data/listing.csv','listing.csv','../listing.csv'];
+  let txt='';
+  for(const p of candidates){
+    try{
+      const res = await fetch(p);
+      if(!res.ok) continue;
+      txt = await res.text();
+      break;
+    }catch(e){/*ignore*/}
+  }
+  if(!txt) throw new Error('listing.csv not found (tried: '+candidates.join(',')+')');
   const rows = parseCSV(txt);
   if(rows.length===0) return;
   const headers = rows[0].map(h=>h.trim());
@@ -43,6 +53,7 @@ async function loadAndRender(){
   });
   gamesData = data;
   filteredData = data;
+  setupColumnControls(headers);
   populateCategoryFilter(data, headers);
   setupSearch();
   renderPage(1);
@@ -92,20 +103,60 @@ function renderTable(data){
   tbody.innerHTML='';
   const countEl = document.getElementById('count');
   countEl.textContent = `${filteredData.length.toLocaleString()} jeux — page ${currentPage} / ${Math.max(1, Math.ceil(filteredData.length / PAGE_SIZE))}`;
+  const selected = getSelectedColumns();
   for(const g of data){
     const tr = document.createElement('tr');
-    const cells = [
-      g['Titre en anglais']||g['Title']||'',
-      g['Titre en Japonais']||'',
-      g['Editeurs']||'',
-      g['Numéro de série']||g['Serial']||'',
-      g['Date']||'',
-      g['Main Category']||'',
-      g['Sub Category']||''
-    ];
-    cells.forEach(c=>{ const td=document.createElement('td'); td.textContent=c; tr.appendChild(td); });
+    if(g['uid']) tr.dataset.uid = g['uid'];
+    selected.forEach(col=>{
+      const td=document.createElement('td');
+      // map display column back to CSV keys
+      let val = '';
+      if(col==='Title') val = g['Titre en anglais']||g['Title']||'';
+      else if(col==='Japanese title') val = g['Titre en Japonais']||'';
+      else if(col==='Publisher & Editor') val = g['Editeurs']||'';
+      else if(col==='Serial') val = g['Numéro de série']||g['Serial']||'';
+      else if(col==='Date') val = g['Date']||'';
+      else if(col==='Main Category') val = g['Main Category']||'';
+      else if(col==='Sub Category') val = g['Sub Category']||'';
+      td.textContent = val;
+      tr.appendChild(td);
+    });
     tbody.appendChild(tr);
   }
+}
+
+// Column controls
+const DISPLAY_COLUMNS = ['Title','Japanese title','Publisher & Editor','Serial','Date','Main Category','Sub Category'];
+const REQUIRED = new Set(['Title','Japanese title','Serial','Main Category','Sub Category']);
+
+function setupColumnControls(headers){
+  const container = document.getElementById('col-list');
+  if(!container) return;
+  container.innerHTML='';
+  DISPLAY_COLUMNS.forEach(col=>{
+    const id = 'col_' + col.replace(/\s+/g,'_');
+    const label = document.createElement('label');
+    label.style.display='inline-flex'; label.style.alignItems='center';
+    const inp = document.createElement('input'); inp.type='checkbox'; inp.id = id;
+    inp.checked = true;
+    if(REQUIRED.has(col)){ inp.disabled = true; inp.checked = true; }
+    inp.addEventListener('change',()=> renderPage(1));
+    const span = document.createElement('span'); span.textContent = ' ' + col;
+    label.appendChild(inp); label.appendChild(span);
+    container.appendChild(label);
+  });
+}
+
+function getSelectedColumns(){
+  const sel = [];
+  DISPLAY_COLUMNS.forEach(col=>{
+    const id = 'col_' + col.replace(/\s+/g,'_');
+    const inp = document.getElementById(id);
+    if(inp && inp.checked) sel.push(col);
+  });
+  // ensure required are present
+  REQUIRED.forEach(r=>{ if(!sel.includes(r)) sel.unshift(r); });
+  return sel;
 }
 
 function renderPager(containerId){
