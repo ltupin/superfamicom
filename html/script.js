@@ -106,7 +106,9 @@ function renderTable(data){
   const selected = getSelectedColumns();
   for(const g of data){
     const tr = document.createElement('tr');
-    if(g['uid']) tr.dataset.uid = g['uid'];
+    // support both `uid` (old) and new `id` column; set both data attributes for compatibility
+    const recId = g['id'] || g['uid'] || '';
+    if(recId){ tr.dataset.id = recId; tr.dataset.uid = recId; }
     selected.forEach(col=>{
       const td=document.createElement('td');
       // map display column back to CSV keys
