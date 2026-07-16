@@ -195,6 +195,14 @@ function renderTable(data){
 // Column controls
 const DISPLAY_COLUMNS = ['Title','Japanese title','Publisher & Editor','Code JPN','Code USA','Sortie JPN','Sortie USA','Main Category','Sub Category'];
 
+const DEFAULT_VISIBLE_COLUMNS = [
+  'Title',
+  'Japanese title',
+  'Publisher & Editor',
+  'Code JPN',
+  'Main Category'
+];
+
 function populatePublisherFilter(data, headers){
   const sel = document.getElementById('publisher');
   if(!headers.includes('Editeurs')) return;
@@ -209,15 +217,25 @@ function setupColumnControls(headers){
   const container = document.getElementById('col-list');
   if(!container) return;
   container.innerHTML='';
+
   DISPLAY_COLUMNS.forEach(col=>{
     const id = 'col_' + col.replace(/\s+/g,'_');
     const label = document.createElement('label');
-    label.style.display='inline-flex'; label.style.alignItems='center';
-    const inp = document.createElement('input'); inp.type='checkbox'; inp.id = id;
-    inp.checked = true;
+    label.style.display='inline-flex';
+    label.style.alignItems='center';
+
+    const inp = document.createElement('input');
+    inp.type='checkbox';
+    inp.id = id;
+    inp.checked = DEFAULT_VISIBLE_COLUMNS.includes(col);
+
     inp.addEventListener('change',()=> renderList());
-    const span = document.createElement('span'); span.textContent = ' ' + col;
-    label.appendChild(inp); label.appendChild(span);
+
+    const span = document.createElement('span');
+    span.textContent = ' ' + col;
+
+    label.appendChild(inp);
+    label.appendChild(span);
     container.appendChild(label);
   });
 }
