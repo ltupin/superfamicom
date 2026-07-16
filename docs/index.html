@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Super Famicom — Liste des jeux</title>
+  <link rel="stylesheet" href="site/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Super Famicom — Liste des jeux</h1>
+  </header>
+  <main>
+    <section class="search-panel">
+      <input id="search" placeholder="Rechercher par titre, éditeur..." />
+    </section>
+    <section class="filters-panel">
+      <div class="filter-group">
+        <label for="category">Catégories</label>
+        <select id="category" multiple size="5" title="Maintenez Ctrl/Cmd pour sélectionner plusieurs catégories"></select>
+        <small>Cmd/Ctrl + clic pour sélectionner plusieurs catégories</small>
+      </div>
+      <div class="filter-group">
+        <label for="publisher">Publisher / Editor</label>
+        <select id="publisher" multiple size="5" title="Maintenez Ctrl/Cmd pour sélectionner plusieurs publishers/editors"></select>
+        <small>Cmd/Ctrl + clic pour sélectionner plusieurs publishers/editors</small>
+      </div>
+      <div class="filter-group filter-columns">
+        <div class="columns-header">Colonnes</div>
+        <div id="col-list" class="col-list"></div>
+      </div>
+    </section>
+    <div class="actions-row">
+      <button id="clear">Effacer</button>
+      <div id="count"></div>
+    </div>
+    <div id="pager-top" class="pager"></div>
+    <div class="table-wrap">
+      <table id="games">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Japanese</th>
+            <th>Publisher</th>
+            <th>Serial</th>
+            <th>Date</th>
+            <th>Category</th>
+            <th>Sub</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div id="pager-bottom" class="pager"></div>
+  </main>
+  <footer>
+    <small>Site généré localement — héberger via GitHub Pages (voir README).</small>
+  </footer>
+  <script src="site/script.js"></script>
+</body>
+</html>

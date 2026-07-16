@@ -29,10 +29,11 @@ const PAGE_SIZE = 50;
 let currentPage = 1;
 let gamesData = [];
 let filteredData = [];
+let sortColumn = '';
+let sortDirection = 1; // 1 = asc, -1 = desc
 
 async function loadAndRender(){
-  // Try several candidate paths so the page works from /html/ or from repo root
-  const candidates = ['data/listing.csv','../data/listing.csv','listing.csv','../listing.csv'];
+  const candidates = ['../data/listing.csv','data/listing.csv'];
   let txt='';
   for(const p of candidates){
     try{
@@ -55,6 +56,7 @@ async function loadAndRender(){
   filteredData = data;
   setupColumnControls(headers);
   populateCategoryFilter(data, headers);
+  populatePublisherFilter(data, headers);
   setupSearch();
   renderPage(1);
 }
@@ -74,14 +76,39 @@ function setupSearch(){
   const clear = document.getElementById('clear');
   let t;
   search.addEventListener('input',()=>{ clearTimeout(t); t=setTimeout(()=>applyFilters(),150)});
-  clear.addEventListener('click',()=>{ search.value=''; document.getElementById('category').value=''; applyFilters(); });
+  clear.addEventListener('click',()=>{
+    search.value='';
+    const catSel = document.getElementById('category');
+    const pubSel = document.getElementById('publisher');
+    Array.from(catSel.options).forEach(o=> o.selected = false);
+    Array.from(pubSel.options).forEach(o=> o.selected = false);
+    applyFilters();
+  });
+}
+
+function getSelectedCategories(){
+  const sel = document.getElementById('category');
+  return Array.from(sel.selectedOptions).map(o=>o.value).filter(Boolean);
+}
+
+function getSelectedPublishers(){
+  const sel = document.getElementById('publisher');
+  return Array.from(sel.selectedOptions).map(o=>o.value).filter(Boolean);
 }
 
 function applyFilters(){
   const q = document.getElementById('search').value.toLowerCase().trim();
-  const cat = document.getElementById('category').value;
+  const selectedCats = getSelectedCategories();
+  const selectedPubs = getSelectedPublishers();
   filteredData = gamesData.filter(g=>{
-    if(cat && (g['Main Category']||'')!==cat) return false;
+    if(selectedCats.length){
+      const cat = (g['Main Category']||'').trim();
+      if(!selectedCats.includes(cat)) return false;
+    }
+    if(selectedPubs.length){
+      const pubs = String(g['Editeurs']||'').split('/').map(p=>p.trim()).filter(Boolean);
+      if(!selectedPubs.some(pub=> pubs.includes(pub))) return false;
+    }
     if(!q) return true;
     const keys = ['Titre en anglais','Titre en Japonais','Editeurs','Main Category','Sub Category'];
     return keys.some(k=> (g[k]||'').toLowerCase().includes(q));
@@ -89,10 +116,42 @@ function applyFilters(){
   renderPage(1);
 }
 
+function getSortKey(displayCol){
+  if(displayCol==='Title') return ['Titre en anglais','Title'];
+  if(displayCol==='Japanese title') return ['Titre en Japonais'];
+  if(displayCol==='Publisher & Editor') return ['Editeurs'];
+  if(displayCol==='Serial') return ['Numéro de série','Serial'];
+  if(displayCol==='Date') return ['Date'];
+  if(displayCol==='Main Category') return ['Main Category'];
+  if(displayCol==='Sub Category') return ['Sub Category'];
+  return [displayCol];
+}
+
+function sortFilteredData(){
+  if(!sortColumn) return filteredData;
+  const keys = getSortKey(sortColumn);
+  return [...filteredData].sort((a,b)=>{
+    const va = keys.reduce((acc,key)=> acc || (a[key]||''), '');
+    const vb = keys.reduce((acc,key)=> acc || (b[key]||''), '');
+    return sortDirection * String(va).localeCompare(String(vb), undefined, {numeric:true, sensitivity:'base'});
+  });
+}
+
+function toggleSort(col){
+  if(sortColumn===col){
+    sortDirection = -sortDirection;
+  } else {
+    sortColumn = col;
+    sortDirection = 1;
+  }
+  renderPage(1);
+}
+
 function renderPage(page){
   currentPage = Math.max(1, Math.min(page, Math.ceil(filteredData.length / PAGE_SIZE) || 1));
+  const sorted = sortFilteredData();
   const start = (currentPage-1)*PAGE_SIZE;
-  const list = filteredData.slice(start, start + PAGE_SIZE);
+  const list = sorted.slice(start, start + PAGE_SIZE);
   renderTable(list);
   renderPager('pager-top');
   renderPager('pager-bottom');
@@ -100,10 +159,19 @@ function renderPage(page){
 
 function renderTable(data){
   const tbody = document.querySelector('#games tbody');
+  const thead = document.querySelector('#games thead');
   tbody.innerHTML='';
+  const selected = getSelectedColumns();
+  thead.innerHTML = '<tr>' + selected.map(col => {
+    const active = col===sortColumn ? ' active' : '';
+    const arrow = col===sortColumn ? (sortDirection===1 ? '▲' : '▼') : '⇅';
+    return `<th class="sortable${active}" data-col="${col}"><span class="header-label">${col}</span><span class="sort-indicator">${arrow}</span></th>`;
+  }).join('') + '</tr>';
+  document.querySelectorAll('#games thead th.sortable').forEach(th=>{
+    th.addEventListener('click',()=> toggleSort(th.dataset.col));
+  });
   const countEl = document.getElementById('count');
   countEl.textContent = `${filteredData.length.toLocaleString()} jeux — page ${currentPage} / ${Math.max(1, Math.ceil(filteredData.length / PAGE_SIZE))}`;
-  const selected = getSelectedColumns();
   for(const g of data){
     const tr = document.createElement('tr');
     // support both `uid` (old) and new `id` column; set both data attributes for compatibility
@@ -129,7 +197,16 @@ function renderTable(data){
 
 // Column controls
 const DISPLAY_COLUMNS = ['Title','Japanese title','Publisher & Editor','Serial','Date','Main Category','Sub Category'];
-const REQUIRED = new Set(['Title','Japanese title','Serial','Main Category','Sub Category']);
+
+function populatePublisherFilter(data, headers){
+  const sel = document.getElementById('publisher');
+  if(!headers.includes('Editeurs')) return;
+  const all = data.flatMap(d=> String(d['Editeurs']||'').split('/').map(entry=>entry.trim()).filter(Boolean));
+  const unique = uniq(all);
+  unique.sort((a,b)=> a.localeCompare(b, undefined, {sensitivity:'base'}));
+  unique.forEach(p=>{ const o=document.createElement('option'); o.value=p; o.textContent=p; sel.appendChild(o); });
+  sel.addEventListener('change',()=>{ applyFilters(); });
+}
 
 function setupColumnControls(headers){
   const container = document.getElementById('col-list');
@@ -141,7 +218,6 @@ function setupColumnControls(headers){
     label.style.display='inline-flex'; label.style.alignItems='center';
     const inp = document.createElement('input'); inp.type='checkbox'; inp.id = id;
     inp.checked = true;
-    if(REQUIRED.has(col)){ inp.disabled = true; inp.checked = true; }
     inp.addEventListener('change',()=> renderPage(1));
     const span = document.createElement('span'); span.textContent = ' ' + col;
     label.appendChild(inp); label.appendChild(span);
@@ -156,8 +232,6 @@ function getSelectedColumns(){
     const inp = document.getElementById(id);
     if(inp && inp.checked) sel.push(col);
   });
-  // ensure required are present
-  REQUIRED.forEach(r=>{ if(!sel.includes(r)) sel.unshift(r); });
   return sel;
 }
 
