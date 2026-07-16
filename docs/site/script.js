@@ -1,4 +1,4 @@
-// Minimal CSV parser and client-side pagination (50 items/page)
+// Minimal CSV parser and client-side list rendering
 
 function parseCSV(text){
   const rows = [];
@@ -25,8 +25,6 @@ function parseCSV(text){
 
 function uniq(arr){ return Array.from(new Set(arr)).filter(Boolean); }
 
-const PAGE_SIZE = 50;
-let currentPage = 1;
 let gamesData = [];
 let filteredData = [];
 let sortColumn = '';
@@ -58,7 +56,7 @@ async function loadAndRender(){
   populateCategoryFilter(data, headers);
   populatePublisherFilter(data, headers);
   setupSearch();
-  renderPage(1);
+  renderList();
 }
 
 function populateCategoryFilter(data, headers){
@@ -113,15 +111,17 @@ function applyFilters(){
     const keys = ['Titre en anglais','Titre en Japonais','Editeurs','Main Category','Sub Category'];
     return keys.some(k=> (g[k]||'').toLowerCase().includes(q));
   });
-  renderPage(1);
+  renderList();
 }
 
 function getSortKey(displayCol){
   if(displayCol==='Title') return ['Titre en anglais','Title'];
   if(displayCol==='Japanese title') return ['Titre en Japonais'];
   if(displayCol==='Publisher & Editor') return ['Editeurs'];
-  if(displayCol==='Serial') return ['Numéro de série','Serial'];
-  if(displayCol==='Date') return ['Date'];
+  if(displayCol==='Code JPN') return ['Code JPN'];
+  if(displayCol==='Code USA') return ['Code USA'];
+  if(displayCol==='Sortie JPN') return ['Sortie JPN'];
+  if(displayCol==='Sortie USA') return ['Sortie USA'];
   if(displayCol==='Main Category') return ['Main Category'];
   if(displayCol==='Sub Category') return ['Sub Category'];
   return [displayCol];
@@ -144,17 +144,12 @@ function toggleSort(col){
     sortColumn = col;
     sortDirection = 1;
   }
-  renderPage(1);
+  renderList();
 }
 
-function renderPage(page){
-  currentPage = Math.max(1, Math.min(page, Math.ceil(filteredData.length / PAGE_SIZE) || 1));
+function renderList(){
   const sorted = sortFilteredData();
-  const start = (currentPage-1)*PAGE_SIZE;
-  const list = sorted.slice(start, start + PAGE_SIZE);
-  renderTable(list);
-  renderPager('pager-top');
-  renderPager('pager-bottom');
+  renderTable(sorted);
 }
 
 function renderTable(data){
@@ -171,7 +166,7 @@ function renderTable(data){
     th.addEventListener('click',()=> toggleSort(th.dataset.col));
   });
   const countEl = document.getElementById('count');
-  countEl.textContent = `${filteredData.length.toLocaleString()} jeux — page ${currentPage} / ${Math.max(1, Math.ceil(filteredData.length / PAGE_SIZE))}`;
+  countEl.textContent = `${filteredData.length.toLocaleString()} jeux`;
   for(const g of data){
     const tr = document.createElement('tr');
     // support both `uid` (old) and new `id` column; set both data attributes for compatibility
@@ -184,8 +179,10 @@ function renderTable(data){
       if(col==='Title') val = g['Titre en anglais']||g['Title']||'';
       else if(col==='Japanese title') val = g['Titre en Japonais']||'';
       else if(col==='Publisher & Editor') val = g['Editeurs']||'';
-      else if(col==='Serial') val = g['Numéro de série']||g['Serial']||'';
-      else if(col==='Date') val = g['Date']||'';
+      else if(col==='Code JPN') val = g['Code JPN']||'';
+      else if(col==='Code USA') val = g['Code USA']||'';
+      else if(col==='Sortie JPN') val = g['Sortie JPN']||'';
+      else if(col==='Sortie USA') val = g['Sortie USA']||'';
       else if(col==='Main Category') val = g['Main Category']||'';
       else if(col==='Sub Category') val = g['Sub Category']||'';
       td.textContent = val;
@@ -196,7 +193,7 @@ function renderTable(data){
 }
 
 // Column controls
-const DISPLAY_COLUMNS = ['Title','Japanese title','Publisher & Editor','Serial','Date','Main Category','Sub Category'];
+const DISPLAY_COLUMNS = ['Title','Japanese title','Publisher & Editor','Code JPN','Code USA','Sortie JPN','Sortie USA','Main Category','Sub Category'];
 
 function populatePublisherFilter(data, headers){
   const sel = document.getElementById('publisher');
@@ -218,7 +215,7 @@ function setupColumnControls(headers){
     label.style.display='inline-flex'; label.style.alignItems='center';
     const inp = document.createElement('input'); inp.type='checkbox'; inp.id = id;
     inp.checked = true;
-    inp.addEventListener('change',()=> renderPage(1));
+    inp.addEventListener('change',()=> renderList());
     const span = document.createElement('span'); span.textContent = ' ' + col;
     label.appendChild(inp); label.appendChild(span);
     container.appendChild(label);
@@ -233,25 +230,6 @@ function getSelectedColumns(){
     if(inp && inp.checked) sel.push(col);
   });
   return sel;
-}
-
-function renderPager(containerId){
-  const container = document.getElementById(containerId);
-  if(!container) return;
-  container.innerHTML='';
-  const total = Math.max(1, Math.ceil(filteredData.length / PAGE_SIZE));
-  // Prev
-  const prev = document.createElement('button'); prev.textContent='◀'; prev.disabled = currentPage===1; prev.addEventListener('click',()=>renderPage(currentPage-1)); container.appendChild(prev);
-  // page window
-  const maxButtons = 9; // total numbered buttons to show
-  let start = Math.max(1, currentPage - Math.floor(maxButtons/2));
-  let end = start + maxButtons -1;
-  if(end>total){ end=total; start=Math.max(1,end-maxButtons+1); }
-  for(let p=start;p<=end;p++){
-    const b = document.createElement('button'); b.textContent = String(p); if(p===currentPage) b.classList.add('active'); b.addEventListener('click',()=>renderPage(p)); container.appendChild(b);
-  }
-  // Next
-  const next = document.createElement('button'); next.textContent='▶'; next.disabled = currentPage===total; next.addEventListener('click',()=>renderPage(currentPage+1)); container.appendChild(next);
 }
 
 loadAndRender().catch(console.error);
