@@ -1,11 +1,9 @@
 # Super Famicom - Games listing
 
 ## Sommaire | 🇬🇧 Table of contents | 🇯🇵 目次
-- [🇫🇷 Français](#-français--english--日本語)
-- [🇬🇧 English](#-anglais--english--英語)
-- [🇯🇵 日本語](#-japonais--japanese--日本語)
-
-## 🇫🇷 Français | 🇬🇧 English | 🇯🇵 日本語
+- [🇫🇷 Français](#-présentation)
+- [🇬🇧 English](#-overview)
+- [🇯🇵 日本語](#-概要)
 
 ### 🇫🇷 Présentation
 
@@ -17,8 +15,6 @@ Cependant, des erreurs peuvent encore être présentes. Les contributions sont d
 
 Si vous ne savez pas comment procéder mais souhaitez tout de même contribuer, vous pouvez me contacter à [laurent.tupin@gmail.com](mailto:laurent.tupin@gmail.com).
 
-### 🇫🇷 Anglais | 🇬🇧 English | 🇯🇵 英語
-
 ### 🇬🇧 Overview
 
 This repository contains a copy of the [`listing.csv`](docs/data/listing.csv) file as well as a static site in the `docs/` directory.
@@ -28,8 +24,6 @@ The CSV file was compiled from several websites. It has been corrected many time
 However, errors may still be present. Contributions are therefore welcome: you can propose changes via a pull request on this repository.
 
 If you are not sure how to proceed but still want to contribute, you can contact me at [laurent.tupin@gmail.com](mailto:laurent.tupin@gmail.com).
-
-### 🇫🇷 Japonais | 🇬🇧 Japanese | 🇯🇵 日本語
 
 ### 🇯🇵 概要
 
