@@ -1,496 +1,495 @@
-id,Titre en anglais,Titre en Japonais,Editeurs,Code JPN,Code USA,Sortie JPN,Sortie USA,Main Category,Sub Category
-0001,2020 Super Baseball,2020年 スーパーベースボール,ケイ・アミューズメントリース / エス・エヌ・ケイ / K. Amusement Leasing / SNK,SHVC-SA,SNS-SA,1993-03-12,1993-01-01,Sports,Baseball
-0002,3 Jigen Kakutou Ballz,3次元格闘ボールズ,メディアリング / Media Rings / PF.Magic,SHVC-ABZJ-JPN,SNS-ABZE-USA,1995-04-28,1995-04-27,Fighting,Versus
-0003,3x3 Eyes - Sazanaizu Jyumahoukan,3x3 EYES 〜獣魔奉還〜 [サザンアイズ（三只眼）],バンプレスト / バンプレ企画 / Banpresto,SHVC-A83J-JPN,,1995-12-22,,Aventure,
-0004,3x3 Eyes - Sazanaizu Seima Kourinden,3x3 EYES サザンアイズ（三只眼）聖魔降臨伝,バンダイ / ユタカ / Bandai / Yutaka,SHVC-33,,1992-07-28,,RPG,
-0005,4 Nin Shougi,4人将棋,プランニングオフィスワダ（パウ） / Planning Office WADA (POW),SHVC-AYSJ-JPN,,1995-07-14,,Table Game,Shougi
-0006,46 Okunen Monogatari - Harukanaru Eden he,46億年物語 —はるかなるエデンへ—,エニックス / ゲームプラン21 / アルマニック / Enix / Gameplan 21 / Almanic,SHVC-46,SNS-46,1992-12-21,1993-07-01,RPG,Action
-0007,ABC Monday Night Football,ABC マンデーナイトフットボール,データイースト / 空想科学 / Data East / Kuusoukagaku,SHVC-N5,SNS-N5,1993-11-26,1993-01-01,Sports,Football
-0008,Accele Brid,アクセルブリッド,トミー / 元気 / Tomy / Genki,SHVC-AY,,1993-11-26,,SHMUP,Behind
-0009,Ace o Nerae!,エースをねらえ！,日本テレネット / Telenet Japan,SHVC-EE,,1993-12-22,,Sports,Tennis
-0010,Acrobat Mission,アクロバットミッション,テイチク / ユー・ピー・エル / Teichiku / UPL,SHVC-2T,,1992-09-11,,SHMUP,Vertical
-0011,Action Pachio,アクションパチ夫,ココナッツ・ジャパン / Coconuts Japan,SHVC-PE,,1993-04-09,,Platformer,
-0012,ActRaiser,アクトレイザー,エニックス / クインテット / Enix / Quintet,SHVC-AR,SNS-AR-USA,1990-12-16,1991-11-01,RPG,Action
-0013,ActRaiser 2 - Chinmoku heno Seisen,アクトレイザー2 〜沈黙への聖戦〜,エニックス / クインテット / Enix / Quintet,SHVC-A8,SNS-A8-USA,1993-10-29,1993-11-01,RPG,Action
-0014,Advanced Dungeons & Dragons - Eye of the Beholder,AD&D アイ・オブ・ザ・ビホルダー,カプコン / Capcom / TSR,SHVC-IB,,1994-03-18,,RPG,First Person
-0015,Aguri Suzuki no F-1 Super Driving,鈴木亜久里のF-1スーパードライビング,ロジーク（ジー・アミューズメンツ） / LOZC G. Amusements / A. Company,SHVC-GF,,1992-07-17,,Racing,Formule 1
-0016,AIII S.V. - A Ressha de Ikou 3 Super Version,A III S.V. A列車で行こう3 スーパーバージョン,パック・イン・ビデオ / アートディンク / Pack-in-Video / Artdink,SHVC-ATGJ-JPN,,1995-09-29,,Strategy,
-0017,Air Management - Oozora ni Kakeru,エアーマネジメント 大空に賭ける,光栄 / Koei,SHVC-AL,,1992-04-05,,Strategy,Management
-0018,Air Management 2 - Koukuu Ou wo Mezase,エアーマネジメントII 航空王をめざせ,光栄 / Koei,SHVC-AG,,1993-04-02,,Strategy,Management
-0019,Akagawa Jirou Majotachi no Nemuri,魔女たちの眠り 赤川次郎,パック・イン・ビデオ / Pack-in-Video,SHVC-AAMJ-JPN,,1995-11-24,,Visual Novel,Horror
-0020,Akazukin Cha Cha,赤ずきんチャチャ,トミー / Tomy,SHVC-ACJJ-JPN,,1996-08-09,,RPG,
-0021,Akumajou Dracula,悪魔城ドラキュラ,コナミ / Konami,SHVC-AD,,1991-10-31,,Platformer,Action
-0022,Akumajou Dracula XX,ダブルエックス 悪魔城ドラキュラXX,コナミ / Konami,SHVC-ADZJ-JPN,SNS-ADZE-USA,1995-07-21,,Platformer,Action
-0023,Aladdin,アラジン,カプコン / Capcom,SHVC-RJ,SNS-RJ-USA,1993-11-26,1993-01-01,Platformer,
-0024,Albert Odyssey,アルバートオデッセイ,サンソフト（サン電子） / 東海エンジニアリング / Sunsoft (Sun Electronics) / Tokai Engineering,SHVC-AO,,1993-03-05,,RPG,
-0025,Albert Odyssey 2 - Jashin no Taidou,アルバートオデッセイ2 邪神の胎動,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-AO2J-JPN,,1994-12-22,,RPG,
-0026,Alcahest,アルカエスト,スクウェア / ハル研究所 / Square / HAL Laboratory,SHVC-LX,,1993-12-17,,Aventure,
-0027,Alice no Paint Adventure,アリスのペイントアドベンチャー,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-AALJ-JPN,,1995-09-15,,Art,Dessin
-0028,Alien 3,エイリアン3,アクレイムジャパン / Acclaim Japan / Probe,SHVC-A3,SNS-A3-USA,1993-07-09,1993-05-01,Platformer,
-0029,Alien vs. Predator,エイリアンVS.プレデター,アイ・ジー・エス / アクティビジョン / IGS (Information Global Service) / Activision,SHVC-AP,,1993-01-08,,Beat 'em All,
-0030,America Oudan Ultra Quiz,アメリカ横断ウルトラクイズ,トミー / Tomy,SHVC-UQ,,1992-11-20,,Quiz,
-0031,American Battle Dome,アメリカンバトルドーム,ツクダオリジナル / Tsukuda Original,SHVC-A5BJ-JPN,,1995-12-08,,Pinball,
-0032,Ancient Magic - Bazoo! Mahou Sekai,バズー！魔法世界,ホット・ビィ / HOT-B,SHVC-VM,,1993-07-23,,RPG,
-0033,Andre Agassi Tennis,アンドレ・アガシ テニス,日本物産（ニチブツ） / Nihon Bussan (Nichibutsu),SHVC-7A,SNS-7A,1994-03-31,1994-01-01,Sports,Tennis
-0034,Angelique,アンジェリーク,光栄 / Koei,SHVC-QE,,1994-09-23,,Strategy,
-0035,Angelique Voice Fantasy,アンジェリーク ヴォイス・ファンタジー with ボイサーくん,光栄 / Koei,SHVC-AQLJ-JPN,,1996-03-29,,Strategy,
-0036,Animal Buranden - Brutal,アニマル武乱伝 ブルータル,ケムコ（コトブキシステム） / Kemco / Eurocom / Cybersoft,SHVC-ABLJ-JPN,SNS-ABLE-USA,1994-12-22,1994-12-01,Fighting,Versus
-0037,Animaniacs,アニマニアクス,コナミ / Konami,SHVC-ANCJ-JPN,SNS-ANCE-USA,1997-03-07,1994-01-01,Platformer,
-0038,Aoki Densetsu Shoot!,蒼き伝説シュート！,ケイエスエス / KSS,SHVC-A3KJ-JPN,,1994-12-16,,Sports,Soccer
-0039,Appleseed - Prometheus no Shintaku,アップルシード プロメテウスの神託,ヴィジット / VISIT,SHVC-7X,,1994-08-26,,Beat 'em All,
-0040,Aqutallion,アクタリオン,テクモ / テクモソフトプロダクツ / Tecmo,SHVC-AQ,SNS-AQ,1993-11-05,1995-07-01,RPG,
-0041,Arabian Nights - Sabaku no Seirei Ou,アラビアンナイト 〜砂漠の精霊王〜,タカラ / パンドラボックス / Takara / Pandora Box,SHVC-AAJJ-JPN,,1996-06-14,,RPG,
-0042,Araiguma Rascal (Raccoon Rascal),あらいぐまラスカル,メサイヤ（日本コンピューターシステム） / Masiya (NCS),SHVC-R9,,1994-03-25,,Puzzle,Matching
-0043,Arcus Spirits,アークス・スピリッツ,サミー / ウルフチーム（日本テレネット） / Sammy / Telenet Japan (Wolfteam),SHVC-A4,,1993-10-22,,RPG,Action
-0044,Ardy Lightfoot,アルディライトフット,アスキー / ASCII,SHVC-A9,SNS-A9,1993-11-26,1996-02-01,Platformer,
-0045,Area 88,エリア88,カプコン / Capcom,SHVC-E8,SNS-E8,1991-07-26,1991-09-01,SHMUP,Horizontal
-0046,Aretha,アレサ,やのまん / 日本アートメディア / Yanoman / Japan Art Media (JAM),SHVC-YJ,,1993-11-26,,RPG,
-0047,Aretha 2 - Ariel no Fushigi na Bouken,アレサII アリエルの不思議な旅,やのまん / 日本アートメディア / Yanoman / Japan Art Media (JAM),SHVC-AREJ-JPN,,1994-12-02,,RPG,
-0048,Arkanoid - Doh It Again,アルカノイド,タイトー / Taito,SHVC-A6,SNS-A6,1997-01-15,1997-11-01,Arcade,Retro
-0049,Asahi Shinbun Rensai - Katou Ichi-Ni-San Shougi - Shingiryuu,朝日新聞連載 加藤一二三九段将棋 心技流,バリエ / Varie,SHVC-A23J-JPN,,1995-09-22,,Table Game,Shougi
-0050,Asameshimae Nyanko,あさめしまえにゃんこ,バンプレスト / ザムス / Banpresto / Zamuse / J-Force,SHVC-ZC,,1994-03-18,,Puzzle,
-0051,Ashita no Joe,あしたのジョー,ケイ・アミューズメントリース / K. Amusement Leasing,SHVC-AJ,,1992-11-27,,Sports,Boxing
-0052,Assault Suits Valken,重装機兵ヴァルケン,メサイヤ（日本コンピューターシステム） / Masiya (NCS),SHVC-AV,,1992-12-18,,Platformer,
-0053,Axelay,アクスレイ,コナミ / コナミ エンタテイメント / Konami,SHVC-AX,SNS-AX,1992-09-11,1992-09-01,SHMUP,Vertical
-0054,Bahamut Lagoon,バハムート ラグーン,スクウェア / Square,SHVC-AXBJ-JPN,,1996-02-09,,RPG,
-0055,Bakukyu Rennpatsu!! Super B-Daman,爆球連発！！スーパービーダマン,ハドソン / Hudson,SHVC-AAIJ-JPN,,1997-12-19,,Puzzle,
-0056,Bakumatsu Kourinden Oni,幕末降臨伝ONI,バンプレスト / パンドラボックス / Banpresto / Pandora Box,SHVC-A20J-JPN,,1996-02-02,,RPG,
-0057,Bakutou Dodgers - Bumps-Shima wa Oosawagi,爆投ドッチャーズ バンプス島は大さわぎ,ビー・ピー・エス / 元気 / Bullet-Proof Software / Genki,SHVC-ABDJ-JPN,,1994-10-28,,Puzzle,Bomberman
-0058,Ball Bullet Gun - Survival Game Simulation,ボール・ブレット・ガン サバイバルゲーム,アイマックス / I'MAX,SHVC-AAGJ-JPN,,1995-12-01,,Strategy,
-0059,Barbarossa,バルバロッサ,サミー / システムソフト / Sammy / System Soft,SHVC-BK,,1992-11-27,,Strategy,
-0060,Barkley's Power Dunk,バークレーのパワーダンク,デンズ（アイ・ティー・シー） / DEN'Z(ITC),SHVC-I7,,1994-09-30,,Sports,Basketball
-0061,Bass Masters Classic,バスマスターズ クラシック,アルトロン / Altron,SHVC-ABAJ-JPN,SNS-ABAE-USA,1995-07-28,1995-06-01,Sports,Pêche
-0062,Bastard!! - Ankoku no Hakaishin,バスタード！！ —暗黒の破壊神—,コブラチーム / バンダイ / Cobra Team / Bandai,SHVC-VC,,1994-01-28,,Fighting,Versus
-0063,Batman Forever,バットマン フォーエヴァー,アクレイムジャパン / Acclaim Japan / Probe Entertainment,SHVC-A3BJ-JPN,,1995-10-27,,Beat 'em All,
-0064,Batman Returns,バットマン リターンズ,コナミ / コナミ エンタテイメント / Konami,SHVC-BJ,SNS-BJ-USA,1993-02-26,1993-04-01,Beat 'em All,
-0065,Battle Blaze,バトルブレイズ,サミー / Sammy,SHVC-BZ,SNS-BZ,1992-05-01,1993-12-01,Fighting,Versus
-0066,Battle Commander - Hachibushu Shura no Heihou,バトルコマンダー 八武衆、修羅の兵法,バンプレスト / Banpresto,SHVC-BC,,1991-12-29,,Strategy,
-0067,Battle Cross,バトルクロス,イマジニアズーム / Imagineer-Zoom,SHVC-ABCJ-JPN,,1994-12-09,,Racing,Fun
-0068,Battle Dodgeball 2 Gundam,バトルドッジボールII,バンプレスト / Banpresto,SHVC-D2,,1993-07-23,,Sports,Dodgeball
-0069,Battle Dodgeball Gundam,バトルドッジボール,バンプレスト / Banpresto,SHVC-BD,,1991-07-20,,Sports,Dodgeball
-0070,Battle Grand Prix,バトルグランプリ,ナグザット / Naxat Soft,SHVC-BG,SNS-BG,1992-03-27,1993-04-01,Racing,Formule 1
-0071,Battle Jockey,バトルジョッキー,ヴァージンゲーム / ナムコ / Virgin Games / Namco,SHVC-AV2J-JPN,,1994-12-22,,Sports,Horse
-0072,Battle Master - Kyuukyoku no Senshitachi,バトル・マスター 究極の戦士たち,東芝EMI / Toshiba EMI / System Vision,SHVC-5B-(TOPN-2005),,1993-11-19,,Fighting,Versus
-0073,Battle Pinball,バトルピンボール,バンプレスト / Banpresto,SHVC-ABPJ-JPN,,1995-02-24,,Pinball,
-0074,Battle Racers,バトルレーサーズ,バンプレスト / Banpresto,SHVC-ACRJ-JPN,,1995-03-17,,Racing,Moto
-0075,Battle Robot Retsuden,バトルロボット烈伝,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-ABRJ-JPN,,1995-09-01,,Strategy,
-0076,Battle Soccer - Field no Hasha,バトルサッカー フィールドの覇者,バンプレスト / パンドラボックス / Banpresto / Pandora Box,SHVC-B8,,1992-12-11,,Sports,Soccer
-0077,Battle Soccer 2,バトルサッカー2,バンプレスト / パンドラボックス / Banpresto / Pandora Box,SHVC-ABSJ-JPN,,1994-11-25,,Sports,Soccer
-0078,Battle Submarine,バトルサブマリン,パック・イン・ビデオ / Pack-in-Video,SHVC-A5LJ-JPN,,1995-12-22,,Strategy,
-0079,Battle Tycoon - Flash Hiders SFX,バトルタイクーン,ライトスタッフ / Right Stuff,SHVC-AFHJ-JPN,,1995-05-19,,Fighting,Versus
-0080,Battle Zeque Den,バトル ゼクウ 伝,アスミック / Asmik,SHVC-ZQ,,1994-07-15,,Beat 'em All,
-0081,BattleTech,バトルテック,ビクター音楽産業 / Victor Musical Industries / Beam Software,SHVC-WM,,1993-02-26,,Simulation,Robot
-0082,BattleTech 3050,バトルテック3050,アスク講談社 / アクティビジョン / Ask Kodansha / Tiburon Entertainment / Activision,SHVC-A35J-JPN,SNS-A35E-USA,1996-02-23,,Shooter,360
-0083,Battletoads In Battlemaniacs,バトルトード イン バトルマニアック,メサイヤ（日本コンピューターシステム） / レア / Masiya (NCS) / RARE,SHVC-NX,SNS-NX,1994-01-07,1993-06-01,Beat 'em All,
-0084,Beauty and The Beast,美女と野獣,ハドソン / Hudson / Virgin,SHVC-EW,SNS-EW,1994-07-08,1994-01-01,Platformer,
-0085,Benkei Gaiden - Suna no Shou,すな 弁慶外伝 沙の章,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-BO,,1992-12-11,,RPG,
-0086,Best Shot Pro Golf,ベストショットプロゴルフ,アスキー / ASCII,SHVC-AG6J,,1996-06-14,,Sports,Golf
-0087,Big Ichigeki! Pachi Slot Daikoryaku 2 Universal Collection,ビッグ一撃！パチスロ大攻略2 ユニバーサル・コレクション,アスク講談社 / Ask Kodansha,SHVC-AUVJ-JPN,,1995-07-21,,Gambling,Pachinko
-0088,Big Ichigeki! Pachi-Slot Daikouryaku,ビッグ一撃！パチスロ大攻略,アスク講談社 / Ask Kodansha,SHVC-APDJ-JPN,,1994-12-16,,Gambling,Pachinko
-0089,Big Run - The Supreme 4WD Challenge,ビッグラン,ジャレコ / Jaleco,SHVC-BR,,1991-03-20,,Sports,Off Road Racing
-0090,Bike Daisuki - Hashiri ya Tamashii,バイク大好き！走り屋 魂,メサイヤ（日本コンピューターシステム） / 元気 / Masiya (NCS) / Genki,SHVC-ARSJ-JPN,,1994-09-30,,Racing,Moto
-0091,Bing Bing! Bingo,ビンビン！ビンゴ,ケイエスエス / KSS,SHVC-3K,,1993-12-22,,Gambling,Casino
-0092,Bio Metal,バイオメタル,アテナ / Athena,SHVC-BV,SNS-BV,1993-03-19,1993-01-01,SHMUP,Horizontal
-0093,Bishin Densetsu Zoku - The Legend of Bishin,美神伝説 Zoku,マジファクト / Magifact,SHVC-ZK,,1993-12-25,,Racing,Fun
-0094,Bishoujo Janshi Suchie-Pie,美少女雀士スーチーパイ,ジャレコ / デーシーイー / Jaleco / DCE,SHVC-JS,,1993-07-30,,Table Game,
-0095,Bishoujo Senshi Sailor Moon,美少女戦士セーラームーン,エンジェル / Angel,SHVC-AE,,1993-08-27,,Beat 'em All,
-0096,Bishoujo Senshi Sailor Moon - Another Story,美少女戦士セーラームーン アナザーストーリー,エンジェル / Angel,SHVC-AASJ,,1995-09-22,,RPG,
-0097,Bishoujo Senshi Sailor Moon R,美少女戦士セーラームーンR,バンダイ / Bandai,SHVC-2Q,,1993-12-29,,Beat 'em All,
-0098,Bishoujo Senshi Sailor Moon S - Jousai Rantou! Shuyaku Shudatsusen,美少女戦士セーラームーンS 場外乱闘！？主役争奪戦,エンジェル / Angel,SHVC-AQSJ-JPN-(V-941817),,1994-12-16,,Fighting,Versus
-0099,Bishoujo Senshi Sailor Moon S - Kondo ha Puzzle de Oshioki yo,美少女戦士セーラームーンS こんどはパズルでおしおきよ！！,バンダイ / トムクリエイト / Bandai / Tom Create,SHVC-3Q,,1994-07-15,,Puzzle,Matching
-0100,Bishoujo Senshi Sailor Moon S - Kurukku-rin,美少女戦士セーラームーンS くるっくりん,バンダイ/トムクリエイト / Bandai / Tom Create,SHVC-AILJ-JPN,,1995-02-24,,Puzzle,Matching
-0101,Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa Fuwa Panic 2,美少女戦士セーラームーン セーラースターズ 〜ふわふわパニック2,バンダイ / Bandai,SFT-0112-JPN,,1996-09-27,,Puzzle,
-0102,Bishoujo Senshi Sailor Moon Super S - Fuwa Fuwa Panic,美少女戦士セーラームーンSuper S ふわふわパニック,バンダイ / トムクリエイト / Bandai / Tom Create,SHVC-A9PJ-JPN,,1995-12-08,,Puzzle,Matching
-0103,Bishoujo Senshi Sailor Moon Super S - Zenin Sanka!! Shuyaku Soudatsusen,美少女戦士セーラームーン 全員参加！！主役争奪戦,エンジェル / Angel,SHVC-AJQJ-JPN,,1996-03-29,,Fighting,Versus
-0104,Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!!,美少女レスラー列伝 ブリザードYuki乱入！！,日本ソフトシステム / ケイエスエス / Nihon Soft System / KSS,SHVC-A3QJ-JPN,,1996-03-29,,Sports,Wrestling
-0105,Blackthorne - Fukushuu no Kuroki Kyoku,ブラックソーン 復讐の黒き棘,ケムコ（コトブキシステム） / Kemco / Blizzard Entertainment,SHVC-6Z,SNS-6Z,1995-08-11,1995-08-10,Aventure,
-0106,BlaZeon,ブレイゾン,アトラス / Atlus,SHVC-BL,SNS-BL,1992-07-24,1992-10-01,SHMUP,Horizontal
-0107,Block Kuzushi,ブロックくずし,プランニングオフィスワダ（パウ）/ エルステッド / Planning Office WADA (POW) / Orested,SHVC-AB8J-JPN,,1995-11-17,,Arcade,Breakout
-0108,Bokujou Monogatari,牧場物語,パック・イン・ビデオ / アムカス / Pack-in-Video / Amccus,SHVC-AYWJ-JPN,SNS-AYWE-USA,1996-08-09,,Simulation,Ferme
-0109,Bomberman B-Daman,ボンバーマン ビーダマン,ハドソン / Hudson,SHVC-AH9J-JPN,,1996-12-20,,Puzzle,Bomberman
-0110,Bombuzal,ボンバザル,ケムコ / コトブキシステム / Kemco / Mirror Soft,SHVC-BB,,1990-12-01,,Puzzle,
-0111,Bonkers - Hollywood Daisakusen!,ボンカーズ ハリウッド大作戦！,カプコン / Capcom,SHVC-ABNJ-JPN,,1995-01-03,,Platformer,
-0112,Bounty Sword,バウンティ・ソード,パイオニアLDC / ヘッドクォーターズ / Pioneer LDC / Head Quarters,SHVC-A2LJ-JPN,,1995-09-08,,RPG,
-0113,Brain Lord,ブレインロード,エニックス / オプス / プロデュース / Enix / Opus / Produce!,SHVC-3B,SNS-3B,1994-01-28,1994-09-01,RPG,Action
-0114,Brandish,ブランディッシュ,光栄 / 日本ファルコム / Koei / Falcom,SHVC-QF,SNS-QF,1994-06-25,1995-02-01,RPG,Action
-0115,Brandish 2 - Expert,ブランディッシュ2 エキスパート,光栄 / 日本ファルコム / Koei / Falcom,SHVC-AQIJ-JPN,,1996-03-15,,RPG,Action
-0116,Brandish 2 - The Planet Buster,ブランディッシュ2 ザ・プラネット・バスター,光栄 / 日本ファルコム / Koei / Falcom,SHVC-AQGJ-JPN,,1995-08-11,,RPG,Action
-0117,Breath of Fire - Ryuu no Senshi,ブレス・オブ・ファイア 竜の戦士,カプコン ステイタス / Capcom,SHVC-BF,SNS-BF,1993-04-03,1994-10-10,RPG,
-0118,Breath of Fire 2 - Shimei no Ko,ブレス オブ ファイアII —使命の子—,カプコン / Capcom,SHVC-AF2J-JPN,SNS-AF2E-USA,1994-12-02,1995-12-01,RPG,
-0119,Bugs Bunny Hachamecha Daibouken,ルーニー・テューンズ バックス・バニー はちゃめちゃ大冒険,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-R7,,1994-06-24,,Platformer,
-0120,Burai - Hachigyoku no Yuushi Densetsu,ブライ 「八玉の勇士伝説」,アイ・ジー・エス / パンドラボックス / リバーヒルソフト / IGS (Information Global Service) / Pandora Box / Riverhill Soft,SHVC-BI,,1993-01-14,,RPG,
-0121,Bushi Seiryuuden - Futari no Yuusha,Bushi 青龍伝 〜二人の勇者〜,ティーアンドイーソフト / ゲームフリーク / T&E Soft / Game Freak,SHVC-AYUJ-JPN,,1997-01-17,,RPG,Action
-0122,Cacoma Knight in Bizyland,カコマ☆ナイト,データム・ポリスター / Datam Polystar,SHVC-CC,SNS-CC,1992-11-21,1993-06-01,Puzzle,
-0123,California Games 2,カリフォルニアゲームズII,ヘクト / Hector / EPYX / Silicon Soecery,SHVC-H9,,1993-03-12,,Sports,
-0124,Cameltry,キャメルトライ,タイトー / Taito,SHVC-CT,,1992-06-26,,Puzzle,Arcade
-0125,Captain Commando,キャプテンコマンドー,カプコン / Capcom,SHVC-QM,SNS-QM,1995-03-17,1995-08-01,Beat 'em All,
-0126,Captain Tsubasa III - Koutei no Chousen,キャプテン翼III —皇帝の挑戦—,テクモ / Tecmo,SHVC-C3,,1992-07-17,,Sports,Soccer
-0127,Captain Tsubasa IV - Pro no Rival-tachi,キャプテン翼IV —プロのライバルたち—,テクモ / Tecmo,SHVC-T4,,1993-04-03,,Sports,Soccer
-0128,Captain Tsubasa J - The Way to World Youth,キャプテン翼J ザ ウェイ トゥ ワールドユース,バンダイ / Bandai,SHVC-ACVJ-JPN,,1995-11-17,,Sports,Soccer
-0129,Captain Tsubasa V - Hasha no Shougou Campione,キャプテン翼V 覇者の称号カンピオーネ,テクモ / Tecmo,SHVC-AC5J-JPN,,1994-12-09,,Sports,Soccer
-0130,Caravan Shooting Collection,キャラバン シューティングコレクション,ハドソン / テクモ / Hudson / Tecmo,SHVC-AS8J-JPN,,1995-07-07,,SHMUP,Vertical
-0131,Card Master - Rimusaria no Fuuin,カードマスター リムサリアの封印,ハル研究所（HALKEN） / HAL Laboratory,SHVC-RF,,1992-03-27,,RPG,
-0132,Carrier Aces,キャリアエース,ユーメディア（アローマ） / Yumedia (Aroma) / Gametek / Cybersoft,SHVC-ACAJ-JPN,SNS-ACAE-USA,1995-07-28,1995-07-27,Simulation,Avion
-0133,Casper,キャスパー,日本ソフトシステム / ケイエスエス / Nihon Soft System / KSS,SHVC-AC4J-JPN,SNS-AXCE-USA,1997-03-14,1996-12-01,Platformer,
-0134,CB Chara Wars - Ushinawareta Gag,CBキャラウォーズ 失われたギャ〜グ,バンプレスト / アルマニック / Banpresto / Almanic,SHVC-CV,,1992-08-28,,Beat 'em All,
-0135,Champions World Class Soccer,チャンピオンズ ワールドクラスサッカー,アクレイムジャパン / Acclaim Japan / Park Place Prodictions,SHVC-8W,SNS-8W,1994-03-25,1994-04-01,Sports,Soccer
-0136,Chaos Seed - Fuusui Kairouki,カオスシード 風水回廊記,タイトー / ネバーランド / Taito / Neverland,SHVC-AAHJ-JPN,,1996-03-15,,RPG,
-0137,Chibi Maruko Chan - Mezase! Minami no Island!!,ちびまる子ちゃん めざせ！南のアイランド！！,コナミ / Konami,SHVC-AT8J-JPN,,1995-12-01,,Puzzle,
-0138,Chibi Maruko-chan - Harikiri 365 Nichi no Maki,ちびまる子ちゃん「はりきり365日」の巻,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-GO,,1991-12-13,,Table Game,
-0139,Chinhai,陳牌,バンプレスト / バンプレ企画 / Banpresto,SHVC-APEJ-JPN,,1995-09-22,,Puzzle,
-0140,Choplifter 3 - Rescue Survive,チョップリフターIII,ビクターエンタテインメント / ブロダーバンド / Victor Entertainment / Beam Software / Broderbund,SHVC-3C,,1994-09-09,,SHMUP,Horizontal
-0141,Chou Mahou Tairiku Wozz,ウォズ 超魔法大陸WOZZ,ビー・ピー・エス / レッド / Bullet-Proof Software / RED,SHVC-AWOJ-JPN,,1995-08-04,,RPG,
-0142,Chou Makai Taisen! Doraboc Chan,超魔界大戦！どらぼっちゃん,ナグザット / レッド / Naxat Soft / RED,SHVC-DO,,1993-03-19,,RPG,Action
-0143,Chou Makaimura,超魔界村,カプコン / Capcom,SHVC-CM,,1991-10-04,,Platformer,Action
-0144,Chouaniki - Bakuretsu Rantou Hen,超兄貴 ~爆烈乱闘篇~,メサイヤ（日本コンピューターシステム） / Masiya (NCS),SHVC-AANJ-JPN,,1995-09-22,,Fighting,Versus
-0145,Choujikuu Yousai Macross - Scrambled Valkyrie,超時空要塞マクロス スクランブルバルキリー,バンプレスト / ザムス/ウィンキーソフト / Banpresto / Zamuse / Winkysoft,SHVC-M9,,1993-10-29,,SHMUP,Horizontal
-0146,Choukou Goukami Xardion,超攻合神 サーディオン,アスミック / Asmik,SHVC-XA,SNS-XA,1992-03-20,1992-01-01,Platformer,Action
-0147,Chrono Trigger,クロノ・トリガー,スクウェア / Square,SHVC-ACTJ-JPN,SNS-ACTE-USA,1995-03-11,1995-09-27,RPG,
-0148,Circuit USA,サーキットUSA,ヴァージンインタラクティブ エンターテインメント / Virgin Interactive Entertainment,SHVC-AKPJ-JPN,SNS-AKPE-USA,1995-06-30,,Racing,NASCAR
-0149,Civilization - Sekai Shichi Daibunmei,シヴィライゼーション 世界七大文明,アスミック / マイクロプローズ / Asmik / Micro Prose,SHVC-EQ,SNS-EQ,1994-10-07,,Simulation,Histoire
-0150,Classic Road,クラシック・ロード,ビクターエンタテインメント / イスコ/プログレス / Victor Entertainment / ISCO / Progress,SHVC-V7,,1993-10-29,,Sports,Horse
-0151,Classic Road 2,クラシックロードII,ビクターエンタテインメント / イスコ / プログレス / Victor Entertainment / ISCO / Progress,SHVC-AV5J-JPN,,1995-02-24,,Sports,Horse
-0152,Clock Tower,クロックタワー,ヒューマン / Human,SHVC-AJEJ-JPN,,1995-09-14,,Visual Novel,
-0153,Clock Works,クロックワークス,徳間ジャパンコミュニケーションズ / 徳間書店 / アクシズ アート アミューズ / Tokuma Japan Communications / Tokuma Shoten / Axes Art Amuse / Spectrum HoloByte,SHVC-AQWJ-JPN,,1995-12-08,,Puzzle,
-0154,Columns,コラムス,メディアファクトリー / マリーガル/セガ・エンタープライゼス / Media Factory / Marigul / Sega Enterprises,SHVC-BCLJ-JPN,,1999-08-01,,Puzzle,Matching
-0155,Computer Nouryoku Kaiseki - Ultra Baken,コンピューター能力解析 ウルトラ馬券,カルチャーブレーン / Culture Brain,SHVC-AUBJ-JPN,,1995-05-26,,Sports,Horse
-0156,Contra Spirits,魂斗羅スピリッツ（コントラ）,コナミ / コナミ エンタテイメント / Konami,SHVC-CS,,1992-02-28,,Run n' Gun,
-0157,Conveni Wars Barcode Battler Senki - Super Senshi Shutsugeki Seyo!,バーコードバトラー 戦記 スーパー戦士 出撃せよ！,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-B5,,1993-05-14,,Strategy,
-0158,Cool Spot,クールスポット,ヴァージンゲーム / Virgin Games,SHVC-C8,SNS-C8,1993-12-10,1993-09-01,Platformer,
-0159,Coron Land,ころんらんど,ユーメディア（アローマ） / Yumedia (Aroma),SHVC-ACLJ-JPN,,1995-08-25,,Puzzle,Action
-0160,Cosmo Gang - The Puzzle,コズモギャング ザ パズル,ナムコ / ナムコット / Namco / Namcot,SHVC-CI,,1993-02-26,,Puzzle,Tetris
-0161,Cosmo Gang - The Video,コズモギャング ザ ビデオ,ナムコ / ナムコット / Namco / Namcot,SHVC-CA,,1992-10-29,,Puzzle,Shooter
-0162,Cosmo Police Galivan 2 - Arrow of Justice,コスモポリス ギャリバン,日本物産（ニチブツ） / Nihon Bussan (Nichibutsu),SHVC-GI,,1993-06-11,,Beat 'em All,
-0163,Crayon Shin-chan - Arashi wo Yobu Enji,クレヨンしんちゃん ゛嵐を呼ぶ園児,バンダイ / Bandai,SHVC-KU,,1993-07-30,,Platformer,
-0164,Crayon Shin-chan 2 - Daimaou no Gyakushuu,クレヨンしんちゃん2 ゛大魔王の逆襲″,バンダイ / Bandai,SHVC-UE,,1994-05-27,,Platformer,
-0165,Crayon Shin-chan: Nagagutsu Dobon!!,クレヨンしんちゃん 長ぐつどぼん！！,バンダイ / Bandai,SFT-0113-JPN,,1996-09-27,,Puzzle,
-0166,Crystal Beans From Dungeon Explorer,クリスタルビーンズ フロムダンジョンエクスプローラ,ハドソン / Hudson,SHVC-AC3J-JPN,,1995-10-27,,RPG,Action
-0167,Cu-On-Pa,クオンパ,ティーアンドイーソフト / T&E Soft / Onesong,SHVC-AC6J-JPN,,1996-12-20,,Puzzle,
-0168,Cyber Knight,サイバーナイト,トンキンハウス（東京書籍） / グループSNE / Tonkin House (Tokyo Shoseki) / Group SNE,SHVC-CX,,1992-10-30,,RPG,
-0169,Cyber Knight II - Chikyuu Teikoku no Yabou,サイバーナイトII 地球帝国の野望,トンキンハウス（東京書籍） / グループSNE / アトリエドゥーブル / Tonkin House (Tokyo Shoseki) / Group SNE / Atelier Double,SHVC-CZ,,1994-08-26,,RPG,
-0170,Cyborg 009,サイボーグ009,ベック / Interbec,SHVC-S9,,1994-02-25,,Platformer,
-0171,Dai 3 Ji Super Robot Taisen,第3次 スーパーロボット大戦,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-RT,,1993-07-23,,Strategy,
-0172,Dai 4 Ji Super Robot Taisen,第4次 スーパーロボット大戦,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-AR4J-JPN,,1995-03-17,,Strategy,
-0173,Dai Bakushou Jinsei Gekijou,大爆笑 人生劇場,タイトー / Taito,SHVC-GH,,1992-12-25,,Table Game,
-0174,Dai Bakushou Jinsei Gekijou - Dokidoki Seishun Hen,大爆笑 人生劇場 〜ドキドキ青春編〜,タイトー / ディスコ / Taito / Disco,SHVC-G8,,1993-07-30,,Table Game,
-0175,Dai Bakushou Jinsei Gekijou - Ooedo Nikki,大爆笑 人生劇場 大江戸日記,タイトー / Taito,SHVC-AKKJ-JPN,,1994-11-25,,Table Game,
-0176,Dai Bakushou Jinsei Gekijou - Zukkoke Salary Man Hen,大爆笑 人生劇場 ずっこけサラリーマン編,タイトー / Taito,SHVC-AZSJ-JPN,,1995-12-29,,Table Game,
-0177,Dai Koukai Jidai 2,大航海時代II,光栄 / Koei,SHVC-QL,,1994-02-25,,Strategy,
-0178,Dai Senrya Ku Expert WWII - War in Europe,大戦略エキスパートWW II War In Europe,アスキー / システムソフト / ASCII / System Soft,SHVC-AEVJ-JPN,,1996-08-30,,Strategy,
-0179,Dai Senryaku Expert,大戦略エキスパート,アスキー / システムソフト / ASCII / System Soft,SHVC-GS,,1992-09-25,,Strategy,
-0180,Daikaijuu Monogatari,大貝獣物語,ハドソン / バースデイ / Hudson / Birthday,SHVC-ADKJ-JPN,,1994-12-22,,RPG,
-0181,Daikaijuu Monogatari II,大貝獣物語II,ハドソン / バースデイ / Hudson / Birthday,SHVC-AE6J-JPN,,1996-08-02,,RPG,
-0182,Darius Force,ダライアスフォース,タイトー / Taito,SHVC-DH,,1993-09-24,,SHMUP,Horizontal
-0183,Darius Twin,ダライアスツイン,タイトー / Taito,SHVC-DT,SNS-DT,1991-03-29,1991-01-01,SHMUP,Horizontal
-0184,Dark Half,ダークハーフ,エニックス / ウエストン / ティーズミュージック / Enix / Westone / T's Music,SHVC-AHLJ-JPN,,1996-05-31,,RPG,
-0185,Dark Kingdom,ダークキングダム,日本テレネット / Telenet Japan,SHVC-QA,,1994-04-29,,RPG,
-0186,Dark Law - Meaning Of Death,ダークロウ ミーニング・オブ・デス,アスキー / 酒田エス・エー・エス / ASCII / Sakata SAS,SHVC-ADUJ-JPN,,1997-03-28,,RPG,
-0187,Date Kimiko no Virtual Tennis,伊達公子のバーチャルテニス,ビーアイ / B-AI,SHVC-VI,,1994-05-13,,Sports,Tennis
-0188,David Crane's Amazing Tennis,アメージングテニス,パック・イン・ビデオ/エレクトロ・ブレイン / Pack-In-Video / Absolute Entertainment / Electro Brain,SHVC-ZT,SNS-ZT,1992-12-18,1992-01-01,Sports,Tennis
-0189,Dead Dance,デッド・ダンス,ジャレコ / Jaleco,SHVC-TE,,1993-03-26,,Beat 'em All,
-0190,Deae Tonosama Appare Ichiban,であえ殿さま あっぱれ一番,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-ADTJ-JPN,,1995-03-31,,Shooter,Vertical
-0191,Dear Boys,ディア・ボーイズ,ユタカ / Yutaka,SHVC-9Y,,1994-10-28,,Sports,Basketball
-0192,Death Brade,デスブレイド,アイマックス / データイースト / I'MAX / Data East,SHVC-DZ,,1993-07-16,,Sports,Wrestling
-0193,Dekitate High School,できたてハイスクール,ビー・ピー・エス / Bullet-Proof Software,SHVC-ADHJ-JPN,,1995-07-07,,Strategy,
-0194,Demon's Blazon - Makaimura Monshou Hen,デモンズ・ブレイゾン 魔界村 紋章編,カプコン / Capcom,SHVC-3Z,SNS-3Z,1994-10-21,,Platformer,
-0195,Densetsu no Ogre Battle - The March of the Black Queen,伝説のオウガバトル,クエスト / Quest,SHVC-OB,SNS-OB,1993-03-12,,RPG,
-0196,Der Langrisser,デア ラングリッサー,メサイヤ（日本コンピューターシステム） / Masiya (NCS),SHVC-ALGJ-JPN,,1995-06-30,,Strategy,
-0197,Derby Jockey - Kishu Ou he no Michi,ダービージョッキー 騎手王への道,アスミック / Asmik,SHVC-JQ,,1994-03-18,,Sports,Horse
-0198,Derby Jockey 2,ダービージョッキー2,アスミック / ミューズソフト / Asmik / Muse Soft,SHVC-A2DJ-JPN,,1995-09-29,,Sports,Horse
-0199,Derby Stallion '98,ダービースタリオン98,任天堂 / アスキー / パリティビット / Nintendo / ASCII / Parity Bit,SHVC-BDBJ-JPN,,1998-09-01,,Sports,Horse
-0200,Derby Stallion 96,ダービースタリオン96,アスキー / パリティビット / ASCII / Parity Bit,SHVC-ZDBJ-JPN,,1996-03-15,,Sports,Horse
-0201,Derby Stallion II,ダービースタリオンII,アスキー / パリティビット / ASCII / Parity Bit,SHVC-A7,,1994-02-18,,Sports,Horse
-0202,Derby Stallion III,ダービースタリオンIII,アスキー / パリティビット / ASCII / Parity Bit,SHVC-AD3J-JPN,,1995-01-20,,Sports,Horse
-0203,Desert Fighter - Suna no Arashi Sakusen,デザートファイター：砂の嵐作戦,セタ / オーパス / Seta / Opus,SHVC-OS,,1994-02-18,,Shooter,360
-0204,Desert Strike - Return to the Gulf,デザートストライク 湾岸作戦,エレクトロニック・アーツ・ビクター / Electronic Arts Victor / Visual Concepts,SHVC-RG,SNS-RG,1993-03-26,1993-01-01,Shooter,360
-0205,Destructive,デストラクティブ （スーパースコープ専用）,バンダイ / Bandai,SHVC-EA,,1993-08-27,,Shooter,Target
-0206,Dezaemon - Kaite Tsukutte Asoberu,デザエモン,アテナ / Athena,SHVC-66,,1994-09-20,,SHMUP,Vertical
-0207,Dharma Doujou,だるま道場,デンズ（アイ・ティー・シー） / DEN'Z(ITC) / Metro,SHVC-ADRJ-JPN,,1995-02-10,,Puzzle,Matching
-0208,Dimension Force,ディメンションフォース,アスミック / Asmik,SHVC-DF,,1991-12-20,,SHMUP,Vertical
-0209,Dino Wars - Kyouryuu Oukoku heno Daibouken,ダイナウォーズ 恐竜王国への大冒険,アイレム / IREM,SHVC-DW,,1992-07-17,,Platformer,
-0210,Disney's Toy Story,トイ・ストーリー,カプコン / ディズニーインタラクティブ / Capcom / Disney Interactive / Travellers Tales,SHVC-AQHJ-JPN,SNS-AQHE-USA,1996-04-26,,Platformer,
-0211,Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken,ドレミファンタジー ミロンのドキドキ大冒険,ハドソン / Hudson,SHVC-AM4J-JPN,,1996-03-22,,Platformer,
-0212,Dokapon 3・2・1 - Arashi o Yobu Yuujou,ドカポン3・2・1 〜嵐を呼ぶ友情〜,アスミック / Asmik,SHVC-AIXJ-JPN,,1994-12-02,,Table Game,
-0213,Dokapon Gaiden - Honoo no Audition,ドカポン外伝 炎のオーディション,アスミック / Asmik,SHVC-AGNJ-JPN,,1995-12-01,,Table Game,
-0214,Dokuritsu Sensou - Liberty Or Death,リバティ・オア・デス 独立戦争,光栄 / Koei,SHVC-QI,,1994-03-18,,Strategy,
-0215,Dolucky no A. League Soccer,ドラッキーのAりーぐさっかー,イマジニアズーム / Imagineer-Zoom,SHVC-Z7,,1994-07-08,,Sports,Soccer
-0216,Dolucky no Kusayakiu,ドラッキーの草やきう,イマジニアズーム / Imagineer-Zoom,SHVC-IM,,1993-12-17,,Sports,Baseball
-0217,Dolucky no Puzzle Tour '94,ドラッキーのパズルツアー'94,イマジニアズーム / Imagineer-Zoom,SHVC-AZ8J-JPN,,1994-10-28,,Puzzle,
-0218,Donald Duck - Mahou no Boushi,ドナルドダックの魔法のぼうし,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-ADDJ-JPN,,1995-08-11,,Platformer,
-0219,Donald no Maui Mallard,ドナルドダックのマウイマラード,カプコン / ディズニーインタラクティブ / Capcom / Disney Interactive / Eurocom,SHVC-AZBJ-JPN,SNS-AZBE-USA,1996-12-20,,Platformer,
-0220,Donkey Kong Country,スーパードンキーコング,任天堂 / レア / Nintendo / RARE,SHVC-8X-(G728314),SNS-8x,1994-11-26,1994-11-21,Platformer,
-0221,Donkey Kong Country 2 - Diddy's Kong Quest,スーパードンキーコング2 ディクシー ＆ ディディー,任天堂 / レア / Nintendo / RARE,SHVC-ADNJ-JPN (G740814),SNS-ADNE-USA,1995-11-21,,Platformer,
-0222,Donkey Kong Country 3 - Dixie Kong's Double Trouble,スーパードンキーコング3 謎のクレミス島,任天堂 / レア / Nintendo / RARE,SHVC-A3CJ-JPN,SNS-A3CE-USA,1996-11-23,,Platformer,
-0223,Doom,ドゥーム,イマジニアズーム / Imagineer-Zoom / ID Software / Sculptured Software,SHVC-AD8J-JPN,SNS-AD8E-USA,1996-03-01,1996-02-29,Shooter,First Person
-0224,Doraemon - Nobita to Yousei no Kuni,ドラえもん のび太と妖精の国,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-DR,,1993-02-19,,Platformer,
-0225,Doraemon 2 - Nobita no Toys Land Daibouken,ドラえもん2 のび太のトイズランド大冒険,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-2D,,1993-12-17,,Platformer,
-0226,Doraemon 3 - Nobita to Toki no Hougyoku,ドラえもん3 のび太と時の宝玉,エポック社 / Epoch,SHVC-4T,,1994-12-16,,Platformer,
-0227,Doraemon 4 - Nobita to Tsuki no Oukoku,ドラえもん4 のび太と月の王国,エポック社 / アジェンダ / Epoch / Agenda,SHVC-AD4J-JPN,,1995-12-15,,Platformer,
-0228,Dossun! Ganseki Battle,どっすん！岩石バトル,アイマックス / I'MAX,SHVC-ADGJ-JPN,,1994-12-16,,Puzzle,
-0229,Doukyuusei 2,同級生2,バンプレスト / エルフ / Banpresto / Elf,SHVC-A88J-JPN,,1997-12-01,,Visual Novel,Drague
-0230,Down The World - Mervil's Ambition,ダウン・ザ・ワールド,アスキー / ASCII,SHVC-W9,,1994-09-30,,RPG,
-0231,Downtown Nekketsu Baseball Monogatari - Baseball de Shoubu da! Kunio-kun,ダウンタウン熱血べーすぼーる物語 野球で勝負だ！くにおくん,テクノスジャパン / Technos Japan,SHVC-NV,,1993-12-17,,Sports,Baseball
-0232,Dr. Mario,ドクターマリオ,任天堂 / Nintendo,SHVC-BDMJ-JPN,,1998-06-01,,Puzzle,Matching
-0233,Dragon Ball Z - Hyper Dimension,ドラゴンボールZ ハイパーディメンション,バンダイ / Bandai,SHVC-AZIJ-JPN,,1996-03-29,,Fighting,Versus
-0234,Dragon Ball Z - Super Butouden,ドラゴンボールZ スーパーぶとうでん 超武闘伝,バンダイ / Bandai,SHVC-Z2,,1993-03-20,,Fighting,Versus
-0235,Dragon Ball Z - Super Butouden 2,ドラゴンボールZ 超武闘伝2,バンダイ / Bandai,SHVC-EF,,1993-12-17,,Fighting,Versus
-0236,Dragon Ball Z - Super Butouden 3,ドラゴンボールZ 超武闘伝3,バンダイ / Bandai,SHVC-AZ4J-JPN,,1994-09-29,,Fighting,Versus
-0237,Dragon Ball Z - Super Gokuu Den - Kakusei Hen,ドラゴンボールZ 超悟空伝 覚醒編,バンダイ / Bandai,SHVC-A2ZJ-JPN,,1995-09-22,,RPG,
-0238,Dragon Ball Z - Super Gokuu Den - Totsugeki Hen,ドラゴンボールZ 超悟空伝 突撃編,バンダイ / Bandai,SHVC-AZ5J-JPN,,1995-03-24,,RPG,
-0239,Dragon Ball Z - Super Saiya Densetsu,ドラゴンボールZ スーパー超サイヤ伝説,バンダイ / Bandai,SHVC-DB,,1992-01-25,,RPG,
-0240,Dragon Knight 4,ドラゴンナイトIV,バンプレスト / バンプレ企画 / エルフ / Banpresto / Elf,SHVC-A87J-JPN,,1996-12-27,,Strategy,
-0241,Dragon Quest 1 & 2,ドラゴンクエストI・II,エニックス / チュンソフト / Enix / Chun Soft,SHVC-DQ,,1993-12-18,,RPG,
-0242,Dragon Quest III - Soshite Densetsu he...,ドラゴンクエストIII そして伝説へ…,エニックス / ハートビート / Enix / Heartbeat,SHVC-AQ3J-JPN,,1996-12-06,,RPG,
-0243,Dragon Quest V - Tenkuu no Hanayome,ドラゴンクエストV 天空の花嫁,エニックス / チュンソフト / Enix / Chun Soft,SHVC-D5,,1992-09-27,,RPG,
-0244,Dragon Quest VI - Maboroshi no Daichi,ドラゴンクエストVI 幻の大地,エニックス / ハートビート / Enix / Heartbeat,SHVC-AQ6J-JPN,,1995-12-09,,RPG,
-0245,Dragon Slayer - Eiyuu Densetsu,ドラゴンスレイヤー英雄伝説,エポック社 / 日本ファルコム / Epoch / Falcom,SHVC-DS,,1992-02-14,,RPG,
-0246,Dragon Slayer - Eiyuu Densetsu 2,ドラゴンスレイヤー英雄伝説II,エポック社 / 日本ファルコム / Epoch / Falcom,SHVC-A2,,1993-06-04,,RPG,
-0247,Dragon's Earth,ドラゴンズ・アース,ヒューマン / フィールド / Human / Field,SHVC-DG,,1993-01-22,,Strategy,
-0248,Dragon's Magic (Dragon's Lair),ドラゴンズ マジック / ドラゴンズレア,コナミ / コナミ エンタテイメント / Konami / Motivetime Limited,SHVC-DI,,1993-06-25,,Aventure,QTE
-0249,Drakkhen,ドラッケン,ケムコ（コトブキシステム）/ インフォグラム / Kemco / Infogames,SHVC-DK,SNS-DK,1991-05-24,1991-09-01,RPG,First Person
-0250,Dream Basketball - Dunk & Hoop,ドリームバスケットボール ダンクアンドフープ,ヒューマン / Human,SHVC-ADBJ-JPN,,1994-11-18,,Sports,Basketball
-0251,Drift King Shutokou Battle '94,ドリフトキング 土屋圭市＆坂東正明 首都高バトル'94,ビー・ピー・エス / 元気 / Bullet-Proof Software / Genki,SHVC-94,,1994-05-27,,Sports,Street Racing
-0252,Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki,ドリフトキング 土屋圭市＆坂東正明 首都高バトル2,ビー・ピー・エス / 元気 / Bullet-Proof Software / Genki,SHVC-ASXJ-JPN,,1995-02-24,,Sports,Street Racing
-0253,Dual Orb - Seirei Tama Densetsu,デュアルオーブ 聖霊珠伝説,アイマックス / I'MAX,SHVC-DX,,1993-04-16,,RPG,
-0254,Dual Orb 2,デュアルオーブII,アイマックス / I'MAX,SHVC-AD2J-JPN,,1994-12-29,,RPG,
-0255,Dun Quest - Majin Fuuin no Densetsu,ダンクエスト 魔人封印の伝説,テクノスジャパン / 日本アプリケーション / Technos Japan,SHVC-AD9J-JPN,,1995-07-21,,RPG,
-0256,Dungeon Master,ダンジョンマスター,ビクター音楽産業 / Victor Musical Industries / Software Heaven / FTL Games,SHVC-V2,SNS-V2,1991-12-20,1993-01-01,RPG,First Person
-0257,Dynamaite - The Las Vegas,ダイナマイト・ザ・ラスベガス,ヴァージンゲーム / Virgin Games,SHVC-VQ,,1994-04-28,,Gambling,Casino
-0258,Dynamic Stadium,ダイナミック スタジアム,サミー / Sammy,SHVC-YD,,1993-11-26,,Sports,Baseball
-0259,Earth Light 2 - Luna Strike,アースライト ルナ・ストライク,ハドソン / Hudson,SHVC-AE5J-JPN,,1996-07-26,,Strategy,
-0260,Earth Light: Anime-tic Space War Game,アースライト,ハドソン / Hudson,SHVC-H3,,1992-07-24,,Strategy,
-0261,Earthworm Jim,アースワーム・ジム,タカラ / Takara / Playmates Interactive Entertainment / Shiny Entertainment,SHVC-AEJJ-JPN,SNS-AEJE-USA,1995-06-23,1994-06-22,Platformer,
-0262,Edo no Kiba,エドノ 牙,マイクロワールド/ライオット（日本テレネット） / Micro World / Riot (Telenet Japan),SHVC-EK,,1993-03-12,,Beat 'em All,
-0263,Eien no Filerna,永遠のフィレーナ,徳間ジャパンコミュニケーションズ / 徳間書店インターメディア / Tokuma Japan Communications / Tokuma Shoten Intermedia,SHVC-AFLJ-JPN,,1995-02-25,,RPG,
-0264,Elfaria - A Fantastic Theater,エルファリア,ハドソン / Hudson,SHVC-H5,,1993-01-03,,RPG,
-0265,Elfaria II - The Quest of the Meld,エルファリアII ザ・クエスト・オブ・ザ・メルド,ハドソン / レッド / Hudson / RED,SHVC-AEFJ-JPN,,1995-06-09,,RPG,
-0266,Elnard,エルナード,エニックス / ゲームプラン21 / プロデュース / Enix / Gameplan 21 / Produce!,SHVC-EL,,1993-04-23,,RPG,
-0267,Emerald Dragon,エメラルドドラゴン,メディアワークス / アルファ・システム / グローディア / ライトスタッフ / Media Works / Alfa System / Glodia / Right Stuff,SHVC-AMWJ-JPN,,1995-07-28,,RPG,Action
-0268,EMIT Vol. 1 - Toki no Maigo,エミット Vol.1 時の迷子,光栄 / Koei,SHVC-AEMJ-JPN,,1995-03-25,,Visual Novel,
-0269,EMIT Vol. 2 - Inochigake no Tabi,エミット Vol.2 命がけの旅,光栄 / Koei,SHVC-AEIJ-JPN,,1995-03-25,,Visual Novel,
-0270,EMIT Vol. 3 - Watashi ni Sayonara wo,エミット Vol.3 私にさよならを,光栄 / Koei,SHVC-AETJ-JPN,,1995-03-25,,Visual Novel,
-0271,Energy Breaker,エナジーブレイカー,タイトー / ネバーランド / Taito / Neverland,SHVC-AZLJ-JPN,,1996-07-26,,RPG,
-0272,Esparks - Ijikuu Kara no Raihousha,エスパークス 異次空からの来訪者,トミー / Tomy,SHVC-EP,,1995-03-31,,RPG,Action
-0273,Estpolis Denki,エストポリス伝記,タイトー / ディスコ/ネバーランド / Taito / Disco / Neverland,SHVC-ES,,1993-06-25,,RPG,
-0274,Estpolis Denki II,エストポリス伝記II,タイトー / ネバーランド / Taito / Neverland,SHVC-ANIJ-JPN,SNS-ANIE-USA,1995-02-24,,RPG,
-0275,Europe Sensen,ヨーロッパ戦線,光栄 / Koei,SHVC-YP,,1993-01-16,,Strategy,Turn Based
+0001,Titre en anglais,Titre en Japonais,Editeurs,Code JPN,Code USA,Sortie JPN,Sortie USA,Main Category,Sub Category
+0002,2020 Super Baseball,2020年 スーパーベースボール,ケイ・アミューズメントリース / エス・エヌ・ケイ / K. Amusement Leasing / SNK,SHVC-SA,SNS-SA,1993-03-12,1993-01-01,Sports,Baseball
+0003,3 Jigen Kakutou Ballz,3次元格闘ボールズ,メディアリング / Media Rings / PF.Magic,SHVC-ABZJ-JPN,SNS-ABZE-USA,1995-04-28,1995-04-27,Fighting,Versus
+0004,3x3 Eyes - Sazanaizu Jyumahoukan,3x3 EYES 〜獣魔奉還〜 [サザンアイズ（三只眼）],バンプレスト / バンプレ企画 / Banpresto,SHVC-A83J-JPN,,1995-12-22,,Aventure,
+0005,3x3 Eyes - Sazanaizu Seima Kourinden,3x3 EYES サザンアイズ（三只眼）聖魔降臨伝,バンダイ / ユタカ / Bandai / Yutaka,SHVC-33,,1992-07-28,,RPG,
+0006,4 Nin Shougi,4人将棋,プランニングオフィスワダ（パウ） / Planning Office WADA (POW),SHVC-AYSJ-JPN,,1995-07-14,,Table Game,Shougi
+0007,46 Okunen Monogatari - Harukanaru Eden he,46億年物語 —はるかなるエデンへ—,エニックス / ゲームプラン21 / アルマニック / Enix / Gameplan 21 / Almanic,SHVC-46,SNS-46,1992-12-21,1993-07-01,RPG,Action
+0008,ABC Monday Night Football,ABC マンデーナイトフットボール,データイースト / 空想科学 / Data East / Kuusoukagaku,SHVC-N5,SNS-N5,1993-11-26,1993-01-01,Sports,Football
+0009,Accele Brid,アクセルブリッド,トミー / 元気 / Tomy / Genki,SHVC-AY,,1993-11-26,,SHMUP,Behind
+0010,Ace o Nerae!,エースをねらえ！,日本テレネット / Telenet Japan,SHVC-EE,,1993-12-22,,Sports,Tennis
+0011,Acrobat Mission,アクロバットミッション,テイチク / ユー・ピー・エル / Teichiku / UPL,SHVC-2T,,1992-09-11,,SHMUP,Vertical
+0012,Action Pachio,アクションパチ夫,ココナッツ・ジャパン / Coconuts Japan,SHVC-PE,,1993-04-09,,Platformer,
+0013,ActRaiser,アクトレイザー,エニックス / クインテット / Enix / Quintet,SHVC-AR,SNS-AR-USA,1990-12-16,1991-11-01,RPG,Action
+0014,ActRaiser 2 - Chinmoku heno Seisen,アクトレイザー2 〜沈黙への聖戦〜,エニックス / クインテット / Enix / Quintet,SHVC-A8,SNS-A8-USA,1993-10-29,1993-11-01,RPG,Action
+0015,Advanced Dungeons & Dragons - Eye of the Beholder,AD&D アイ・オブ・ザ・ビホルダー,カプコン / Capcom / TSR,SHVC-IB,,1994-03-18,,RPG,First Person
+0016,Aguri Suzuki no F-1 Super Driving,鈴木亜久里のF-1スーパードライビング,ロジーク（ジー・アミューズメンツ） / LOZC G. Amusements / A. Company,SHVC-GF,,1992-07-17,,Racing,Formule 1
+0017,AIII S.V. - A Ressha de Ikou 3 Super Version,A III S.V. A列車で行こう3 スーパーバージョン,パック・イン・ビデオ / アートディンク / Pack-in-Video / Artdink,SHVC-ATGJ-JPN,,1995-09-29,,Strategy,
+0018,Air Management - Oozora ni Kakeru,エアーマネジメント 大空に賭ける,光栄 / Koei,SHVC-AL,,1992-04-05,,Strategy,Management
+0019,Air Management 2 - Koukuu Ou wo Mezase,エアーマネジメントII 航空王をめざせ,光栄 / Koei,SHVC-AG,,1993-04-02,,Strategy,Management
+0020,Akagawa Jirou Majotachi no Nemuri,魔女たちの眠り 赤川次郎,パック・イン・ビデオ / Pack-in-Video,SHVC-AAMJ-JPN,,1995-11-24,,Visual Novel,Horror
+0021,Akazukin Cha Cha,赤ずきんチャチャ,トミー / Tomy,SHVC-ACJJ-JPN,,1996-08-09,,RPG,
+0022,Akumajou Dracula,悪魔城ドラキュラ,コナミ / Konami,SHVC-AD,,1991-10-31,,Platformer,Action
+0023,Akumajou Dracula XX,ダブルエックス 悪魔城ドラキュラXX,コナミ / Konami,SHVC-ADZJ-JPN,SNS-ADZE-USA,1995-07-21,,Platformer,Action
+0024,Aladdin,アラジン,カプコン / Capcom,SHVC-RJ,SNS-RJ-USA,1993-11-26,1993-01-01,Platformer,
+0025,Albert Odyssey,アルバートオデッセイ,サンソフト（サン電子） / 東海エンジニアリング / Sunsoft (Sun Electronics) / Tokai Engineering,SHVC-AO,,1993-03-05,,RPG,
+0026,Albert Odyssey 2 - Jashin no Taidou,アルバートオデッセイ2 邪神の胎動,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-AO2J-JPN,,1994-12-22,,RPG,
+0027,Alcahest,アルカエスト,スクウェア / ハル研究所 / Square / HAL Laboratory,SHVC-LX,,1993-12-17,,Aventure,
+0028,Alice no Paint Adventure,アリスのペイントアドベンチャー,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-AALJ-JPN,,1995-09-15,,Art,Dessin
+0029,Alien 3,エイリアン3,アクレイムジャパン / Acclaim Japan / Probe,SHVC-A3,SNS-A3-USA,1993-07-09,1993-05-01,Platformer,
+0030,Alien vs. Predator,エイリアンVS.プレデター,アイ・ジー・エス / アクティビジョン / IGS (Information Global Service) / Activision,SHVC-AP,,1993-01-08,,Beat 'em All,
+0031,America Oudan Ultra Quiz,アメリカ横断ウルトラクイズ,トミー / Tomy,SHVC-UQ,,1992-11-20,,Quiz,
+0032,American Battle Dome,アメリカンバトルドーム,ツクダオリジナル / Tsukuda Original,SHVC-A5BJ-JPN,,1995-12-08,,Pinball,
+0033,Ancient Magic - Bazoo! Mahou Sekai,バズー！魔法世界,ホット・ビィ / HOT-B,SHVC-VM,,1993-07-23,,RPG,
+0034,Andre Agassi Tennis,アンドレ・アガシ テニス,日本物産（ニチブツ） / Nihon Bussan (Nichibutsu),SHVC-7A,SNS-7A,1994-03-31,1994-01-01,Sports,Tennis
+0035,Angelique,アンジェリーク,光栄 / Koei,SHVC-QE,,1994-09-23,,Strategy,
+0036,Angelique Voice Fantasy,アンジェリーク ヴォイス・ファンタジー with ボイサーくん,光栄 / Koei,SHVC-AQLJ-JPN,,1996-03-29,,Strategy,
+0037,Animal Buranden - Brutal,アニマル武乱伝 ブルータル,ケムコ（コトブキシステム） / Kemco / Eurocom / Cybersoft,SHVC-ABLJ-JPN,SNS-ABLE-USA,1994-12-22,1994-12-01,Fighting,Versus
+0038,Animaniacs,アニマニアクス,コナミ / Konami,SHVC-ANCJ-JPN,SNS-ANCE-USA,1997-03-07,1994-01-01,Platformer,
+0039,Aoki Densetsu Shoot!,蒼き伝説シュート！,ケイエスエス / KSS,SHVC-A3KJ-JPN,,1994-12-16,,Sports,Soccer
+0040,Appleseed - Prometheus no Shintaku,アップルシード プロメテウスの神託,ヴィジット / VISIT,SHVC-7X,,1994-08-26,,Beat 'em All,
+0041,Aqutallion,アクタリオン,テクモ / テクモソフトプロダクツ / Tecmo,SHVC-AQ,SNS-AQ,1993-11-05,1995-07-01,RPG,
+0042,Arabian Nights - Sabaku no Seirei Ou,アラビアンナイト 〜砂漠の精霊王〜,タカラ / パンドラボックス / Takara / Pandora Box,SHVC-AAJJ-JPN,,1996-06-14,,RPG,
+0043,Araiguma Rascal (Raccoon Rascal),あらいぐまラスカル,メサイヤ（日本コンピューターシステム） / Masiya (NCS),SHVC-R9,,1994-03-25,,Puzzle,Matching
+0044,Arcus Spirits,アークス・スピリッツ,サミー / ウルフチーム（日本テレネット） / Sammy / Telenet Japan (Wolfteam),SHVC-A4,,1993-10-22,,RPG,Action
+0045,Ardy Lightfoot,アルディライトフット,アスキー / ASCII,SHVC-A9,SNS-A9,1993-11-26,1996-02-01,Platformer,
+0046,Area 88,エリア88,カプコン / Capcom,SHVC-E8,SNS-E8,1991-07-26,1991-09-01,SHMUP,Horizontal
+0047,Aretha,アレサ,やのまん / 日本アートメディア / Yanoman / Japan Art Media (JAM),SHVC-YJ,,1993-11-26,,RPG,
+0048,Aretha 2 - Ariel no Fushigi na Bouken,アレサII アリエルの不思議な旅,やのまん / 日本アートメディア / Yanoman / Japan Art Media (JAM),SHVC-AREJ-JPN,,1994-12-02,,RPG,
+0049,Arkanoid - Doh It Again,アルカノイド,タイトー / Taito,SHVC-A6,SNS-A6,1997-01-15,1997-11-01,Arcade,Retro
+0050,Asahi Shinbun Rensai - Katou Ichi-Ni-San Shougi - Shingiryuu,朝日新聞連載 加藤一二三九段将棋 心技流,バリエ / Varie,SHVC-A23J-JPN,,1995-09-22,,Table Game,Shougi
+0051,Asameshimae Nyanko,あさめしまえにゃんこ,バンプレスト / ザムス / Banpresto / Zamuse / J-Force,SHVC-ZC,,1994-03-18,,Puzzle,
+0052,Ashita no Joe,あしたのジョー,ケイ・アミューズメントリース / K. Amusement Leasing,SHVC-AJ,,1992-11-27,,Sports,Boxing
+0053,Assault Suits Valken,重装機兵ヴァルケン,メサイヤ（日本コンピューターシステム） / Masiya (NCS),SHVC-AV,,1992-12-18,,Platformer,
+0054,Axelay,アクスレイ,コナミ / コナミ エンタテイメント / Konami,SHVC-AX,SNS-AX,1992-09-11,1992-09-01,SHMUP,Vertical
+0055,Bahamut Lagoon,バハムート ラグーン,スクウェア / Square,SHVC-AXBJ-JPN,,1996-02-09,,RPG,
+0056,Bakukyu Rennpatsu!! Super B-Daman,爆球連発！！スーパービーダマン,ハドソン / Hudson,SHVC-AAIJ-JPN,,1997-12-19,,Puzzle,
+0057,Bakumatsu Kourinden Oni,幕末降臨伝ONI,バンプレスト / パンドラボックス / Banpresto / Pandora Box,SHVC-A20J-JPN,,1996-02-02,,RPG,
+0058,Bakutou Dodgers - Bumps-Shima wa Oosawagi,爆投ドッチャーズ バンプス島は大さわぎ,ビー・ピー・エス / 元気 / Bullet-Proof Software / Genki,SHVC-ABDJ-JPN,,1994-10-28,,Puzzle,Bomberman
+0059,Ball Bullet Gun - Survival Game Simulation,ボール・ブレット・ガン サバイバルゲーム,アイマックス / I'MAX,SHVC-AAGJ-JPN,,1995-12-01,,Strategy,
+0060,Barbarossa,バルバロッサ,サミー / システムソフト / Sammy / System Soft,SHVC-BK,,1992-11-27,,Strategy,
+0061,Barkley's Power Dunk,バークレーのパワーダンク,デンズ（アイ・ティー・シー） / DEN'Z(ITC),SHVC-I7,,1994-09-30,,Sports,Basketball
+0062,Bass Masters Classic,バスマスターズ クラシック,アルトロン / Altron,SHVC-ABAJ-JPN,SNS-ABAE-USA,1995-07-28,1995-06-01,Sports,Pêche
+0063,Bastard!! - Ankoku no Hakaishin,バスタード！！ —暗黒の破壊神—,コブラチーム / バンダイ / Cobra Team / Bandai,SHVC-VC,,1994-01-28,,Fighting,Versus
+0064,Batman Forever,バットマン フォーエヴァー,アクレイムジャパン / Acclaim Japan / Probe Entertainment,SHVC-A3BJ-JPN,,1995-10-27,,Beat 'em All,
+0065,Batman Returns,バットマン リターンズ,コナミ / コナミ エンタテイメント / Konami,SHVC-BJ,SNS-BJ-USA,1993-02-26,1993-04-01,Beat 'em All,
+0066,Battle Blaze,バトルブレイズ,サミー / Sammy,SHVC-BZ,SNS-BZ,1992-05-01,1993-12-01,Fighting,Versus
+0067,Battle Commander - Hachibushu Shura no Heihou,バトルコマンダー 八武衆、修羅の兵法,バンプレスト / Banpresto,SHVC-BC,,1991-12-29,,Strategy,
+0068,Battle Cross,バトルクロス,イマジニアズーム / Imagineer-Zoom,SHVC-ABCJ-JPN,,1994-12-09,,Racing,Fun
+0069,Battle Dodgeball 2 Gundam,バトルドッジボールII,バンプレスト / Banpresto,SHVC-D2,,1993-07-23,,Sports,Dodgeball
+0070,Battle Dodgeball Gundam,バトルドッジボール,バンプレスト / Banpresto,SHVC-BD,,1991-07-20,,Sports,Dodgeball
+0071,Battle Grand Prix,バトルグランプリ,ナグザット / Naxat Soft,SHVC-BG,SNS-BG,1992-03-27,1993-04-01,Racing,Formule 1
+0072,Battle Jockey,バトルジョッキー,ヴァージンゲーム / ナムコ / Virgin Games / Namco,SHVC-AV2J-JPN,,1994-12-22,,Sports,Horse
+0073,Battle Master - Kyuukyoku no Senshitachi,バトル・マスター 究極の戦士たち,東芝EMI / Toshiba EMI / System Vision,SHVC-5B-(TOPN-2005),,1993-11-19,,Fighting,Versus
+0074,Battle Pinball,バトルピンボール,バンプレスト / Banpresto,SHVC-ABPJ-JPN,,1995-02-24,,Pinball,
+0075,Battle Racers,バトルレーサーズ,バンプレスト / Banpresto,SHVC-ACRJ-JPN,,1995-03-17,,Racing,Moto
+0076,Battle Robot Retsuden,バトルロボット烈伝,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-ABRJ-JPN,,1995-09-01,,Strategy,
+0077,Battle Soccer - Field no Hasha,バトルサッカー フィールドの覇者,バンプレスト / パンドラボックス / Banpresto / Pandora Box,SHVC-B8,,1992-12-11,,Sports,Soccer
+0078,Battle Soccer 2,バトルサッカー2,バンプレスト / パンドラボックス / Banpresto / Pandora Box,SHVC-ABSJ-JPN,,1994-11-25,,Sports,Soccer
+0079,Battle Submarine,バトルサブマリン,パック・イン・ビデオ / Pack-in-Video,SHVC-A5LJ-JPN,,1995-12-22,,Strategy,
+0080,Battle Tycoon - Flash Hiders SFX,バトルタイクーン,ライトスタッフ / Right Stuff,SHVC-AFHJ-JPN,,1995-05-19,,Fighting,Versus
+0081,Battle Zeque Den,バトル ゼクウ 伝,アスミック / Asmik,SHVC-ZQ,,1994-07-15,,Beat 'em All,
+0082,BattleTech,バトルテック,ビクター音楽産業 / Victor Musical Industries / Beam Software,SHVC-WM,,1993-02-26,,Simulation,Robot
+0083,BattleTech 3050,バトルテック3050,アスク講談社 / アクティビジョン / Ask Kodansha / Tiburon Entertainment / Activision,SHVC-A35J-JPN,SNS-A35E-USA,1996-02-23,,Shooter,360
+0084,Battletoads In Battlemaniacs,バトルトード イン バトルマニアック,メサイヤ（日本コンピューターシステム） / レア / Masiya (NCS) / RARE,SHVC-NX,SNS-NX,1994-01-07,1993-06-01,Beat 'em All,
+0085,Beauty and The Beast,美女と野獣,ハドソン / Hudson / Virgin,SHVC-EW,SNS-EW,1994-07-08,1994-01-01,Platformer,
+0086,Benkei Gaiden - Suna no Shou,すな 弁慶外伝 沙の章,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-BO,,1992-12-11,,RPG,
+0087,Best Shot Pro Golf,ベストショットプロゴルフ,アスキー / ASCII,SHVC-AG6J,,1996-06-14,,Sports,Golf
+0088,Big Ichigeki! Pachi Slot Daikoryaku 2 Universal Collection,ビッグ一撃！パチスロ大攻略2 ユニバーサル・コレクション,アスク講談社 / Ask Kodansha,SHVC-AUVJ-JPN,,1995-07-21,,Gambling,Pachinko
+0089,Big Ichigeki! Pachi-Slot Daikouryaku,ビッグ一撃！パチスロ大攻略,アスク講談社 / Ask Kodansha,SHVC-APDJ-JPN,,1994-12-16,,Gambling,Pachinko
+0090,Big Run - The Supreme 4WD Challenge,ビッグラン,ジャレコ / Jaleco,SHVC-BR,,1991-03-20,,Sports,Off Road Racing
+0091,Bike Daisuki - Hashiri ya Tamashii,バイク大好き！走り屋 魂,メサイヤ（日本コンピューターシステム） / 元気 / Masiya (NCS) / Genki,SHVC-ARSJ-JPN,,1994-09-30,,Racing,Moto
+0092,Bing Bing! Bingo,ビンビン！ビンゴ,ケイエスエス / KSS,SHVC-3K,,1993-12-22,,Gambling,Casino
+0093,Bio Metal,バイオメタル,アテナ / Athena,SHVC-BV,SNS-BV,1993-03-19,1993-01-01,SHMUP,Horizontal
+0094,Bishin Densetsu Zoku - The Legend of Bishin,美神伝説 Zoku,マジファクト / Magifact,SHVC-ZK,,1993-12-25,,Racing,Fun
+0095,Bishoujo Janshi Suchie-Pie,美少女雀士スーチーパイ,ジャレコ / デーシーイー / Jaleco / DCE,SHVC-JS,,1993-07-30,,Table Game,
+0096,Bishoujo Senshi Sailor Moon,美少女戦士セーラームーン,エンジェル / Angel,SHVC-AE,,1993-08-27,,Beat 'em All,
+0097,Bishoujo Senshi Sailor Moon - Another Story,美少女戦士セーラームーン アナザーストーリー,エンジェル / Angel,SHVC-AASJ,,1995-09-22,,RPG,
+0098,Bishoujo Senshi Sailor Moon R,美少女戦士セーラームーンR,バンダイ / Bandai,SHVC-2Q,,1993-12-29,,Beat 'em All,
+0099,Bishoujo Senshi Sailor Moon S - Jousai Rantou! Shuyaku Shudatsusen,美少女戦士セーラームーンS 場外乱闘！？主役争奪戦,エンジェル / Angel,SHVC-AQSJ-JPN-(V-941817),,1994-12-16,,Fighting,Versus
+0100,Bishoujo Senshi Sailor Moon S - Kondo ha Puzzle de Oshioki yo,美少女戦士セーラームーンS こんどはパズルでおしおきよ！！,バンダイ / トムクリエイト / Bandai / Tom Create,SHVC-3Q,,1994-07-15,,Puzzle,Matching
+0101,Bishoujo Senshi Sailor Moon S - Kurukku-rin,美少女戦士セーラームーンS くるっくりん,バンダイ/トムクリエイト / Bandai / Tom Create,SHVC-AILJ-JPN,,1995-02-24,,Puzzle,Matching
+0102,Bishoujo Senshi Sailor Moon Sailor Stars: Fuwa Fuwa Panic 2,美少女戦士セーラームーン セーラースターズ 〜ふわふわパニック2,バンダイ / Bandai,SFT-0112-JPN,,1996-09-27,,Puzzle,
+0103,Bishoujo Senshi Sailor Moon Super S - Fuwa Fuwa Panic,美少女戦士セーラームーンSuper S ふわふわパニック,バンダイ / トムクリエイト / Bandai / Tom Create,SHVC-A9PJ-JPN,,1995-12-08,,Puzzle,Matching
+0104,Bishoujo Senshi Sailor Moon Super S - Zenin Sanka!! Shuyaku Soudatsusen,美少女戦士セーラームーン 全員参加！！主役争奪戦,エンジェル / Angel,SHVC-AJQJ-JPN,,1996-03-29,,Fighting,Versus
+0105,Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!!,美少女レスラー列伝 ブリザードYuki乱入！！,日本ソフトシステム / ケイエスエス / Nihon Soft System / KSS,SHVC-A3QJ-JPN,,1996-03-29,,Sports,Wrestling
+0106,Blackthorne - Fukushuu no Kuroki Kyoku,ブラックソーン 復讐の黒き棘,ケムコ（コトブキシステム） / Kemco / Blizzard Entertainment,SHVC-6Z,SNS-6Z,1995-08-11,1995-08-10,Aventure,
+0107,BlaZeon,ブレイゾン,アトラス / Atlus,SHVC-BL,SNS-BL,1992-07-24,1992-10-01,SHMUP,Horizontal
+0108,Block Kuzushi,ブロックくずし,プランニングオフィスワダ（パウ）/ エルステッド / Planning Office WADA (POW) / Orested,SHVC-AB8J-JPN,,1995-11-17,,Arcade,Breakout
+0109,Bokujou Monogatari,牧場物語,パック・イン・ビデオ / アムカス / Pack-in-Video / Amccus,SHVC-AYWJ-JPN,SNS-AYWE-USA,1996-08-09,,Simulation,Ferme
+0110,Bomberman B-Daman,ボンバーマン ビーダマン,ハドソン / Hudson,SHVC-AH9J-JPN,,1996-12-20,,Puzzle,Bomberman
+0111,Bombuzal,ボンバザル,ケムコ / コトブキシステム / Kemco / Mirror Soft,SHVC-BB,,1990-12-01,,Puzzle,
+0112,Bonkers - Hollywood Daisakusen!,ボンカーズ ハリウッド大作戦！,カプコン / Capcom,SHVC-ABNJ-JPN,,1995-01-03,,Platformer,
+0113,Bounty Sword,バウンティ・ソード,パイオニアLDC / ヘッドクォーターズ / Pioneer LDC / Head Quarters,SHVC-A2LJ-JPN,,1995-09-08,,RPG,
+0114,Brain Lord,ブレインロード,エニックス / オプス / プロデュース / Enix / Opus / Produce!,SHVC-3B,SNS-3B,1994-01-28,1994-09-01,RPG,Action
+0115,Brandish,ブランディッシュ,光栄 / 日本ファルコム / Koei / Falcom,SHVC-QF,SNS-QF,1994-06-25,1995-02-01,RPG,Action
+0116,Brandish 2 - Expert,ブランディッシュ2 エキスパート,光栄 / 日本ファルコム / Koei / Falcom,SHVC-AQIJ-JPN,,1996-03-15,,RPG,Action
+0117,Brandish 2 - The Planet Buster,ブランディッシュ2 ザ・プラネット・バスター,光栄 / 日本ファルコム / Koei / Falcom,SHVC-AQGJ-JPN,,1995-08-11,,RPG,Action
+0118,Breath of Fire - Ryuu no Senshi,ブレス・オブ・ファイア 竜の戦士,カプコン ステイタス / Capcom,SHVC-BF,SNS-BF,1993-04-03,1994-10-10,RPG,
+0119,Breath of Fire 2 - Shimei no Ko,ブレス オブ ファイアII —使命の子—,カプコン / Capcom,SHVC-AF2J-JPN,SNS-AF2E-USA,1994-12-02,1995-12-01,RPG,
+0120,Bugs Bunny Hachamecha Daibouken,ルーニー・テューンズ バックス・バニー はちゃめちゃ大冒険,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-R7,,1994-06-24,,Platformer,
+0121,Burai - Hachigyoku no Yuushi Densetsu,ブライ 「八玉の勇士伝説」,アイ・ジー・エス / パンドラボックス / リバーヒルソフト / IGS (Information Global Service) / Pandora Box / Riverhill Soft,SHVC-BI,,1993-01-14,,RPG,
+0122,Bushi Seiryuuden - Futari no Yuusha,Bushi 青龍伝 〜二人の勇者〜,ティーアンドイーソフト / ゲームフリーク / T&E Soft / Game Freak,SHVC-AYUJ-JPN,,1997-01-17,,RPG,Action
+0123,Cacoma Knight in Bizyland,カコマ☆ナイト,データム・ポリスター / Datam Polystar,SHVC-CC,SNS-CC,1992-11-21,1993-06-01,Puzzle,
+0124,California Games 2,カリフォルニアゲームズII,ヘクト / Hector / EPYX / Silicon Soecery,SHVC-H9,,1993-03-12,,Sports,
+0125,Cameltry,キャメルトライ,タイトー / Taito,SHVC-CT,,1992-06-26,,Puzzle,Arcade
+0126,Captain Commando,キャプテンコマンドー,カプコン / Capcom,SHVC-QM,SNS-QM,1995-03-17,1995-08-01,Beat 'em All,
+0127,Captain Tsubasa III - Koutei no Chousen,キャプテン翼III —皇帝の挑戦—,テクモ / Tecmo,SHVC-C3,,1992-07-17,,Sports,Soccer
+0128,Captain Tsubasa IV - Pro no Rival-tachi,キャプテン翼IV —プロのライバルたち—,テクモ / Tecmo,SHVC-T4,,1993-04-03,,Sports,Soccer
+0129,Captain Tsubasa J - The Way to World Youth,キャプテン翼J ザ ウェイ トゥ ワールドユース,バンダイ / Bandai,SHVC-ACVJ-JPN,,1995-11-17,,Sports,Soccer
+0130,Captain Tsubasa V - Hasha no Shougou Campione,キャプテン翼V 覇者の称号カンピオーネ,テクモ / Tecmo,SHVC-AC5J-JPN,,1994-12-09,,Sports,Soccer
+0131,Caravan Shooting Collection,キャラバン シューティングコレクション,ハドソン / テクモ / Hudson / Tecmo,SHVC-AS8J-JPN,,1995-07-07,,SHMUP,Vertical
+0132,Card Master - Rimusaria no Fuuin,カードマスター リムサリアの封印,ハル研究所（HALKEN） / HAL Laboratory,SHVC-RF,,1992-03-27,,RPG,
+0133,Carrier Aces,キャリアエース,ユーメディア（アローマ） / Yumedia (Aroma) / Gametek / Cybersoft,SHVC-ACAJ-JPN,SNS-ACAE-USA,1995-07-28,1995-07-27,Simulation,Avion
+0134,Casper,キャスパー,日本ソフトシステム / ケイエスエス / Nihon Soft System / KSS,SHVC-AC4J-JPN,SNS-AXCE-USA,1997-03-14,1996-12-01,Platformer,
+0135,CB Chara Wars - Ushinawareta Gag,CBキャラウォーズ 失われたギャ〜グ,バンプレスト / アルマニック / Banpresto / Almanic,SHVC-CV,,1992-08-28,,Beat 'em All,
+0136,Champions World Class Soccer,チャンピオンズ ワールドクラスサッカー,アクレイムジャパン / Acclaim Japan / Park Place Prodictions,SHVC-8W,SNS-8W,1994-03-25,1994-04-01,Sports,Soccer
+0137,Chaos Seed - Fuusui Kairouki,カオスシード 風水回廊記,タイトー / ネバーランド / Taito / Neverland,SHVC-AAHJ-JPN,,1996-03-15,,RPG,
+0138,Chibi Maruko Chan - Mezase! Minami no Island!!,ちびまる子ちゃん めざせ！南のアイランド！！,コナミ / Konami,SHVC-AT8J-JPN,,1995-12-01,,Puzzle,
+0139,Chibi Maruko-chan - Harikiri 365 Nichi no Maki,ちびまる子ちゃん「はりきり365日」の巻,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-GO,,1991-12-13,,Table Game,
+0140,Chinhai,陳牌,バンプレスト / バンプレ企画 / Banpresto,SHVC-APEJ-JPN,,1995-09-22,,Puzzle,
+0141,Choplifter 3 - Rescue Survive,チョップリフターIII,ビクターエンタテインメント / ブロダーバンド / Victor Entertainment / Beam Software / Broderbund,SHVC-3C,,1994-09-09,,SHMUP,Horizontal
+0142,Chou Mahou Tairiku Wozz,ウォズ 超魔法大陸WOZZ,ビー・ピー・エス / レッド / Bullet-Proof Software / RED,SHVC-AWOJ-JPN,,1995-08-04,,RPG,
+0143,Chou Makai Taisen! Doraboc Chan,超魔界大戦！どらぼっちゃん,ナグザット / レッド / Naxat Soft / RED,SHVC-DO,,1993-03-19,,RPG,Action
+0144,Chou Makaimura,超魔界村,カプコン / Capcom,SHVC-CM,,1991-10-04,,Platformer,Action
+0145,Chouaniki - Bakuretsu Rantou Hen,超兄貴 ~爆烈乱闘篇~,メサイヤ（日本コンピューターシステム） / Masiya (NCS),SHVC-AANJ-JPN,,1995-09-22,,Fighting,Versus
+0146,Choujikuu Yousai Macross - Scrambled Valkyrie,超時空要塞マクロス スクランブルバルキリー,バンプレスト / ザムス/ウィンキーソフト / Banpresto / Zamuse / Winkysoft,SHVC-M9,,1993-10-29,,SHMUP,Horizontal
+0147,Choukou Goukami Xardion,超攻合神 サーディオン,アスミック / Asmik,SHVC-XA,SNS-XA,1992-03-20,1992-01-01,Platformer,Action
+0148,Chrono Trigger,クロノ・トリガー,スクウェア / Square,SHVC-ACTJ-JPN,SNS-ACTE-USA,1995-03-11,1995-09-27,RPG,
+0149,Circuit USA,サーキットUSA,ヴァージンインタラクティブ エンターテインメント / Virgin Interactive Entertainment,SHVC-AKPJ-JPN,SNS-AKPE-USA,1995-06-30,,Racing,NASCAR
+0150,Civilization - Sekai Shichi Daibunmei,シヴィライゼーション 世界七大文明,アスミック / マイクロプローズ / Asmik / Micro Prose,SHVC-EQ,SNS-EQ,1994-10-07,,Simulation,Histoire
+0151,Classic Road,クラシック・ロード,ビクターエンタテインメント / イスコ/プログレス / Victor Entertainment / ISCO / Progress,SHVC-V7,,1993-10-29,,Sports,Horse
+0152,Classic Road 2,クラシックロードII,ビクターエンタテインメント / イスコ / プログレス / Victor Entertainment / ISCO / Progress,SHVC-AV5J-JPN,,1995-02-24,,Sports,Horse
+0153,Clock Tower,クロックタワー,ヒューマン / Human,SHVC-AJEJ-JPN,,1995-09-14,,Visual Novel,
+0154,Clock Works,クロックワークス,徳間ジャパンコミュニケーションズ / 徳間書店 / アクシズ アート アミューズ / Tokuma Japan Communications / Tokuma Shoten / Axes Art Amuse / Spectrum HoloByte,SHVC-AQWJ-JPN,,1995-12-08,,Puzzle,
+0155,Columns,コラムス,メディアファクトリー / マリーガル/セガ・エンタープライゼス / Media Factory / Marigul / Sega Enterprises,SHVC-BCLJ-JPN,,1999-08-01,,Puzzle,Matching
+0156,Computer Nouryoku Kaiseki - Ultra Baken,コンピューター能力解析 ウルトラ馬券,カルチャーブレーン / Culture Brain,SHVC-AUBJ-JPN,,1995-05-26,,Sports,Horse
+0157,Contra Spirits,魂斗羅スピリッツ（コントラ）,コナミ / コナミ エンタテイメント / Konami,SHVC-CS,,1992-02-28,,Run n' Gun,
+0158,Conveni Wars Barcode Battler Senki - Super Senshi Shutsugeki Seyo!,バーコードバトラー 戦記 スーパー戦士 出撃せよ！,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-B5,,1993-05-14,,Strategy,
+0159,Cool Spot,クールスポット,ヴァージンゲーム / Virgin Games,SHVC-C8,SNS-C8,1993-12-10,1993-09-01,Platformer,
+0160,Coron Land,ころんらんど,ユーメディア（アローマ） / Yumedia (Aroma),SHVC-ACLJ-JPN,,1995-08-25,,Puzzle,Action
+0161,Cosmo Gang - The Puzzle,コズモギャング ザ パズル,ナムコ / ナムコット / Namco / Namcot,SHVC-CI,,1993-02-26,,Puzzle,Tetris
+0162,Cosmo Gang - The Video,コズモギャング ザ ビデオ,ナムコ / ナムコット / Namco / Namcot,SHVC-CA,,1992-10-29,,Puzzle,Shooter
+0163,Cosmo Police Galivan 2 - Arrow of Justice,コスモポリス ギャリバン,日本物産（ニチブツ） / Nihon Bussan (Nichibutsu),SHVC-GI,,1993-06-11,,Beat 'em All,
+0164,Crayon Shin-chan - Arashi wo Yobu Enji,クレヨンしんちゃん ゛嵐を呼ぶ園児,バンダイ / Bandai,SHVC-KU,,1993-07-30,,Platformer,
+0165,Crayon Shin-chan 2 - Daimaou no Gyakushuu,クレヨンしんちゃん2 ゛大魔王の逆襲″,バンダイ / Bandai,SHVC-UE,,1994-05-27,,Platformer,
+0166,Crayon Shin-chan: Nagagutsu Dobon!!,クレヨンしんちゃん 長ぐつどぼん！！,バンダイ / Bandai,SFT-0113-JPN,,1996-09-27,,Puzzle,
+0167,Crystal Beans From Dungeon Explorer,クリスタルビーンズ フロムダンジョンエクスプローラ,ハドソン / Hudson,SHVC-AC3J-JPN,,1995-10-27,,RPG,Action
+0168,Cu-On-Pa,クオンパ,ティーアンドイーソフト / T&E Soft / Onesong,SHVC-AC6J-JPN,,1996-12-20,,Puzzle,
+0169,Cyber Knight,サイバーナイト,トンキンハウス（東京書籍） / グループSNE / Tonkin House (Tokyo Shoseki) / Group SNE,SHVC-CX,,1992-10-30,,RPG,
+0170,Cyber Knight II - Chikyuu Teikoku no Yabou,サイバーナイトII 地球帝国の野望,トンキンハウス（東京書籍） / グループSNE / アトリエドゥーブル / Tonkin House (Tokyo Shoseki) / Group SNE / Atelier Double,SHVC-CZ,,1994-08-26,,RPG,
+0171,Cyborg 009,サイボーグ009,ベック / Interbec,SHVC-S9,,1994-02-25,,Platformer,
+0172,Dai 3 Ji Super Robot Taisen,第3次 スーパーロボット大戦,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-RT,,1993-07-23,,Strategy,
+0173,Dai 4 Ji Super Robot Taisen,第4次 スーパーロボット大戦,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-AR4J-JPN,,1995-03-17,,Strategy,
+0174,Dai Bakushou Jinsei Gekijou,大爆笑 人生劇場,タイトー / Taito,SHVC-GH,,1992-12-25,,Table Game,
+0175,Dai Bakushou Jinsei Gekijou - Dokidoki Seishun Hen,大爆笑 人生劇場 〜ドキドキ青春編〜,タイトー / ディスコ / Taito / Disco,SHVC-G8,,1993-07-30,,Table Game,
+0176,Dai Bakushou Jinsei Gekijou - Ooedo Nikki,大爆笑 人生劇場 大江戸日記,タイトー / Taito,SHVC-AKKJ-JPN,,1994-11-25,,Table Game,
+0177,Dai Bakushou Jinsei Gekijou - Zukkoke Salary Man Hen,大爆笑 人生劇場 ずっこけサラリーマン編,タイトー / Taito,SHVC-AZSJ-JPN,,1995-12-29,,Table Game,
+0178,Dai Koukai Jidai 2,大航海時代II,光栄 / Koei,SHVC-QL,,1994-02-25,,Strategy,
+0179,Dai Senrya Ku Expert WWII - War in Europe,大戦略エキスパートWW II War In Europe,アスキー / システムソフト / ASCII / System Soft,SHVC-AEVJ-JPN,,1996-08-30,,Strategy,
+0180,Dai Senryaku Expert,大戦略エキスパート,アスキー / システムソフト / ASCII / System Soft,SHVC-GS,,1992-09-25,,Strategy,
+0181,Daikaijuu Monogatari,大貝獣物語,ハドソン / バースデイ / Hudson / Birthday,SHVC-ADKJ-JPN,,1994-12-22,,RPG,
+0182,Daikaijuu Monogatari II,大貝獣物語II,ハドソン / バースデイ / Hudson / Birthday,SHVC-AE6J-JPN,,1996-08-02,,RPG,
+0183,Darius Force,ダライアスフォース,タイトー / Taito,SHVC-DH,,1993-09-24,,SHMUP,Horizontal
+0184,Darius Twin,ダライアスツイン,タイトー / Taito,SHVC-DT,SNS-DT,1991-03-29,1991-01-01,SHMUP,Horizontal
+0185,Dark Half,ダークハーフ,エニックス / ウエストン / ティーズミュージック / Enix / Westone / T's Music,SHVC-AHLJ-JPN,,1996-05-31,,RPG,
+0186,Dark Kingdom,ダークキングダム,日本テレネット / Telenet Japan,SHVC-QA,,1994-04-29,,RPG,
+0187,Dark Law - Meaning Of Death,ダークロウ ミーニング・オブ・デス,アスキー / 酒田エス・エー・エス / ASCII / Sakata SAS,SHVC-ADUJ-JPN,,1997-03-28,,RPG,
+0188,Date Kimiko no Virtual Tennis,伊達公子のバーチャルテニス,ビーアイ / B-AI,SHVC-VI,,1994-05-13,,Sports,Tennis
+0189,David Crane's Amazing Tennis,アメージングテニス,パック・イン・ビデオ/エレクトロ・ブレイン / Pack-In-Video / Absolute Entertainment / Electro Brain,SHVC-ZT,SNS-ZT,1992-12-18,1992-01-01,Sports,Tennis
+0190,Dead Dance,デッド・ダンス,ジャレコ / Jaleco,SHVC-TE,,1993-03-26,,Beat 'em All,
+0191,Deae Tonosama Appare Ichiban,であえ殿さま あっぱれ一番,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-ADTJ-JPN,,1995-03-31,,Shooter,Vertical
+0192,Dear Boys,ディア・ボーイズ,ユタカ / Yutaka,SHVC-9Y,,1994-10-28,,Sports,Basketball
+0193,Death Brade,デスブレイド,アイマックス / データイースト / I'MAX / Data East,SHVC-DZ,,1993-07-16,,Sports,Wrestling
+0194,Dekitate High School,できたてハイスクール,ビー・ピー・エス / Bullet-Proof Software,SHVC-ADHJ-JPN,,1995-07-07,,Strategy,
+0195,Demon's Blazon - Makaimura Monshou Hen,デモンズ・ブレイゾン 魔界村 紋章編,カプコン / Capcom,SHVC-3Z,SNS-3Z,1994-10-21,,Platformer,
+0196,Densetsu no Ogre Battle - The March of the Black Queen,伝説のオウガバトル,クエスト / Quest,SHVC-OB,SNS-OB,1993-03-12,,RPG,
+0197,Der Langrisser,デア ラングリッサー,メサイヤ（日本コンピューターシステム） / Masiya (NCS),SHVC-ALGJ-JPN,,1995-06-30,,Strategy,
+0198,Derby Jockey - Kishu Ou he no Michi,ダービージョッキー 騎手王への道,アスミック / Asmik,SHVC-JQ,,1994-03-18,,Sports,Horse
+0199,Derby Jockey 2,ダービージョッキー2,アスミック / ミューズソフト / Asmik / Muse Soft,SHVC-A2DJ-JPN,,1995-09-29,,Sports,Horse
+0200,Derby Stallion '98,ダービースタリオン98,任天堂 / アスキー / パリティビット / Nintendo / ASCII / Parity Bit,SHVC-BDBJ-JPN,,1998-09-01,,Sports,Horse
+0201,Derby Stallion 96,ダービースタリオン96,アスキー / パリティビット / ASCII / Parity Bit,SHVC-ZDBJ-JPN,,1996-03-15,,Sports,Horse
+0202,Derby Stallion II,ダービースタリオンII,アスキー / パリティビット / ASCII / Parity Bit,SHVC-A7,,1994-02-18,,Sports,Horse
+0203,Derby Stallion III,ダービースタリオンIII,アスキー / パリティビット / ASCII / Parity Bit,SHVC-AD3J-JPN,,1995-01-20,,Sports,Horse
+0204,Desert Fighter - Suna no Arashi Sakusen,デザートファイター：砂の嵐作戦,セタ / オーパス / Seta / Opus,SHVC-OS,,1994-02-18,,Shooter,360
+0205,Desert Strike - Return to the Gulf,デザートストライク 湾岸作戦,エレクトロニック・アーツ・ビクター / Electronic Arts Victor / Visual Concepts,SHVC-RG,SNS-RG,1993-03-26,1993-01-01,Shooter,360
+0206,Destructive,デストラクティブ （スーパースコープ専用）,バンダイ / Bandai,SHVC-EA,,1993-08-27,,Shooter,Target
+0207,Dezaemon - Kaite Tsukutte Asoberu,デザエモン,アテナ / Athena,SHVC-66,,1994-09-20,,SHMUP,Vertical
+0208,Dharma Doujou,だるま道場,デンズ（アイ・ティー・シー） / DEN'Z(ITC) / Metro,SHVC-ADRJ-JPN,,1995-02-10,,Puzzle,Matching
+0209,Dimension Force,ディメンションフォース,アスミック / Asmik,SHVC-DF,,1991-12-20,,SHMUP,Vertical
+0210,Dino Wars - Kyouryuu Oukoku heno Daibouken,ダイナウォーズ 恐竜王国への大冒険,アイレム / IREM,SHVC-DW,,1992-07-17,,Platformer,
+0211,Disney's Toy Story,トイ・ストーリー,カプコン / ディズニーインタラクティブ / Capcom / Disney Interactive / Travellers Tales,SHVC-AQHJ-JPN,SNS-AQHE-USA,1996-04-26,,Platformer,
+0212,Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken,ドレミファンタジー ミロンのドキドキ大冒険,ハドソン / Hudson,SHVC-AM4J-JPN,,1996-03-22,,Platformer,
+0213,Dokapon 3・2・1 - Arashi o Yobu Yuujou,ドカポン3・2・1 〜嵐を呼ぶ友情〜,アスミック / Asmik,SHVC-AIXJ-JPN,,1994-12-02,,Table Game,
+0214,Dokapon Gaiden - Honoo no Audition,ドカポン外伝 炎のオーディション,アスミック / Asmik,SHVC-AGNJ-JPN,,1995-12-01,,Table Game,
+0215,Dokuritsu Sensou - Liberty Or Death,リバティ・オア・デス 独立戦争,光栄 / Koei,SHVC-QI,,1994-03-18,,Strategy,
+0216,Dolucky no A. League Soccer,ドラッキーのAりーぐさっかー,イマジニアズーム / Imagineer-Zoom,SHVC-Z7,,1994-07-08,,Sports,Soccer
+0217,Dolucky no Kusayakiu,ドラッキーの草やきう,イマジニアズーム / Imagineer-Zoom,SHVC-IM,,1993-12-17,,Sports,Baseball
+0218,Dolucky no Puzzle Tour '94,ドラッキーのパズルツアー'94,イマジニアズーム / Imagineer-Zoom,SHVC-AZ8J-JPN,,1994-10-28,,Puzzle,
+0219,Donald Duck - Mahou no Boushi,ドナルドダックの魔法のぼうし,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-ADDJ-JPN,,1995-08-11,,Platformer,
+0220,Donald no Maui Mallard,ドナルドダックのマウイマラード,カプコン / ディズニーインタラクティブ / Capcom / Disney Interactive / Eurocom,SHVC-AZBJ-JPN,SNS-AZBE-USA,1996-12-20,,Platformer,
+0221,Donkey Kong Country,スーパードンキーコング,任天堂 / レア / Nintendo / RARE,SHVC-8X-(G728314),SNS-8x,1994-11-26,1994-11-21,Platformer,
+0222,Donkey Kong Country 2 - Diddy's Kong Quest,スーパードンキーコング2 ディクシー ＆ ディディー,任天堂 / レア / Nintendo / RARE,SHVC-ADNJ-JPN (G740814),SNS-ADNE-USA,1995-11-21,,Platformer,
+0223,Donkey Kong Country 3 - Dixie Kong's Double Trouble,スーパードンキーコング3 謎のクレミス島,任天堂 / レア / Nintendo / RARE,SHVC-A3CJ-JPN,SNS-A3CE-USA,1996-11-23,,Platformer,
+0224,Doom,ドゥーム,イマジニアズーム / Imagineer-Zoom / ID Software / Sculptured Software,SHVC-AD8J-JPN,SNS-AD8E-USA,1996-03-01,1996-02-29,Shooter,First Person
+0225,Doraemon - Nobita to Yousei no Kuni,ドラえもん のび太と妖精の国,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-DR,,1993-02-19,,Platformer,
+0226,Doraemon 2 - Nobita no Toys Land Daibouken,ドラえもん2 のび太のトイズランド大冒険,エポック社 / 酒田エス・エー・エス / Epoch / Sakata SAS,SHVC-2D,,1993-12-17,,Platformer,
+0227,Doraemon 3 - Nobita to Toki no Hougyoku,ドラえもん3 のび太と時の宝玉,エポック社 / Epoch,SHVC-4T,,1994-12-16,,Platformer,
+0228,Doraemon 4 - Nobita to Tsuki no Oukoku,ドラえもん4 のび太と月の王国,エポック社 / アジェンダ / Epoch / Agenda,SHVC-AD4J-JPN,,1995-12-15,,Platformer,
+0229,Dossun! Ganseki Battle,どっすん！岩石バトル,アイマックス / I'MAX,SHVC-ADGJ-JPN,,1994-12-16,,Puzzle,
+0230,Doukyuusei 2,同級生2,バンプレスト / エルフ / Banpresto / Elf,SHVC-A88J-JPN,,1997-12-01,,Visual Novel,Drague
+0231,Down The World - Mervil's Ambition,ダウン・ザ・ワールド,アスキー / ASCII,SHVC-W9,,1994-09-30,,RPG,
+0232,Downtown Nekketsu Baseball Monogatari - Baseball de Shoubu da! Kunio-kun,ダウンタウン熱血べーすぼーる物語 野球で勝負だ！くにおくん,テクノスジャパン / Technos Japan,SHVC-NV,,1993-12-17,,Sports,Baseball
+0233,Dr. Mario,ドクターマリオ,任天堂 / Nintendo,SHVC-BDMJ-JPN,,1998-06-01,,Puzzle,Matching
+0234,Dragon Ball Z - Hyper Dimension,ドラゴンボールZ ハイパーディメンション,バンダイ / Bandai,SHVC-AZIJ-JPN,,1996-03-29,,Fighting,Versus
+0235,Dragon Ball Z - Super Butouden,ドラゴンボールZ スーパーぶとうでん 超武闘伝,バンダイ / Bandai,SHVC-Z2,,1993-03-20,,Fighting,Versus
+0236,Dragon Ball Z - Super Butouden 2,ドラゴンボールZ 超武闘伝2,バンダイ / Bandai,SHVC-EF,,1993-12-17,,Fighting,Versus
+0237,Dragon Ball Z - Super Butouden 3,ドラゴンボールZ 超武闘伝3,バンダイ / Bandai,SHVC-AZ4J-JPN,,1994-09-29,,Fighting,Versus
+0238,Dragon Ball Z - Super Gokuu Den - Kakusei Hen,ドラゴンボールZ 超悟空伝 覚醒編,バンダイ / Bandai,SHVC-A2ZJ-JPN,,1995-09-22,,RPG,
+0239,Dragon Ball Z - Super Gokuu Den - Totsugeki Hen,ドラゴンボールZ 超悟空伝 突撃編,バンダイ / Bandai,SHVC-AZ5J-JPN,,1995-03-24,,RPG,
+0240,Dragon Ball Z - Super Saiya Densetsu,ドラゴンボールZ スーパー超サイヤ伝説,バンダイ / Bandai,SHVC-DB,,1992-01-25,,RPG,
+0241,Dragon Knight 4,ドラゴンナイトIV,バンプレスト / バンプレ企画 / エルフ / Banpresto / Elf,SHVC-A87J-JPN,,1996-12-27,,Strategy,
+0242,Dragon Quest 1 & 2,ドラゴンクエストI・II,エニックス / チュンソフト / Enix / Chun Soft,SHVC-DQ,,1993-12-18,,RPG,
+0243,Dragon Quest III - Soshite Densetsu he...,ドラゴンクエストIII そして伝説へ…,エニックス / ハートビート / Enix / Heartbeat,SHVC-AQ3J-JPN,,1996-12-06,,RPG,
+0244,Dragon Quest V - Tenkuu no Hanayome,ドラゴンクエストV 天空の花嫁,エニックス / チュンソフト / Enix / Chun Soft,SHVC-D5,,1992-09-27,,RPG,
+0245,Dragon Quest VI - Maboroshi no Daichi,ドラゴンクエストVI 幻の大地,エニックス / ハートビート / Enix / Heartbeat,SHVC-AQ6J-JPN,,1995-12-09,,RPG,
+0246,Dragon Slayer - Eiyuu Densetsu,ドラゴンスレイヤー英雄伝説,エポック社 / 日本ファルコム / Epoch / Falcom,SHVC-DS,,1992-02-14,,RPG,
+0247,Dragon Slayer - Eiyuu Densetsu 2,ドラゴンスレイヤー英雄伝説II,エポック社 / 日本ファルコム / Epoch / Falcom,SHVC-A2,,1993-06-04,,RPG,
+0248,Dragon's Earth,ドラゴンズ・アース,ヒューマン / フィールド / Human / Field,SHVC-DG,,1993-01-22,,Strategy,
+0249,Dragon's Magic (Dragon's Lair),ドラゴンズ マジック / ドラゴンズレア,コナミ / コナミ エンタテイメント / Konami / Motivetime Limited,SHVC-DI,,1993-06-25,,Aventure,QTE
+0250,Drakkhen,ドラッケン,ケムコ（コトブキシステム）/ インフォグラム / Kemco / Infogames,SHVC-DK,SNS-DK,1991-05-24,1991-09-01,RPG,First Person
+0251,Dream Basketball - Dunk & Hoop,ドリームバスケットボール ダンクアンドフープ,ヒューマン / Human,SHVC-ADBJ-JPN,,1994-11-18,,Sports,Basketball
+0252,Drift King Shutokou Battle '94,ドリフトキング 土屋圭市＆坂東正明 首都高バトル'94,ビー・ピー・エス / 元気 / Bullet-Proof Software / Genki,SHVC-94,,1994-05-27,,Sports,Street Racing
+0253,Drift King Shutokou Battle 2 - Tsuchiya Keiichi & Bandou Masaaki,ドリフトキング 土屋圭市＆坂東正明 首都高バトル2,ビー・ピー・エス / 元気 / Bullet-Proof Software / Genki,SHVC-ASXJ-JPN,,1995-02-24,,Sports,Street Racing
+0254,Dual Orb - Seirei Tama Densetsu,デュアルオーブ 聖霊珠伝説,アイマックス / I'MAX,SHVC-DX,,1993-04-16,,RPG,
+0255,Dual Orb 2,デュアルオーブII,アイマックス / I'MAX,SHVC-AD2J-JPN,,1994-12-29,,RPG,
+0256,Dun Quest - Majin Fuuin no Densetsu,ダンクエスト 魔人封印の伝説,テクノスジャパン / 日本アプリケーション / Technos Japan,SHVC-AD9J-JPN,,1995-07-21,,RPG,
+0257,Dungeon Master,ダンジョンマスター,ビクター音楽産業 / Victor Musical Industries / Software Heaven / FTL Games,SHVC-V2,SNS-V2,1991-12-20,1993-01-01,RPG,First Person
+0258,Dynamaite - The Las Vegas,ダイナマイト・ザ・ラスベガス,ヴァージンゲーム / Virgin Games,SHVC-VQ,,1994-04-28,,Gambling,Casino
+0259,Dynamic Stadium,ダイナミック スタジアム,サミー / Sammy,SHVC-YD,,1993-11-26,,Sports,Baseball
+0260,Earth Light 2 - Luna Strike,アースライト ルナ・ストライク,ハドソン / Hudson,SHVC-AE5J-JPN,,1996-07-26,,Strategy,
+0261,Earth Light: Anime-tic Space War Game,アースライト,ハドソン / Hudson,SHVC-H3,,1992-07-24,,Strategy,
+0262,Earthworm Jim,アースワーム・ジム,タカラ / Takara / Playmates Interactive Entertainment / Shiny Entertainment,SHVC-AEJJ-JPN,SNS-AEJE-USA,1995-06-23,1994-06-22,Platformer,
+0263,Edo no Kiba,エドノ 牙,マイクロワールド/ライオット（日本テレネット） / Micro World / Riot (Telenet Japan),SHVC-EK,,1993-03-12,,Beat 'em All,
+0264,Eien no Filerna,永遠のフィレーナ,徳間ジャパンコミュニケーションズ / 徳間書店インターメディア / Tokuma Japan Communications / Tokuma Shoten Intermedia,SHVC-AFLJ-JPN,,1995-02-25,,RPG,
+0265,Elfaria - A Fantastic Theater,エルファリア,ハドソン / Hudson,SHVC-H5,,1993-01-03,,RPG,
+0266,Elfaria II - The Quest of the Meld,エルファリアII ザ・クエスト・オブ・ザ・メルド,ハドソン / レッド / Hudson / RED,SHVC-AEFJ-JPN,,1995-06-09,,RPG,
+0267,Elnard,エルナード,エニックス / ゲームプラン21 / プロデュース / Enix / Gameplan 21 / Produce!,SHVC-EL,,1993-04-23,,RPG,
+0268,Emerald Dragon,エメラルドドラゴン,メディアワークス / アルファ・システム / グローディア / ライトスタッフ / Media Works / Alfa System / Glodia / Right Stuff,SHVC-AMWJ-JPN,,1995-07-28,,RPG,Action
+0269,EMIT Vol. 1 - Toki no Maigo,エミット Vol.1 時の迷子,光栄 / Koei,SHVC-AEMJ-JPN,,1995-03-25,,Visual Novel,
+0270,EMIT Vol. 2 - Inochigake no Tabi,エミット Vol.2 命がけの旅,光栄 / Koei,SHVC-AEIJ-JPN,,1995-03-25,,Visual Novel,
+0271,EMIT Vol. 3 - Watashi ni Sayonara wo,エミット Vol.3 私にさよならを,光栄 / Koei,SHVC-AETJ-JPN,,1995-03-25,,Visual Novel,
+0272,Energy Breaker,エナジーブレイカー,タイトー / ネバーランド / Taito / Neverland,SHVC-AZLJ-JPN,,1996-07-26,,RPG,
+0273,Esparks - Ijikuu Kara no Raihousha,エスパークス 異次空からの来訪者,トミー / Tomy,SHVC-EP,,1995-03-31,,RPG,Action
+0274,Estpolis Denki,エストポリス伝記,タイトー / ディスコ/ネバーランド / Taito / Disco / Neverland,SHVC-ES,,1993-06-25,,RPG,
+0275,Estpolis Denki II,エストポリス伝記II,タイトー / ネバーランド / Taito / Neverland,SHVC-ANIJ-JPN,SNS-ANIE-USA,1995-02-24,,RPG,
 0276,Europe Sensen,ヨーロッパ戦線,光栄 / Koei,SHVC-YP,,1993-01-16,,Strategy,Turn Based
-0277,Exhaust Heat,エキゾースト・ヒート,セタ / Seta,SHVC-EH,,1992-02-21,,Racing,Formule 1
-0278,Exhaust Heat 2 - F1 Driver he no Kiseki,エキゾースト・ヒートII F1ドライバーへの軌跡,セタ / Seta,SHVC-E2,,1993-03-05,,Racing,Formule 1
-0279,F-1 Grand Prix,F1グランプリ,ビデオシステム / Video System,SHVC-FG,,1992-04-28,,Racing,Formule 1
-0280,F-1 Grand Prix Part 2,F1グランプリ パート2,ビデオシステム / Video System,SHVC-FV,,1993-02-26,,Racing,Formule 1
-0281,F-1 Grand Prix Part 3,F1グランプリ パート3,ビデオシステム / Video System,SHVC-VF,,1994-04-22,,Racing,Formule 1
-0282,F-15 Super Strike Eagle,F-15 スパーストライクイーグル,アスミック / マイクロプローズ / Asmik / Micro Prose,SHVC-EG,,1993-11-26,,Strategy,
+0277,Europe Sensen,ヨーロッパ戦線,光栄 / Koei,SHVC-YP,,1993-01-16,,Strategy,Turn Based
+0278,Exhaust Heat,エキゾースト・ヒート,セタ / Seta,SHVC-EH,,1992-02-21,,Racing,Formule 1
+0279,Exhaust Heat 2 - F1 Driver he no Kiseki,エキゾースト・ヒートII F1ドライバーへの軌跡,セタ / Seta,SHVC-E2,,1993-03-05,,Racing,Formule 1
+0280,F-1 Grand Prix,F1グランプリ,ビデオシステム / Video System,SHVC-FG,,1992-04-28,,Racing,Formule 1
+0281,F-1 Grand Prix Part 2,F1グランプリ パート2,ビデオシステム / Video System,SHVC-FV,,1993-02-26,,Racing,Formule 1
+0282,F-1 Grand Prix Part 3,F1グランプリ パート3,ビデオシステム / Video System,SHVC-VF,,1994-04-22,,Racing,Formule 1
 0283,F-15 Super Strike Eagle,F-15 スパーストライクイーグル,アスミック / マイクロプローズ / Asmik / Micro Prose,SHVC-EG,,1993-11-26,,Strategy,
-0284,F-Zero,エフゼロ,任天堂 / Nintendo,SHVC-FZ,SNS-FZ,1990-11-21,1991-08-13,Racing,Fun
-0285,Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo,ファミコン探偵倶楽部 PART II,任天堂 / Nintendo,SHVC-BTCJ-JPN,,1998-04-01,,Aventure,Enquêtes
-0286,Far East Of Eden - Tengai Makyou Zero,天外魔境ＺＥＲＯ,ハドソン / レッド / Hudson / RED,SHVC-AZRJ-JPN,,1995-12-22,,RPG,
-0287,Farland Story,ファーランドストーリー,バンプレスト / テイジイエル / Banpresto / Technical Group Laboratory,SHVC-AFSJ-JPN,,1995-02-24,,Strategy,
-0288,Farland Story 2,ファーランドストーリー2,バンプレスト / テイジイエル / Banpresto / Technical Group Laboratory,SHVC-A2FJ-JPN,,1995-12-22,,RPG,
-0289,Feda - The Emblem Of Justice,フェーダ エンブレム・オブ・ジャスティス,やのまん / マックスエンターテイメント / Yanoman / Max Entertainment,SHVC-63,,1994-10-28,,RPG,
-0290,FIFA International Soccer,FIFA インターナショナル・サッカー,ビクターエンタテインメント / エレクトロニック・アーツ / Victor Entertainment / Electronic Arts / Extended Play Productions,SHVC-84,SNS-84,1994-06-17,1994-01-01,Sports,Soccer
-0291,Fighter's History,ファイターズヒストリー,データイースト / Data East,SHVC-YH,,1994-05-27,,Fighting,Versus
-0292,Fighter's History 2 - Mizoguchi Kiki Ippatsu,ファイターズヒストリー 溝口危機一髪！！,データイースト / Data East,SHVC-AF3J-JPN,,1995-02-17,,Fighting,Versus
-0293,Fighting Baseball,ファイティング ベースボール,ココナッツジャパン エンターテイメント / GXメディアインタラクティブ / エレクトロニック・アーツ / Coconuts Japan / Visual Concepts / Electronic Arts,SHVC-XH,,1995-08-11,,Sports,Basketball
-0294,Final Fantasy 5,ファイナルファンタジーV,スクウェア / Square,SHVC-F5,,1992-12-06,,RPG,
-0295,Final Fantasy 6,ファイナルファンタジーVI,スクウェア / Square,SHVC-F6,SNS-F6,1994-04-02,,RPG,
-0296,Final Fantasy IV,ファイナルファンタジーIV,スクウェア / Square,SHVC-F4,,1991-07-19,,RPG,
-0297,Final Fantasy IV - Easy Type,ファイナルファンタジーIV: イージータイプ,スクウェア / Square,SHVC-FE,,1991-10-29,,RPG,
-0298,Final Fantasy USA - Mystic Quest,ミスティック クエスト ファイナル ファンタジー,スクウェア / Square,SHVC-MQ,,1993-09-10,,RPG,
-0299,Final Fight,ファイナルファイト,カプコン / Capcom,SHVC-FT,SNS-FT,1990-12-21,1991-11-10,Beat 'em All,
-0300,Final Fight 2,ファイナルファイト2,カプコン / Capcom,SHVC-F2,SNS-F2,1993-05-22,1993-01-01,Beat 'em All,
-0301,Final Fight Guy,ファイナルファイト ガイ,カプコン / Capcom,SHVC-FY,SNS-FY,1992-03-20,1992-01-01,Beat 'em All,
-0302,Final Fight Tough,ファイナルファイト タフ,カプコン / Capcom,SHVC-AFZJ-JPN,SNS-AFZE-USA,1995-12-22,,Beat 'em All,
-0303,Final Set Tennis,ファイナルセット,フォーラム（オープンシステム） / Forum (Open System),SHVC-OF,,1993-09-17,,Sports,Tennis
-0304,Final Stretch,ファイナル・ストレッチ 鈴木亜久里監修,ロジーク（ジー・アミューズメンツ） / 元気 / LOZC G.Amusements / Genki / A. Company,SHVC-OP,,1993-11-12,,Racing,Formule 1
-0305,Fire Emblem - Monshou no Nazo,ファイアーエムブレム 紋章の謎,任天堂 / インテリジェントシステムズ / Nintendo / Intelligent Systems,SHVC-EM,,1994-01-21,,RPG,
-0306,Fire Emblem - Seisen no Keifu,ファイアーエムブレム 聖戦の系譜,任天堂 / インテリジェントシステムズ / Nintendo / Intelligent Systems,SHVC-A32J-JPN,,1996-05-14,,RPG,
-0307,Fire Emblem - Thracia 776 (ROM Version),ファイアーエムブレム トラキア776 (ROMカセット版),任天堂 / インテリジェントシステムズ / Nintendo / Intelligent Systems,SHVC-BFRJ-JPN,,2000-01-21,,RPG,
-0308,Fire Fighting,ファイヤー・ファイティング,ジャレコ / Jaleco,SHVC-AIFJ-JPN,SNS-AIFE-USA,1994-11-11,,Aventure,
-0309,Fire Pro Joshi - All Star Dream Slam,ファイプロ女子 オールスタードリームスラム,ヒューマン / Human,SHVC-J4,,1994-07-22,,Sports,Wrestling
-0310,First Queen - Ornic Senki,ファーストクイーン オルニック戦記,カルチャーブレーン / Culture Brain,SHVC-OQ,,1994-03-11,,Strategy,
-0311,First Samurai,ファーストサムライ,ケムコ（コトブキシステム） / Kemco / Vivid Image,SHVC-FK,SNS-FK,1993-07-02,1993-07-02,Beat 'em All,
-0312,Fishing Koushien,フィッシング甲子園,キングレコード / デジタルウェア / King Records / A WAVE / Digital Weare,SHVC-AQJJ-JPN-(KIS-6),,1996-05-31,,Sports,Pêche
-0313,Flashback - The Quest for Identity,フラッシュバック,サンソフト（サン電子） / Sunsoft (Sun Electronics) / Delphine Software / US Gold,SHVC-LQ,SNS-LQ,1993-12-22,,Aventure,
-0314,Flying Hero - Bugyuru no Daibouken,フライングヒーロー ぶぎゅる〜の大冒険,ソフエル / Sofel,SHVC-B9,,1992-12-18,,SHMUP,Vertical
-0315,Foreman For Real,フォアマン フォーリアル,アクレイムジャパン / Acclaim Japan / Software Creations,SHVC-AFEJ-JPN,SNS-AFEE-USA,1995-10-27,1995-01-01,Sports,Boxing
-0316,Fortune Quest - Dice wo Korogase,フォーチュンクエスト ダイスをころがせ,バンプレスト / ザムス / Banpresto / Zamuse,SHVC-FQ,,1994-04-28,,Table Game,
-0317,Frank Thomas' Big Hurt Baseball,ビッグ・ハート,アクレイムジャパン / Acclaim Japan / Iguana Entertainment,SHVC-AFKJ-JPN,SNS-AFKE-USA,1995-12-01,1995-01-01,Sports,Baseball
-0318,From TV Animation Slam Dunk - SD Heat Up!!,テレビアニメ スラムダンク SDヒートアップ！！,バンダイ / Bandai,SHVC-AIHJ-JPN,,1995-10-27,,Sports,Basketball
-0319,From TV Animation Slam Dunk - Shikyou Gekitotsu!!,テレビアニメ・スラムダンク 四強激突！！,バンダイ / Bandai,SHVC-UX,,1994-03-26,,Sports,Basketball
-0320,From TV Animation Slam Dunk - Shikyou Gekitotsu!! Shueisha Limited,テレビアニメ・スラムダンク 四強激突！！ 集英社LIMITED,バンダイ / Bandai,SHVC-UX,,1994-07-20,,Sports,Basketball
-0321,From TV Animation Slam Dunk 2 - IH Yosen Kanzenban!!,テレビアニメ・スラムダンク2 インターハイ IH予選完全版！！,バンダイ / Bandai,SHVC-ASLJ-JPN,,1995-02-24,,Sports,Basketball
-0322,Front Mission,フロントミッション,スクウェア / ジークラフト / Square / G-Craft,SHVC-AGCJ-JPN,,1995-02-24,,RPG,
-0323,Front Mission - Gun Hazard,フロントミッションシリーズ ガンハザード,スクウェア / 大宮ソフト / Square / Omiya Soft,SHVC-AZGJ-JPN,,1996-02-23,,RPG,Action
-0324,Full Power,フル・パワー,ココナッツジャパン / Coconuts Japan / GXメディアインタラクティブ / Gremlin Graphics / Cybersoft,SHVC-AFTJ-JPN,SNS-AFTE-USA,1994-12-16,,Racing,Moto
-0325,Funaki Masakatsu no Hybrid Wrestler - Tougi Densho,船木誠勝 ハイブリッド・レスラー 闘技伝承,テクノスジャパン / Technos Japan,SHVC-ZR,,1994-10-21,,Sports,Wrestling
-0326,Fune Tarou,ふね太郎,パック・イン・ソフト（ビクターインタラクティブソフトウェア） / Pack-in-Soft (Victor Interactive Software),SHVC-A7FJ-JPN,,1997-08-01,,Sports,Pêche
-0327,Furuta Atsuya no Simulation Pro Yakyuu 2,古田敦也のシミュレーションプロ野球2,ヘクト / Hector,SHVC-AY9J-JPN,,1996-08-24,,Sports,Baseball
-0328,Fushigi no Dungeon 2 - Furai no Shiren,不思議のダンジョン2 風来のシレン,チュンソフト / Chun Soft,SHVC-AAXJ-JPN,,1995-12-01,,RPG,
-0329,G.O.D - Mezameyo to Yobu Koe ga Kikoe,G・O・D 目覚めよと呼ぶ声が聴こえ ジー・オー・ディー,イマジニアズーム / インフィニティー / ダイス / Imagineer-Zoom / Infinity / Dice,SHVC-AGDJ-JPN,,1996-12-20,,RPG,
-0330,Gaia Gensouki,ガイア幻想紀,エニックス / クインテット / Enix / Quintet,SHVC-JG,SNS-JG,1993-11-27,,RPG,Action
-0331,Gaia Saver - Hero Saidai no Sakusen,ガイアセイバー ヒーロー最大の作戦,バンプレスト / Banpresto,SHVC-G9,,1994-01-28,,RPG,Action
-0332,Gakkou de Atta Kowai Hanashi,学校であった怖い話,バンプレスト / パンドラボックス / Banpresto / Pandora Box,SHVC-AHXJ-JPN,,1995-08-04,,Visual Novel,Horror
-0333,Galaxy Robo,ギャラクシーロボ,イマジニアズーム / Imagineer-Zoom,SHVC-XY,,1994-03-11,,Strategy,
-0334,Galaxy Wars,ギャラクシーウォーズ,イマジニアズーム / Imagineer-Zoom / Universal,SHVC-AGWJ-JPN,,1995-01-13,,SHMUP,Vertical
-0335,Gambler Jiko Chuushinha - Mahjong Kouisen,ぎゅわんぶらあ自己中心派 麻雀皇位戦,パルソフト（エスエムエス） / パック・イン・ビデオ / ゲームアーツ / イエローホーン / Palsoft / Pack-in-Video / GameArts / Yellow Horn,SHVC-GJ,,1992-09-25,,Table Game,Mahjong
-0336,Gambler Jiko Chuushinha 2: Dorapon Quest,ぎゅわんぶらあ自己中心派2 ドラポンクエスト,パック・イン・ビデオ / ゲームアーツ / イエローホーン / Pack-in-Video / GameArts / Yellow Horn,SHVC-8G,,1994-03-18,,Table Game,Mahjong
-0337,Gambling Hourouki,ギャンブル放浪記,バップ / VAP (NTV),SHVC-A7BJ-JPN,,1996-03-22,,Gambling,Casino
-0338,Game no Tatsujin,ゲームの達人 麻雀, 将棋 / ブレイス / 連珠 / サンソフト（サン電子） / サクセス / Sunsoft (Sun Electronics) / Success,SHVC-AGEJ-JPN,,1995-08-11,,Table Game,Shougi
-0339,Game no Tetsujin - The Shanghai,ゲームの鉄人 The上海,サンソフト（サン電子） / アクティビジョン / Sunsoft (Sun Electronics) / Activision,SHVC-A2GJ-JPN,,1995-10-13,,Puzzle,
-0340,Gamera - Gyaosu Gekimetsu Sakusen,ガメラ ギャオス撃滅作戦,サミー / アクシズ アート アミューズ / Sammy / Axes Art Amuse,SHVC-AGIJ-JPN,,1995-06-30,,Strategy,
-0341,Gan Gan Gan-Chan,ガンガンガンチャン,マジファクト / Magifact,SHVC-AGQJ-JPN,,1995-10-27,,Puzzle,Action
-0342,Ganbare Goemon - Yuki Hime Kyuushutsu Emaki,がんばれゴエモン ゆき姫救出絵巻,コナミ / Konami,SHVC-GG,SNS-GG,1991-07-19,,Platformer,
-0343,Ganbare Goemon 2 - Kiteretsu Shougun Magginesu,がんばれゴエモン2 奇天烈将軍マッギネス,コナミ / Konami,SHVC-KL,,1993-12-22,,Platformer,
-0344,Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame,がんばれゴエモン3 獅子重禄兵衛のからくり卍固め,コナミ / Konami,SHVC-2U,,1994-12-16,,Platformer,
-0345,Ganbare Goemon 4 - Kirakira Douchuu - Boku ga Dancer ni Natta Riyuu,がんばれゴエモン きらきら道中 僕がダンサーになった理由,コナミ / Konami,SHVC-A4GJ-JPN,,1995-12-22,,Platformer,
-0346,Ganbare! Daiku no Gensan,がんばれ！大工の源さん,アイレム / IREM,SHVC-EZ,,1993-12-22,,Platformer,Action
-0347,Ganpuru - Strange World Gunman's Proof,ガンプル,アスキー / レナール / ASCII / Lenar,SHVC-AXAJ-JPN,,1997-01-31,,RPG,Action
-0348,Ganso Pachinko Ou,元祖パチンコ王,ココナッツジャパン / Coconuts Japan,SHVC-OY,,1994-12-22,,Gambling,Pachinko
-0349,Ganso Pachisuro Nipponichi,元祖パチスロ日本一,ココナッツジャパン / Coconuts Japan,SHVC-O4,,1994-11-25,,Gambling,Pachinko
-0350,Garou Densetsu - Shukumei no Tatakai,餓狼伝説 宿命の闘い,タカラ / タカラ アミューズメント / エス・エヌ・ケイ / Takara / SNK,SHVC-GN,,1992-11-27,,Fighting,Versus
-0351,Garou Densetsu 2 - Aratanaru Tatakai,餓狼伝説2 —新たなる闘い—,タカラ / エス・エヌ・ケイ / Takara / SNK,SHVC-DJ,,1993-11-26,,Fighting,Versus
-0352,Garou Densetsu Special,餓狼伝説 Special,タカラ / エス・エヌ・ケイ / Takara / SNK,SHVC-3R,SNS-3R,1994-07-29,,Fighting,Versus
-0353,GD Leen,ガデュリン,セタ / Seta,SHVC-GD,,1991-05-28,,RPG,
-0354,Gegege no Kitarou - Fukkatsu! Tenma Daiou,ゲゲゲの鬼太郎 復活！天魔大王,バンダイ / Bandai,SHVC-G4,,1993-02-05,,Platformer,
-0355,Gegege no Kitarou: Youkai Donjara,ゲゲゲの鬼太郎 妖怪ドンジャラ,バンダイ / トムクリエイト / Bandai / Tom Create,SFT-0106-JPN,,1996-07-19,,Table Game,
-0356,Gekisou Sentai Car Rangers,激走戦隊カーレンジャー 全開！レーサー戦士,バンダイ / ナツメ / Bandai / Natsume,SFT-0109-JPN,,1996-08-23,,Puzzle,Action
-0357,Gekitotsu Dangan Jidousya Kessen - Battle Mobile,激突弾丸自動車決戦バトルモービル,システムサコム / System Sacom,SHVC-KV,,1993-06-25,,Racing,Fun
-0358,Gekitou Burning Pro-Wrestling,激闘 バーニング・プロレス,ビー・ピー・エス / 浮世亭 / Bullet-Proof Software / Ukiyotei,SHVC-AWNJ-JPN,,1995-10-06,,Sports,Wrestling
-0359,Genjuu Ryodan,幻獣旅団,アクセラ / クレアテック / Axela / Crea-Tech,SHVC-BGJJ-JPN,,1998-06-01,,Strategy,
-0360,Genocide 2 (G2),ジェノサイド 2,ケムコ（コトブキシステム） / Kemco / BITS / Zoom,SHVC-2I,,1994-08-05,,Beat 'em All,   
-0361,Getsumen no Anubis,月面のアヌビス,イマジニアズーム / マルチメディア インテリジェンス トランスファー（ミット） / Imagineer-Zoom / Multimedia Intelligence Transfer (MIT),SHVC-ALEJ-JPN,,1995-12-22,,Visual Novel,SF
-0362,Ghost Chaser Densei,ゴーストチェイサー 電精,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-ET,,1994-09-23,,Beat 'em All,
-0363,Ghost Sweeper Mikami - Joreishi ha Nice Body,ゴーストスイーパー GS美神 〜除霊師はナイスバディ〜,バンダイ / バナレックス / Bandai / Banalex,SHVC-IR,,1993-09-23,,Beat 'em All,
-0364,Ghoul Patrol,グールパトロール,ビクターエンタテインメント / ルーカスアーツ / Victor Entertainment / Lucas Arts,SHVC-AGJJ-JPN,SNS-AGJE-USA,1995-05-26,1994-01-01,Run n' Gun,
-0365,Gindama Oyakata no Pachinko Hisshouhou,銀玉親方の実戦パチンコ必勝法,サミー / Sammy,SHVC-AJPJ-JPN,,1995-02-17,,Gambling,Pachinko
-0366,Ginga Eiyuu Densetsu - Gionbana,祇園花,日本物産（ニチブツ） / Nihon Bussan (Nichibutsu),SHVC-AHFJ-JPN,,1994-12-16,,Table Game,
-0367,Ginga Eiyuu Densetsu - Senjutsu Simulation,銀河英雄伝説,徳間ジャパンコミュニケーションズ / 徳間書店インターメディア / Tokuma Japan Communications / Tokuma Shoten Intermedia,SHVC-GE,,1992-09-25,,Strategy,
-0368,Ginga Sengoku Gunyuuden Rai,銀河戦国群雄伝ライ,エンジェル / Angel,SHVC-AQPJ-JPN,,1996-03-08,,Strategy,
-0369,Go Go Ackman 2,ゴーゴー アックマン2,バンプレスト / Banpresto,SHVC-A92J-JPN,,1995-07-21,,Platformer,
-0370,Go Go Ackman 3,ゴーゴー アックマン3,バンプレスト / Banpresto,SHVC-AVPJ-JPN,,1995-12-15,,Platformer,
-0371,Go! Go! Ackman,ゴー!ゴー!アックマン,バンプレスト / Banpresto,SHVC-ACKJ-JPN,,1994-12-23,,Platformer,
-0372,Go! Go! Dodge League,ゴー！ゴー！ ドッジリーグ,パック・イン・ビデオ / メビオソフトウェア / Pack-in-Video / Mebio Software,SHVC-R5,,1993-09-24,,Sports,Dodgeball
-0373,Godzilla - Kaijuu Dai Kessen,ゴジラ 怪獣大決戦,東宝 / アルファ・システム / TOHO / Alfa System,SHVC-AG2J-JPN,,1994-12-09,,Fighting,Versus
-0374,Gokinjo Bouken Tai,ごきんじょ冒険隊,パイオニアLDC / ミント / Pioneer LDC / Mint / Studio Orphee,SHVC-A3LJ-JPN,,1996-05-24,,RPG,
-0375,Gokujou Parodius - Kako no Eikou o Motomete,極上パロディウス 過去の栄光を求めて,コナミ / Konami,SHVC-AGPJ-JPN,,1994-11-25,,SHMUP,Horizontal
-0376,GON,ゴン,バンダイ / Bandai,SHVC-AHOJ-JPN,,1994-11-11,,Platformer,
-0377,Goofy to Max - Kaizoku Shima no Daibouken,グーフィーとマックス 海賊島の大冒険,カプコン / Capcom,SHVC-G6,,1994-07-22,,Puzzle,Réflexion
-0378,Gouketuji Ichizoku,豪血寺一族,アトラス / Atlus,SHVC-AGKJ-JPN,SNS-AGKE-USA,1994-10-14,,Fighting,Versus
-0379,Gourmet Sentai Bara Yarou,美食戦隊 薔薇野郎 ぐるめせんたい ばらやろう,ヴァージンインタラクティブ エンターテインメント / ウインズ / フューパック / Virgin Interactive Entertainment / Winds / Fupac,SHVC-AV6J-JPN,,1995-09-29,,Beat 'em All,
-0380,Gousou Jinrai Densetsu - Musya,豪槍神雷伝説 武者,データム・ポリスター / Datam Polystar,SHVC-MY,,1992-04-21,,Beat 'em All,
-0381,GP-1,GP-1,アトラス / 元気 / Atlus / Genki,SHVC-G7,SNS-G7,1993-06-25,1993-01-01,Racing,Formule 1
-0382,GP-1 Part II,GP-1 - Rapid Stream,アトラス / 元気 / Atlus / Genki,SHVC-AGRJ-JPN,SNS-AGRE-USA,1994-11-18,,Racing,Formule 1
-0383,Gradius III,グラディウスIII,コナミ / Konami,SHVC-G3,SNS-G3,1990-12-21,1991-08-01,SHMUP,Horizontal
-0384,Granhistoria - Genshi Sekaiki,グランヒストリア 〜幻史世界記〜,バンプレスト / Banpresto,SHVC-AIRJ-JPN,,1995-06-30,,RPG,
-0385,GT Racing,ジーティーレーシング,イマジニアズーム / Imagineer-Zoom,SHVC-AIKJ-JPN,,1996-03-29,,Racing,Formule 1
-0386,Gunforce - Battle Fire Engulfed Terror Island,ガンフォース,アイレム / タムテックス / IREM / Tamtex / BITS,SHVC-GU,,1992-11-27,,Platformer,
-0387,Habu Meijin no Omoshiro Shougi,羽生名人のおもしろ将棋,トミー / サムシンググッド / Tomy / Something Good,SHVC-IL,,1995-03-31,,Table Game,Shougi
-0388,Hagane,鋼,ハドソン / レッド / シーエイプロダクション / Hudson / RED / CAProduction,SHVC-AHGJ-JPN,SNS-AHGE-USA,1994-11-18,1994-01-01,Beat 'em All,
-0389,Hai Toride,牌砦 −トリデ−,タカラ / Takara / Metro,SHVC-ACSJ-JPN,,1994-12-09,,Puzzle,
-0390,Haisei Mahjong Ryouga,牌勢麻雀 凌駕,アスキー / ASCII,SHVC-AMJJ-JPN,,1995-04-28,,Table Game,Mahjong
-0391,Hakunetsu Pro Yakyuu - Ganba League,白熱プロ野球 ガンバリーグ,エピック・ソニーレコード （ソニー・ミュージックエンタテインメント） / Epic Sony Records,SHVC-GL-(ESPG38),,1991-08-09,,Sports,Baseball
-0392,Hakunetsu Pro Yakyuu '93 - Ganba League,白熱プロ野球'93 ガンバリーグ,エピック・ソニーレコード （ソニー・ミュージックエンタテインメント） / Epic Sony Records,SHVC-GV-(ESPG47),,1992-12-11,,Sports,Baseball
-0393,Hakunetsu Pro Yakyuu '94 - Ganba League 3,白熱プロ野球'94 ガンバリーグ3,エピック・ソニーレコード（ソニー・ミュージックエンタテインメント） / Epic Sony Records,SHVC-E3-(ESPG50),,1993-12-10,,Sports,Baseball
-0394,Hamelin no Violin Hiki,ハーメルンのバイオリン弾き,エニックス / ダフト / Enix / DAFT,SHVC-AVNJ-JPN,,1995-09-29,,Platformer,
-0395,Hana no Keiji: Kumo no Kanata ni,花の慶次 —雲のかなたに—,四次元 / パック・イン・ビデオ / Yojigen / Pack-in-Video,SHVC-AY4J-JPN,,1994-11-18,,Fighting,Versus
-0396,Hanafuda Ou,花札王,ココナッツジャパン / Coconuts Japan,SHVC-IJ,,1994-12-16,,Table Game,
-0397,Hanjuku Hero - Hanjuku Eiyuu Aa Sekai yo Hanjuku Nare...!!,はんじゅくヒーロー 半熟英雄 ああ、世界よ半熟なれ…！！,スクウェア / Square,SHVC-HH,,1992-12-19,,Strategy,
-0398,Hansei Zaru Jirou-kun no Daibouken,反省ザル ジローくんの大冒険,ナツメ / Natsume,SHVC-HJ,,1991-12-27,,Platformer,
-0399,Haou Taikei Ryuu Knight - Lord of Paladin,覇王大系リューナイト ロードオブパラディン,バンダイ / 日本アートメディア / Bandai / Japan Art Media (JAM),SHVC-UR,,1994-12-22,,RPG,Action
-0400,Harapeko Bakka,はらぺこバッカ,魔法株式会社 / Magical Company,SHVC-ABKJ-JPN,,1994-10-19,,Puzzle,
-0401,Harukanaru Augusta,遥かなるオーガスタ,ティーアンドイーソフト / T&E Soft,SHVC-GA,,1991-04-05,,Sports,Golf
-0402,Harukanaru Augusta 2 - Masters,マスターズ 遥かなるオーガスタ2 MASTERS,ティーアンドイーソフト / T&E Soft,SHVC-O2,,1993-09-22,,Sports,Golf
-0403,Harukanaru Augusta 3 - Masters New,マスターズ ニュー 遥かなるオーガスタ3 MASTERS New,ティーアンドイーソフト / T&E Soft,SHVC-AO3J-JPN,,1995-12-08,,Sports,Golf
-0404,Hashire Hebereke,はしれへべれけ,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-AHHJ-JPN,,1994-12-22,,Puzzle,Puzzle
-0405,Hat Trick Hero,ハットトリックヒーロー,タイトー / Taito,SHVC-HT,,1992-03-27,,Sports,Soccer
-0406,Hat Trick Hero 2,ハットトリックヒーロー2,タイトー / Taito,SHVC-2Y,,1994-07-29,,Sports,Soccer
-0407,Hatayama Hachi no Pro Yakyuu News Jitsmeiban,はた山ハッチのパロ野球ニュース！実名版,エポック社 / アジェンダ / Epoch / Agenda,SHVC-EB,,1993-10-29,,Sports,Baseball
-0408,Hayashi Kaihou Kudan no Igo Oodou,林海峯九段の囲碁大道,アスク講談社 / Ask Kodansha,SHVC-AIDJ-JPN,,1996-03-22,,Table Game,Igo
-0409,Hayazashi Nidan: Morita Shougi,早指し 二段 森田将棋,セタ / ランダムハウス / Seta / Random House,SHVC-2M,,1993-06-18,,Table Game,Shougi
-0410,Hayazashi Nidan: Morita Shougi 2,早指し 二段 森田将棋2,セタ / ランダムハウス / Seta / Random House,SHVC-A2MJ-JPN,,1995-05-26,,Table Game,Shougi
-0411,Hebereke no Oishii Puzzle ha Irimasenka,へべれけのおいしいパズルはいりませんか,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-O3,,1994-08-31,,Puzzle,Puzzle
-0412,Hebereke no Popoon,へべれけのぽぷーん,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-HU,,1993-12-22,,Puzzle,Matching
-0413,Heian Fuuunden,平安風雲伝,日本ソフトシステム / ケイエスエス / Nihon Soft System / KSS,SHVC-AKHJ-JPN,,1995-09-29,,RPG,
-0414,Heisei Gunjin Shougi,平成軍人将棋,カロッツェリアジャパン / Carrozzeria Japan,SHVC-AG7J-JPN,,1996-01-26,,Table Game,Shougi
-0415,Heisei Inu Monogatari Bow - Pop'n Smash!!,平成イヌ物語バウ ポップンスマッシュ！！,タカラ / Takara,SHVC-QQ,,1994-04-28,,Sports,
-0416,Heisei Shin Oni Ga Shima Kouhen,平成 新 鬼ヶ島 後編,任天堂 / パックスソフトニカ / Nintendo / Pax Softonica,SHVC-AO5J-JPN,,1997-12-01,,Visual Novel,
-0417,Heisei Shin Oni Ga Shima Zenpen,平成新 鬼ヶ島前編,任天堂 / パックスソフトニカ / Nintendo / Pax Softonica,SHVC-AO4J-JPN,,1997-12-01,,Visual Novel,
-0418,Heiwa Pachinko World,平和 パチンコワールド,ショウエイシステム / Shouei System,SHVC-AHWJ-JPN,,1995-02-24,,Gambling,Pachinko
-0419,Heiwa Pachinko World 2,平和 パチンコワールド2,ショウエイシステム / Shouei System,SHVC-AWTJ-JPN,,1995-09-29,,Gambling,Pachinko
-0420,Heiwa Pachinko World 3,平和 パチンコワールド3,ショウエイシステム / Shouei System,SHVC-A3WJ-JPN,,1996-04-26,,Gambling,Pachinko
-0421,Heiwa Parlor! Mini 8 - Pachinko Jikki Simulation Game,平和 パーラー！ミニ8 パチンコ実機シミュレーションゲーム,日本テレネット / Telenet Japan,SHVC-AQUJ-JPN,,1998-01-30,,Gambling,Pachinko
-0422,Hello! Pac-Man,ハロー！パックマン,ナムコ / Namcot,SHVC-PN,,1994-08-26,,Platformer,
-0423,Herakles no Eikou III - Kamigami no Chinmoku,ヘラクレスの栄光III 神々の沈黙,データイースト / Data East,SHVC-HE,,1992-04-24,,RPG,
-0424,Herakles no Eikou IV - Kamigami Kara no Okurimono,ヘラクレスの栄光IV 神々からの贈り物,データイースト / Data East,SHVC-4E,,1994-10-21,,RPG,
-0425,Hero Senki - Project Olympus,ヒーロー戦記 プロジェクト オリュンポス,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-HS,,1992-11-20,,RPG,
-0426,Hi no Ouji Yamato Takeru,火の皇子 ヤマトタケル,東宝 / マルチメディア インテリジェンス トランスファー（ミット） / TOHO / Multimedia Intelligence Transfer (MIT),SHVC-AYTJ-JPN,,1995-09-29,,RPG,
-0427,Higashio Osamu Kanshuu - Super Pro Yakyuu Stadium,東尾 修 監修 スーパープロ野球スタジアム,徳間ジャパンコミュニケーションズ / 徳間書店インターメディア / Tokuma Japan Communications / Tokuma Shoten Intermedia,SHVC-PK,,1993-09-30,,Sports,Baseball
-0428,Hiouden - Mamono-tachi Tono Chikai,緋王伝 魔物達との誓い,ウルフチーム（日本テレネット） / Telenet Japan (Wolfteam),SHVC-HR,,1994-02-11,,Strategy,
-0429,Hiryu no Ken S - Hyper Version,ハイパーバージョン 飛龍の拳S,カルチャーブレーン / Culture Brain,SHVC-HP,,1992-12-11,,Beat 'em All,
-0430,Hiryu no Ken S - Golden Fighter,ゴールデンファイター飛龍の拳S,カルチャーブレーン / Culture Brain,SHVC-HK,,1992-07-31,,Beat 'em All,
-0431,Hissatsu Pachinko Collection,必殺パチンココレクション,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-AHPJ-JPN,,1994-10-21,,Gambling,Pachinko
-0432,Hissatsu Pachinko Collection 2,必殺パチンココレクション2,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-A2HJ-JPN,,1995-03-24,,Gambling,Pachinko
-0433,Hissatsu Pachinko Collection 3,必殺パチンココレクション3,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-A3HJ-JPN,,1995-11-02,,Gambling,Pachinko
-0434,Hissatsu Pachinko Collection 4,必殺パチンココレクション4,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-AH4J-JPN,,1996-08-30,,Gambling,Pachinko
-0435,Hisshou 777 Fighter - Pachi-Slot Ryuuguu Densetsu,必勝スリーセブンファイター パチスロ竜宮伝説,バップ / パチンコ○秘情報編集部 / VAP (NTV),SHVC-IH,,1994-01-14,,Gambling,Pachinko
-0436,Hisshou 777 Fighter 2 - Pachi-Slot Maruhi Jouhou,必勝スリーセブンファイター2 パチスロ○秘情報,バップ / パチンコ○秘情報編集部 / VAP (NTV),SHVC-72,,1994-08-19,,Gambling,Pachinko
-0437,Hisshou 777 Fighter 3 - Kokuryuu Ou no Fukkatsu,必勝777 FIGHTER III 黒竜王の復活 スリーセブンファイター,バップ / パチンコ○秘情報編集部 / VAP (NTV),SHVC-A73J-JPN,,1995-09-15,,Gambling,Pachinko
-0438,Hisshou Pachi-Slot Fun,必勝パチスロファン,プランニングオフィスワダ（パウ） / Planning Office WADA (POW),SHVC-APNJ-JPN,,1994-12-16,,Gambling,Pachinko
-0439,Hokuto no Ken 5 - Tenma Ryuuseiden Ai Zetsu Shou,北斗の拳5 天魔流星伝 哀・絶章,東映動画 / ショウエイシステム / Toei Animation / Shouei System,SHVC-K5,,1992-07-10,,RPG,
-0440,Hokuto no Ken 6 - Gekitou Denshou Ken Haou heno Michi,北斗の拳6 激闘伝承拳 覇王への道,東映動画 / ショウエイシステム / Toei Animation / Shouei System,SHVC-K6,,1992-11-20,,Fighting,Versus
-0441,Hokuto no Ken 7 - Seiken Retsuden - Den Shou Sha he no Michi,北斗の拳7 聖拳列伝 伝承者への道,東映動画 / ショウエイシステム / Toei Animation / Shouei System,SHVC-K7,,1993-12-24,,Fighting,Versus
-0442,Holy Striker,ホーリーストライカー,ヘクト / アクシズ アート アミューズ / Hector / Axes Art Amuse,SHVC-AI,,1993-12-17,,Puzzle,
-0443,Holy Umbrella - Dondera no Mubo!!,ホーリーアンブレラ ドンデラの無謀！！,ナグザット / Naxat Soft,SHVC-ADQJ-JPN,,1995-09-29,,RPG,Action
-0444,Home Alone,ホーム・アローン,アルトロン / Altron / Imagineering,SHVC-HA,SNS-HA,1992-08-11,1991-12-01,Platformer,
-0445,Honkaku Mahjong - Tetsuman,本格麻雀 徹萬,ナグザット / Naxat Soft,SHVC-OM,,1993-09-24,,Table Game,Mahjong
-0446,Honkaku Mahjong - Tetsuman II,本格麻雀 徹萬II,ナグザット/ギャップス / Naxat Soft / GAPS,SHVC-AOXJ-JPN,,1994-10-21,,Table Game,Mahjong
-0447,Honkaku Shougi - Fuuunji Ryuuou,本格将棋 風雲児 龍王,ヴァージンゲーム / Virgin Games,SHVC-AV3J-JPN,,1994-12-22,,Table Game,Shougi
-0448,Honkakuha Igo: Gosei,本格派囲碁 碁聖,タイトー / Taito,SHVC-AKWJ-JPN,,1994-10-28,,Table Game,Igo
-0449,Honke Hanafuda,本家花札,イマジニアズーム / Imagineer-Zoom,SHVC-87,,1994-09-22,,Table Game,Shougi
-0450,Honke Sankyo Fever - Jikki Simulation,本家SANKYO FEVER 実機シミュレーション,デンズ（アイ・ティー・シー） / 三共 / ティー・イー・エヌ / DEN'Z(ITC) / Sankyo / T・E・N,SHVC-AFPJ-JPN,,1995-06-10,,Gambling,Pachinko
-0451,Honke Sankyo Fever - Jikki Simulation 2,本家Sankyo FEVER 2 実機シミュレーション,ボスコミュニケーションズ / 三共 / ティー・イー・エヌ / Boss Communications / Sankyo / T・E・N / Japan Vistec,SHVC-A33J-JPN,,1995-12-15,,Gambling,Pachinko
-0452,Honke Sankyo Fever 3 - Jikki Simulation,本家Sankyo FEVER 3 実機シミュレーション,ボスコミュニケーションズ / 三共 / ティー・イー・エヌ / Boss Communications / Sankyo / T・E・N,SHVC-A37J-JPN,,1996-08-31,,Gambling,Pachinko
-0453,Honoo no Doukyuuji - Dodge Danpei,炎の闘球児 ドッジ弾平,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-DD,,1992-07-31,,Sports,Dodgeball
-0454,Hook,フック,エピック・ソニーレコード （ソニー・ミュージックエンタテインメント） / 浮世亭 / Epic Sony Records / Ukiyotei,SHVC-HO-(ESPG46),SNS-HO,1992-07-17,1992-01-01,Platformer,
-0455,Hoshi no Kirby 3,星のカービィ3,任天堂 / ハル研究所 / Nintendo / HAL Laboratory,SHVC-AFJJ-JPN,SNS-AFJE-USA,1998-03-26,1998-03-27,Platformer,
-0456,Hoshi no Kirby Super Deluxe,星のカービィ スーパーデラックス,任天堂 / ハル研究所 / Nintendo / HAL Laboratory,SHVC-AKFJ-JPN,SNS-AKFE-USA,1996-03-21,1996-09-20,Platformer,
-0457,Houkago in Beppin Jogakuin,放課後 in Beppin 女学院,イマジニアズーム / Imagineer-Zoom,SHVC-ABEJ-JPN,,1995-02-03,,Strategy,
-0458,Hourai Gakuen no Bouken! - Tenkousei Scramble,蓬莱学園の冒険！転校生スクランブル,J・ウイング / ダイナマイト / J-WING / Dynamite,SHVC-AJHJ-JPN,,1996-04-19,,RPG,
-0459,Human Baseball,ヒューマンベースボール,ヒューマン / フィールド / Human / Field,SHVC-HB,,1993-08-06,,Sports,Baseball
-0460,Human Grand Prix,ヒューマングランプリ,ヒューマン / Human,SHVC-HG,,1992-11-20,,Racing,Formule 1
-0461,Human Grand Prix 2,ヒューマングランプリ2,ヒューマン / Human,SHVC-2G,,1993-12-24,,Racing,Formule 1
-0462,Human Grand Prix 3 - F1 Triple Battle,ヒューマングランプリ3 F1トリプルバトル,ヒューマン / Human,SHVC-AGXJ-JPN,,1994-09-30,,Racing,Formule 1
-0463,Human Grand Prix IV - F1 Dream Battle,ヒューマングランプリ4 F1ドリームバトル,ヒューマン / Human,SHVC-AG4J-JPN,,1995-08-25,,Racing,Formule 1
-0464,Hyper Iria,ハイパーイリア,バンプレスト / Banpresto / Crowd / Zeiram Project,SHVC-AZEJ-JPN,,1995-10-13,,Platformer,
-0465,Hyper Zone,ハイパーゾーン,ハル研究所（HALKEN） / HAL Laboratory,SHVC-HZ,,1991-08-31,,SHMUP,Behind
-0466,Idea no Hi,イデアの日,ショウエイシステム / Shouei System,SHVC-ID,,1994-03-18,,RPG,
-0467,Igo Club,囲碁倶楽部,ヘクト / Hector,SHVC-AIVJ-JPN,,1996-01-26,,Table Game,Igo
-0468,Ihatovo Monogatari,イーハトーヴォ物語,ヘクト / Hector,SHVC-H8,,1993-03-05,,RPG,
-0469,Ikari no Yousai,怒りの要塞,ジャレコ / デーシーイー / Jaleco / DCE,SHVC-IY,,1993-04-23,,Shooter,360
-0470,Illvanian no Shiro - Ruins of Illvanian,イルバニアンの城,日本クラリービジネス / アトリエドゥーブル / Japan Clary Buisness / Atelier Double,SHVC-ARIJ-JPN,,1994-10-28,,Strategy,
-0471,Inazuma Serve da!! Super Beach Volley,稲妻サーブだ！ スーパービーチバレー,ヴァージンインタラクティブ エンターテインメント / Virgin Interactive Entertainment,SHVC-AV7J-JPN,,1995-08-04,,Sports,Volleyball
-0472,Indiana Jones' Greatest Adventures,インディ・ジョーンズ,ビクターエンタテインメント / ルーカスアーツ / ファクター5 / Victor Entertainment / Lucas Arts / Factor 5,SHVC-AIJJ-JPN,SNS-AIJE-USA,1995-07-28,1994-10-01,Platformer,
-0473,International Tennis Tour,インターナショナルテニスツアー,マイクロワールド / Micro World / Loriciel,SHVC-IT,SNS-IT,1993-03-26,1993-01-01,Sports,Tennis
-0474,Ippatsu Gyakuten!! Keiba Keirin Kyoutei,一発逆転！！ 競馬・競輪・競艇,プランニングオフィスワダ（パウ） / Planning Office WADA (POW) / Eleca,SHVC-AUMJ-JPN,,1996-04-26,,Sports,Horse
-0475,Iron Commando - Kotetsu no Senshi,鋼鉄の戦士 アイアンコマンドー,パック・イン・ビデオ / ポッポ / アーケードゾーン / Pack-in-Video / Poppo / Arcade Zone,SHVC-AICJ-JPN,,1995-02-10,,Beat 'em All,
-0476,Iso Zuri Ritou Hen,磯釣り 離島篇,パック・イン・ビデオ / Pack-in-Video,SHVC-A5IJ-JPN,,1996-01-19,,Sports,Pêche
-0477,Itadaki Street 2 - Neon Sign ha Bara Iro ni,いただきストリート2 ネオンサインはバラ色に,エニックス / トムキャットシステム / Enix / Tomcat System,SHVC-I2,,1994-02-26,,Table Game,
-0478,Itoi Shigesato no Bass Tsuri No. 1,糸井重里のバス釣りNo.1,任天堂 / ハル研究所 / ダイス / Nintendo / HAL Laboratory / Dice / Shigesato Itoi,SHVC-ZBPJ-JPN,,1997-02-21,,Sports,Pêche
-0479,Itou Hate Rokudan no Shougi Doujou,伊藤果六段の将棋道場,アスク講談社 / Ask Kodansha,SHVC-Q2,,1994-02-04,,Table Game,Shougi
-0480,J League '96 Dream Stadium,Jリーグ'96 ドリームスタジアム,ハドソン / Hudson,SHVC-AJ6J-JPN,,1996-06-01,,Sports,Soccer
-0481,J League Soccer Prime Goal,Jリーグサッカー プライムゴール,ナムコ / Namcot,SHVC-JE,,1993-08-06,,Sports,Soccer
-0482,J League Soccer Prime Goal 2,Jリーグサッカー プライムゴール2,ナムコ / Namcot,SHVC-2H,,1994-08-05,,Sports,Soccer
-0483,J League Soccer Prime Goal 3,Jリーグサッカー プライムゴール3,ナムコ / Namco,SHVC-AJ3J-JPN,,1995-08-04,,Sports,Soccer
-0484,J League Super Soccer,Jリーグ スーパーサッカー,ハドソン / Hudson,SHVC-VX,,1994-03-18,,Sports,Soccer
-0485,J League Super Soccer '95 - Jikkyou Stadium,Jリーグ スーパーサッカー 実況スタジアム,ハドソン / Hudson,SHVC-AJSJ-JPN,,1995-03-17,,Sports,Soccer
-0486,J. League Excite Stage '94,Jリーグエキサイトステージ'94,エポック社 / 小学館プロダクション / Epoch / Shogakukan Production,SHVC-JL,,1994-05-01,,Sports,Soccer
-0487,J. League Excite Stage '95,Jリーグエキサイトステージ'95,エポック社 / 小学館プロダクション / Epoch / Shogakukan Production,SHVC-AJ2J-JPN,,1995-04-28,,Sports,Soccer
-0488,J. League Excite Stage '96,Jリーグエキサイトステージ'96,エポック社 / 小学館プロダクション / Epoch / Shogakukan Production,SHVC-AE3J-JPN,,1996-04-26,,Sports,Soccer
-0489,Jammes,ジャムズ,カロッツェリアジャパン / Carrozzeria Japan,SHVC-AJMJ-JPN,,1995-02-10,,Puzzle,Matching
-0490,Janyuuki - Gokuu Randa,雀遊記 悟空乱打,ヴァージンゲーム / Virgin Games,SHVC-AV4J-JPN,,1995-01-13,,Table Game,Mahjong
-0491,JB The Super Bass,JBザ・スーパーバス,NGP / ギャップス / ナグザット / N&G Project / GAPS / Naxat Soft,SHVC-A94J-JPN,,1995-12-15,,Sports,Pêche
-0492,Jelly Boy 2,,,,,,,Prototype,
+0284,F-15 Super Strike Eagle,F-15 スパーストライクイーグル,アスミック / マイクロプローズ / Asmik / Micro Prose,SHVC-EG,,1993-11-26,,Strategy,
+0285,F-Zero,エフゼロ,任天堂 / Nintendo,SHVC-FZ,SNS-FZ,1990-11-21,1991-08-13,Racing,Fun
+0286,Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo,ファミコン探偵倶楽部 PART II,任天堂 / Nintendo,SHVC-BTCJ-JPN,,1998-04-01,,Aventure,Enquêtes
+0287,Far East Of Eden - Tengai Makyou Zero,天外魔境ＺＥＲＯ,ハドソン / レッド / Hudson / RED,SHVC-AZRJ-JPN,,1995-12-22,,RPG,
+0288,Farland Story,ファーランドストーリー,バンプレスト / テイジイエル / Banpresto / Technical Group Laboratory,SHVC-AFSJ-JPN,,1995-02-24,,Strategy,
+0289,Farland Story 2,ファーランドストーリー2,バンプレスト / テイジイエル / Banpresto / Technical Group Laboratory,SHVC-A2FJ-JPN,,1995-12-22,,RPG,
+0290,Feda - The Emblem Of Justice,フェーダ エンブレム・オブ・ジャスティス,やのまん / マックスエンターテイメント / Yanoman / Max Entertainment,SHVC-63,,1994-10-28,,RPG,
+0291,FIFA International Soccer,FIFA インターナショナル・サッカー,ビクターエンタテインメント / エレクトロニック・アーツ / Victor Entertainment / Electronic Arts / Extended Play Productions,SHVC-84,SNS-84,1994-06-17,1994-01-01,Sports,Soccer
+0292,Fighter's History,ファイターズヒストリー,データイースト / Data East,SHVC-YH,,1994-05-27,,Fighting,Versus
+0293,Fighter's History 2 - Mizoguchi Kiki Ippatsu,ファイターズヒストリー 溝口危機一髪！！,データイースト / Data East,SHVC-AF3J-JPN,,1995-02-17,,Fighting,Versus
+0294,Fighting Baseball,ファイティング ベースボール,ココナッツジャパン エンターテイメント / GXメディアインタラクティブ / エレクトロニック・アーツ / Coconuts Japan / Visual Concepts / Electronic Arts,SHVC-XH,,1995-08-11,,Sports,Basketball
+0295,Final Fantasy 5,ファイナルファンタジーV,スクウェア / Square,SHVC-F5,,1992-12-06,,RPG,
+0296,Final Fantasy 6,ファイナルファンタジーVI,スクウェア / Square,SHVC-F6,SNS-F6,1994-04-02,,RPG,
+0297,Final Fantasy IV,ファイナルファンタジーIV,スクウェア / Square,SHVC-F4,,1991-07-19,,RPG,
+0298,Final Fantasy IV - Easy Type,ファイナルファンタジーIV: イージータイプ,スクウェア / Square,SHVC-FE,,1991-10-29,,RPG,
+0299,Final Fantasy USA - Mystic Quest,ミスティック クエスト ファイナル ファンタジー,スクウェア / Square,SHVC-MQ,,1993-09-10,,RPG,
+0300,Final Fight,ファイナルファイト,カプコン / Capcom,SHVC-FT,SNS-FT,1990-12-21,1991-11-10,Beat 'em All,
+0301,Final Fight 2,ファイナルファイト2,カプコン / Capcom,SHVC-F2,SNS-F2,1993-05-22,1993-01-01,Beat 'em All,
+0302,Final Fight Guy,ファイナルファイト ガイ,カプコン / Capcom,SHVC-FY,SNS-FY,1992-03-20,1992-01-01,Beat 'em All,
+0303,Final Fight Tough,ファイナルファイト タフ,カプコン / Capcom,SHVC-AFZJ-JPN,SNS-AFZE-USA,1995-12-22,,Beat 'em All,
+0304,Final Set Tennis,ファイナルセット,フォーラム（オープンシステム） / Forum (Open System),SHVC-OF,,1993-09-17,,Sports,Tennis
+0305,Final Stretch,ファイナル・ストレッチ 鈴木亜久里監修,ロジーク（ジー・アミューズメンツ） / 元気 / LOZC G.Amusements / Genki / A. Company,SHVC-OP,,1993-11-12,,Racing,Formule 1
+0306,Fire Emblem - Monshou no Nazo,ファイアーエムブレム 紋章の謎,任天堂 / インテリジェントシステムズ / Nintendo / Intelligent Systems,SHVC-EM,,1994-01-21,,RPG,
+0307,Fire Emblem - Seisen no Keifu,ファイアーエムブレム 聖戦の系譜,任天堂 / インテリジェントシステムズ / Nintendo / Intelligent Systems,SHVC-A32J-JPN,,1996-05-14,,RPG,
+0308,Fire Emblem - Thracia 776 (ROM Version),ファイアーエムブレム トラキア776 (ROMカセット版),任天堂 / インテリジェントシステムズ / Nintendo / Intelligent Systems,SHVC-BFRJ-JPN,,2000-01-21,,RPG,
+0309,Fire Fighting,ファイヤー・ファイティング,ジャレコ / Jaleco,SHVC-AIFJ-JPN,SNS-AIFE-USA,1994-11-11,,Aventure,
+0310,Fire Pro Joshi - All Star Dream Slam,ファイプロ女子 オールスタードリームスラム,ヒューマン / Human,SHVC-J4,,1994-07-22,,Sports,Wrestling
+0311,First Queen - Ornic Senki,ファーストクイーン オルニック戦記,カルチャーブレーン / Culture Brain,SHVC-OQ,,1994-03-11,,Strategy,
+0312,First Samurai,ファーストサムライ,ケムコ（コトブキシステム） / Kemco / Vivid Image,SHVC-FK,SNS-FK,1993-07-02,1993-07-02,Beat 'em All,
+0313,Fishing Koushien,フィッシング甲子園,キングレコード / デジタルウェア / King Records / A WAVE / Digital Weare,SHVC-AQJJ-JPN-(KIS-6),,1996-05-31,,Sports,Pêche
+0314,Flashback - The Quest for Identity,フラッシュバック,サンソフト（サン電子） / Sunsoft (Sun Electronics) / Delphine Software / US Gold,SHVC-LQ,SNS-LQ,1993-12-22,,Aventure,
+0315,Flying Hero - Bugyuru no Daibouken,フライングヒーロー ぶぎゅる〜の大冒険,ソフエル / Sofel,SHVC-B9,,1992-12-18,,SHMUP,Vertical
+0316,Foreman For Real,フォアマン フォーリアル,アクレイムジャパン / Acclaim Japan / Software Creations,SHVC-AFEJ-JPN,SNS-AFEE-USA,1995-10-27,1995-01-01,Sports,Boxing
+0317,Fortune Quest - Dice wo Korogase,フォーチュンクエスト ダイスをころがせ,バンプレスト / ザムス / Banpresto / Zamuse,SHVC-FQ,,1994-04-28,,Table Game,
+0318,Frank Thomas' Big Hurt Baseball,ビッグ・ハート,アクレイムジャパン / Acclaim Japan / Iguana Entertainment,SHVC-AFKJ-JPN,SNS-AFKE-USA,1995-12-01,1995-01-01,Sports,Baseball
+0319,From TV Animation Slam Dunk - SD Heat Up!!,テレビアニメ スラムダンク SDヒートアップ！！,バンダイ / Bandai,SHVC-AIHJ-JPN,,1995-10-27,,Sports,Basketball
+0320,From TV Animation Slam Dunk - Shikyou Gekitotsu!!,テレビアニメ・スラムダンク 四強激突！！,バンダイ / Bandai,SHVC-UX,,1994-03-26,,Sports,Basketball
+0321,From TV Animation Slam Dunk - Shikyou Gekitotsu!! Shueisha Limited,テレビアニメ・スラムダンク 四強激突！！ 集英社LIMITED,バンダイ / Bandai,SHVC-UX,,1994-07-20,,Sports,Basketball
+0322,From TV Animation Slam Dunk 2 - IH Yosen Kanzenban!!,テレビアニメ・スラムダンク2 インターハイ IH予選完全版！！,バンダイ / Bandai,SHVC-ASLJ-JPN,,1995-02-24,,Sports,Basketball
+0323,Front Mission,フロントミッション,スクウェア / ジークラフト / Square / G-Craft,SHVC-AGCJ-JPN,,1995-02-24,,RPG,
+0324,Front Mission - Gun Hazard,フロントミッションシリーズ ガンハザード,スクウェア / 大宮ソフト / Square / Omiya Soft,SHVC-AZGJ-JPN,,1996-02-23,,RPG,Action
+0325,Full Power,フル・パワー,ココナッツジャパン / Coconuts Japan / GXメディアインタラクティブ / Gremlin Graphics / Cybersoft,SHVC-AFTJ-JPN,SNS-AFTE-USA,1994-12-16,,Racing,Moto
+0326,Funaki Masakatsu no Hybrid Wrestler - Tougi Densho,船木誠勝 ハイブリッド・レスラー 闘技伝承,テクノスジャパン / Technos Japan,SHVC-ZR,,1994-10-21,,Sports,Wrestling
+0327,Fune Tarou,ふね太郎,パック・イン・ソフト（ビクターインタラクティブソフトウェア） / Pack-in-Soft (Victor Interactive Software),SHVC-A7FJ-JPN,,1997-08-01,,Sports,Pêche
+0328,Furuta Atsuya no Simulation Pro Yakyuu 2,古田敦也のシミュレーションプロ野球2,ヘクト / Hector,SHVC-AY9J-JPN,,1996-08-24,,Sports,Baseball
+0329,Fushigi no Dungeon 2 - Furai no Shiren,不思議のダンジョン2 風来のシレン,チュンソフト / Chun Soft,SHVC-AAXJ-JPN,,1995-12-01,,RPG,
+0330,G.O.D - Mezameyo to Yobu Koe ga Kikoe,G・O・D 目覚めよと呼ぶ声が聴こえ ジー・オー・ディー,イマジニアズーム / インフィニティー / ダイス / Imagineer-Zoom / Infinity / Dice,SHVC-AGDJ-JPN,,1996-12-20,,RPG,
+0331,Gaia Gensouki,ガイア幻想紀,エニックス / クインテット / Enix / Quintet,SHVC-JG,SNS-JG,1993-11-27,,RPG,Action
+0332,Gaia Saver - Hero Saidai no Sakusen,ガイアセイバー ヒーロー最大の作戦,バンプレスト / Banpresto,SHVC-G9,,1994-01-28,,RPG,Action
+0333,Gakkou de Atta Kowai Hanashi,学校であった怖い話,バンプレスト / パンドラボックス / Banpresto / Pandora Box,SHVC-AHXJ-JPN,,1995-08-04,,Visual Novel,Horror
+0334,Galaxy Robo,ギャラクシーロボ,イマジニアズーム / Imagineer-Zoom,SHVC-XY,,1994-03-11,,Strategy,
+0335,Galaxy Wars,ギャラクシーウォーズ,イマジニアズーム / Imagineer-Zoom / Universal,SHVC-AGWJ-JPN,,1995-01-13,,SHMUP,Vertical
+0336,Gambler Jiko Chuushinha - Mahjong Kouisen,ぎゅわんぶらあ自己中心派 麻雀皇位戦,パルソフト（エスエムエス） / パック・イン・ビデオ / ゲームアーツ / イエローホーン / Palsoft / Pack-in-Video / GameArts / Yellow Horn,SHVC-GJ,,1992-09-25,,Table Game,Mahjong
+0337,Gambler Jiko Chuushinha 2: Dorapon Quest,ぎゅわんぶらあ自己中心派2 ドラポンクエスト,パック・イン・ビデオ / ゲームアーツ / イエローホーン / Pack-in-Video / GameArts / Yellow Horn,SHVC-8G,,1994-03-18,,Table Game,Mahjong
+0338,Gambling Hourouki,ギャンブル放浪記,バップ / VAP (NTV),SHVC-A7BJ-JPN,,1996-03-22,,Gambling,Casino
+0339,Game no Tatsujin,ゲームの達人 麻雀, 将棋 / ブレイス / 連珠 / サンソフト（サン電子） / サクセス / Sunsoft (Sun Electronics) / Success,SHVC-AGEJ-JPN,,1995-08-11,,Table Game,Shougi
+0340,Game no Tetsujin - The Shanghai,ゲームの鉄人 The上海,サンソフト（サン電子） / アクティビジョン / Sunsoft (Sun Electronics) / Activision,SHVC-A2GJ-JPN,,1995-10-13,,Puzzle,
+0341,Gamera - Gyaosu Gekimetsu Sakusen,ガメラ ギャオス撃滅作戦,サミー / アクシズ アート アミューズ / Sammy / Axes Art Amuse,SHVC-AGIJ-JPN,,1995-06-30,,Strategy,
+0342,Gan Gan Gan-Chan,ガンガンガンチャン,マジファクト / Magifact,SHVC-AGQJ-JPN,,1995-10-27,,Puzzle,Action
+0343,Ganbare Goemon - Yuki Hime Kyuushutsu Emaki,がんばれゴエモン ゆき姫救出絵巻,コナミ / Konami,SHVC-GG,SNS-GG,1991-07-19,,Platformer,
+0344,Ganbare Goemon 2 - Kiteretsu Shougun Magginesu,がんばれゴエモン2 奇天烈将軍マッギネス,コナミ / Konami,SHVC-KL,,1993-12-22,,Platformer,
+0345,Ganbare Goemon 3 - Shishi Juuroku Hyoue no Karakuri Manjigatame,がんばれゴエモン3 獅子重禄兵衛のからくり卍固め,コナミ / Konami,SHVC-2U,,1994-12-16,,Platformer,
+0346,Ganbare Goemon 4 - Kirakira Douchuu - Boku ga Dancer ni Natta Riyuu,がんばれゴエモン きらきら道中 僕がダンサーになった理由,コナミ / Konami,SHVC-A4GJ-JPN,,1995-12-22,,Platformer,
+0347,Ganbare! Daiku no Gensan,がんばれ！大工の源さん,アイレム / IREM,SHVC-EZ,,1993-12-22,,Platformer,Action
+0348,Ganpuru - Strange World Gunman's Proof,ガンプル,アスキー / レナール / ASCII / Lenar,SHVC-AXAJ-JPN,,1997-01-31,,RPG,Action
+0349,Ganso Pachinko Ou,元祖パチンコ王,ココナッツジャパン / Coconuts Japan,SHVC-OY,,1994-12-22,,Gambling,Pachinko
+0350,Ganso Pachisuro Nipponichi,元祖パチスロ日本一,ココナッツジャパン / Coconuts Japan,SHVC-O4,,1994-11-25,,Gambling,Pachinko
+0351,Garou Densetsu - Shukumei no Tatakai,餓狼伝説 宿命の闘い,タカラ / タカラ アミューズメント / エス・エヌ・ケイ / Takara / SNK,SHVC-GN,,1992-11-27,,Fighting,Versus
+0352,Garou Densetsu 2 - Aratanaru Tatakai,餓狼伝説2 —新たなる闘い—,タカラ / エス・エヌ・ケイ / Takara / SNK,SHVC-DJ,,1993-11-26,,Fighting,Versus
+0353,Garou Densetsu Special,餓狼伝説 Special,タカラ / エス・エヌ・ケイ / Takara / SNK,SHVC-3R,SNS-3R,1994-07-29,,Fighting,Versus
+0354,GD Leen,ガデュリン,セタ / Seta,SHVC-GD,,1991-05-28,,RPG,
+0355,Gegege no Kitarou - Fukkatsu! Tenma Daiou,ゲゲゲの鬼太郎 復活！天魔大王,バンダイ / Bandai,SHVC-G4,,1993-02-05,,Platformer,
+0356,Gegege no Kitarou: Youkai Donjara,ゲゲゲの鬼太郎 妖怪ドンジャラ,バンダイ / トムクリエイト / Bandai / Tom Create,SFT-0106-JPN,,1996-07-19,,Table Game,
+0357,Gekisou Sentai Car Rangers,激走戦隊カーレンジャー 全開！レーサー戦士,バンダイ / ナツメ / Bandai / Natsume,SFT-0109-JPN,,1996-08-23,,Puzzle,Action
+0358,Gekitotsu Dangan Jidousya Kessen - Battle Mobile,激突弾丸自動車決戦バトルモービル,システムサコム / System Sacom,SHVC-KV,,1993-06-25,,Racing,Fun
+0359,Gekitou Burning Pro-Wrestling,激闘 バーニング・プロレス,ビー・ピー・エス / 浮世亭 / Bullet-Proof Software / Ukiyotei,SHVC-AWNJ-JPN,,1995-10-06,,Sports,Wrestling
+0360,Genjuu Ryodan,幻獣旅団,アクセラ / クレアテック / Axela / Crea-Tech,SHVC-BGJJ-JPN,,1998-06-01,,Strategy,
+0361,Genocide 2 (G2),ジェノサイド 2,ケムコ（コトブキシステム） / Kemco / BITS / Zoom,SHVC-2I,,1994-08-05,,Beat 'em All,   
+0362,Getsumen no Anubis,月面のアヌビス,イマジニアズーム / マルチメディア インテリジェンス トランスファー（ミット） / Imagineer-Zoom / Multimedia Intelligence Transfer (MIT),SHVC-ALEJ-JPN,,1995-12-22,,Visual Novel,SF
+0363,Ghost Chaser Densei,ゴーストチェイサー 電精,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-ET,,1994-09-23,,Beat 'em All,
+0364,Ghost Sweeper Mikami - Joreishi ha Nice Body,ゴーストスイーパー GS美神 〜除霊師はナイスバディ〜,バンダイ / バナレックス / Bandai / Banalex,SHVC-IR,,1993-09-23,,Beat 'em All,
+0365,Ghoul Patrol,グールパトロール,ビクターエンタテインメント / ルーカスアーツ / Victor Entertainment / Lucas Arts,SHVC-AGJJ-JPN,SNS-AGJE-USA,1995-05-26,1994-01-01,Run n' Gun,
+0366,Gindama Oyakata no Pachinko Hisshouhou,銀玉親方の実戦パチンコ必勝法,サミー / Sammy,SHVC-AJPJ-JPN,,1995-02-17,,Gambling,Pachinko
+0367,Ginga Eiyuu Densetsu - Gionbana,祇園花,日本物産（ニチブツ） / Nihon Bussan (Nichibutsu),SHVC-AHFJ-JPN,,1994-12-16,,Table Game,
+0368,Ginga Eiyuu Densetsu - Senjutsu Simulation,銀河英雄伝説,徳間ジャパンコミュニケーションズ / 徳間書店インターメディア / Tokuma Japan Communications / Tokuma Shoten Intermedia,SHVC-GE,,1992-09-25,,Strategy,
+0369,Ginga Sengoku Gunyuuden Rai,銀河戦国群雄伝ライ,エンジェル / Angel,SHVC-AQPJ-JPN,,1996-03-08,,Strategy,
+0370,Go Go Ackman 2,ゴーゴー アックマン2,バンプレスト / Banpresto,SHVC-A92J-JPN,,1995-07-21,,Platformer,
+0371,Go Go Ackman 3,ゴーゴー アックマン3,バンプレスト / Banpresto,SHVC-AVPJ-JPN,,1995-12-15,,Platformer,
+0372,Go! Go! Ackman,ゴー!ゴー!アックマン,バンプレスト / Banpresto,SHVC-ACKJ-JPN,,1994-12-23,,Platformer,
+0373,Go! Go! Dodge League,ゴー！ゴー！ ドッジリーグ,パック・イン・ビデオ / メビオソフトウェア / Pack-in-Video / Mebio Software,SHVC-R5,,1993-09-24,,Sports,Dodgeball
+0374,Godzilla - Kaijuu Dai Kessen,ゴジラ 怪獣大決戦,東宝 / アルファ・システム / TOHO / Alfa System,SHVC-AG2J-JPN,,1994-12-09,,Fighting,Versus
+0375,Gokinjo Bouken Tai,ごきんじょ冒険隊,パイオニアLDC / ミント / Pioneer LDC / Mint / Studio Orphee,SHVC-A3LJ-JPN,,1996-05-24,,RPG,
+0376,Gokujou Parodius - Kako no Eikou o Motomete,極上パロディウス 過去の栄光を求めて,コナミ / Konami,SHVC-AGPJ-JPN,,1994-11-25,,SHMUP,Horizontal
+0377,GON,ゴン,バンダイ / Bandai,SHVC-AHOJ-JPN,,1994-11-11,,Platformer,
+0378,Goofy to Max - Kaizoku Shima no Daibouken,グーフィーとマックス 海賊島の大冒険,カプコン / Capcom,SHVC-G6,,1994-07-22,,Puzzle,Réflexion
+0379,Gouketuji Ichizoku,豪血寺一族,アトラス / Atlus,SHVC-AGKJ-JPN,SNS-AGKE-USA,1994-10-14,,Fighting,Versus
+0380,Gourmet Sentai Bara Yarou,美食戦隊 薔薇野郎 ぐるめせんたい ばらやろう,ヴァージンインタラクティブ エンターテインメント / ウインズ / フューパック / Virgin Interactive Entertainment / Winds / Fupac,SHVC-AV6J-JPN,,1995-09-29,,Beat 'em All,
+0381,Gousou Jinrai Densetsu - Musya,豪槍神雷伝説 武者,データム・ポリスター / Datam Polystar,SHVC-MY,,1992-04-21,,Beat 'em All,
+0382,GP-1,GP-1,アトラス / 元気 / Atlus / Genki,SHVC-G7,SNS-G7,1993-06-25,1993-01-01,Racing,Formule 1
+0383,GP-1 Part II,GP-1 - Rapid Stream,アトラス / 元気 / Atlus / Genki,SHVC-AGRJ-JPN,SNS-AGRE-USA,1994-11-18,,Racing,Formule 1
+0384,Gradius III,グラディウスIII,コナミ / Konami,SHVC-G3,SNS-G3,1990-12-21,1991-08-01,SHMUP,Horizontal
+0385,Granhistoria - Genshi Sekaiki,グランヒストリア 〜幻史世界記〜,バンプレスト / Banpresto,SHVC-AIRJ-JPN,,1995-06-30,,RPG,
+0386,GT Racing,ジーティーレーシング,イマジニアズーム / Imagineer-Zoom,SHVC-AIKJ-JPN,,1996-03-29,,Racing,Formule 1
+0387,Gunforce - Battle Fire Engulfed Terror Island,ガンフォース,アイレム / タムテックス / IREM / Tamtex / BITS,SHVC-GU,,1992-11-27,,Platformer,
+0388,Habu Meijin no Omoshiro Shougi,羽生名人のおもしろ将棋,トミー / サムシンググッド / Tomy / Something Good,SHVC-IL,,1995-03-31,,Table Game,Shougi
+0389,Hagane,鋼,ハドソン / レッド / シーエイプロダクション / Hudson / RED / CAProduction,SHVC-AHGJ-JPN,SNS-AHGE-USA,1994-11-18,1994-01-01,Beat 'em All,
+0390,Hai Toride,牌砦 −トリデ−,タカラ / Takara / Metro,SHVC-ACSJ-JPN,,1994-12-09,,Puzzle,
+0391,Haisei Mahjong Ryouga,牌勢麻雀 凌駕,アスキー / ASCII,SHVC-AMJJ-JPN,,1995-04-28,,Table Game,Mahjong
+0392,Hakunetsu Pro Yakyuu - Ganba League,白熱プロ野球 ガンバリーグ,エピック・ソニーレコード （ソニー・ミュージックエンタテインメント） / Epic Sony Records,SHVC-GL-(ESPG38),,1991-08-09,,Sports,Baseball
+0393,Hakunetsu Pro Yakyuu '93 - Ganba League,白熱プロ野球'93 ガンバリーグ,エピック・ソニーレコード （ソニー・ミュージックエンタテインメント） / Epic Sony Records,SHVC-GV-(ESPG47),,1992-12-11,,Sports,Baseball
+0394,Hakunetsu Pro Yakyuu '94 - Ganba League 3,白熱プロ野球'94 ガンバリーグ3,エピック・ソニーレコード（ソニー・ミュージックエンタテインメント） / Epic Sony Records,SHVC-E3-(ESPG50),,1993-12-10,,Sports,Baseball
+0395,Hamelin no Violin Hiki,ハーメルンのバイオリン弾き,エニックス / ダフト / Enix / DAFT,SHVC-AVNJ-JPN,,1995-09-29,,Platformer,
+0396,Hana no Keiji: Kumo no Kanata ni,花の慶次 —雲のかなたに—,四次元 / パック・イン・ビデオ / Yojigen / Pack-in-Video,SHVC-AY4J-JPN,,1994-11-18,,Fighting,Versus
+0397,Hanafuda Ou,花札王,ココナッツジャパン / Coconuts Japan,SHVC-IJ,,1994-12-16,,Table Game,
+0398,Hanjuku Hero - Hanjuku Eiyuu Aa Sekai yo Hanjuku Nare...!!,はんじゅくヒーロー 半熟英雄 ああ、世界よ半熟なれ…！！,スクウェア / Square,SHVC-HH,,1992-12-19,,Strategy,
+0399,Hansei Zaru Jirou-kun no Daibouken,反省ザル ジローくんの大冒険,ナツメ / Natsume,SHVC-HJ,,1991-12-27,,Platformer,
+0400,Haou Taikei Ryuu Knight - Lord of Paladin,覇王大系リューナイト ロードオブパラディン,バンダイ / 日本アートメディア / Bandai / Japan Art Media (JAM),SHVC-UR,,1994-12-22,,RPG,Action
+0401,Harapeko Bakka,はらぺこバッカ,魔法株式会社 / Magical Company,SHVC-ABKJ-JPN,,1994-10-19,,Puzzle,
+0402,Harukanaru Augusta,遥かなるオーガスタ,ティーアンドイーソフト / T&E Soft,SHVC-GA,,1991-04-05,,Sports,Golf
+0403,Harukanaru Augusta 2 - Masters,マスターズ 遥かなるオーガスタ2 MASTERS,ティーアンドイーソフト / T&E Soft,SHVC-O2,,1993-09-22,,Sports,Golf
+0404,Harukanaru Augusta 3 - Masters New,マスターズ ニュー 遥かなるオーガスタ3 MASTERS New,ティーアンドイーソフト / T&E Soft,SHVC-AO3J-JPN,,1995-12-08,,Sports,Golf
+0405,Hashire Hebereke,はしれへべれけ,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-AHHJ-JPN,,1994-12-22,,Puzzle,Puzzle
+0406,Hat Trick Hero,ハットトリックヒーロー,タイトー / Taito,SHVC-HT,,1992-03-27,,Sports,Soccer
+0407,Hat Trick Hero 2,ハットトリックヒーロー2,タイトー / Taito,SHVC-2Y,,1994-07-29,,Sports,Soccer
+0408,Hatayama Hachi no Pro Yakyuu News Jitsmeiban,はた山ハッチのパロ野球ニュース！実名版,エポック社 / アジェンダ / Epoch / Agenda,SHVC-EB,,1993-10-29,,Sports,Baseball
+0409,Hayashi Kaihou Kudan no Igo Oodou,林海峯九段の囲碁大道,アスク講談社 / Ask Kodansha,SHVC-AIDJ-JPN,,1996-03-22,,Table Game,Igo
+0410,Hayazashi Nidan: Morita Shougi,早指し 二段 森田将棋,セタ / ランダムハウス / Seta / Random House,SHVC-2M,,1993-06-18,,Table Game,Shougi
+0411,Hayazashi Nidan: Morita Shougi 2,早指し 二段 森田将棋2,セタ / ランダムハウス / Seta / Random House,SHVC-A2MJ-JPN,,1995-05-26,,Table Game,Shougi
+0412,Hebereke no Oishii Puzzle ha Irimasenka,へべれけのおいしいパズルはいりませんか,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-O3,,1994-08-31,,Puzzle,Puzzle
+0413,Hebereke no Popoon,へべれけのぽぷーん,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-HU,,1993-12-22,,Puzzle,Matching
+0414,Heian Fuuunden,平安風雲伝,日本ソフトシステム / ケイエスエス / Nihon Soft System / KSS,SHVC-AKHJ-JPN,,1995-09-29,,RPG,
+0415,Heisei Gunjin Shougi,平成軍人将棋,カロッツェリアジャパン / Carrozzeria Japan,SHVC-AG7J-JPN,,1996-01-26,,Table Game,Shougi
+0416,Heisei Inu Monogatari Bow - Pop'n Smash!!,平成イヌ物語バウ ポップンスマッシュ！！,タカラ / Takara,SHVC-QQ,,1994-04-28,,Sports,
+0417,Heisei Shin Oni Ga Shima Kouhen,平成 新 鬼ヶ島 後編,任天堂 / パックスソフトニカ / Nintendo / Pax Softonica,SHVC-AO5J-JPN,,1997-12-01,,Visual Novel,
+0418,Heisei Shin Oni Ga Shima Zenpen,平成新 鬼ヶ島前編,任天堂 / パックスソフトニカ / Nintendo / Pax Softonica,SHVC-AO4J-JPN,,1997-12-01,,Visual Novel,
+0419,Heiwa Pachinko World,平和 パチンコワールド,ショウエイシステム / Shouei System,SHVC-AHWJ-JPN,,1995-02-24,,Gambling,Pachinko
+0420,Heiwa Pachinko World 2,平和 パチンコワールド2,ショウエイシステム / Shouei System,SHVC-AWTJ-JPN,,1995-09-29,,Gambling,Pachinko
+0421,Heiwa Pachinko World 3,平和 パチンコワールド3,ショウエイシステム / Shouei System,SHVC-A3WJ-JPN,,1996-04-26,,Gambling,Pachinko
+0422,Heiwa Parlor! Mini 8 - Pachinko Jikki Simulation Game,平和 パーラー！ミニ8 パチンコ実機シミュレーションゲーム,日本テレネット / Telenet Japan,SHVC-AQUJ-JPN,,1998-01-30,,Gambling,Pachinko
+0423,Hello! Pac-Man,ハロー！パックマン,ナムコ / Namcot,SHVC-PN,,1994-08-26,,Platformer,
+0424,Herakles no Eikou III - Kamigami no Chinmoku,ヘラクレスの栄光III 神々の沈黙,データイースト / Data East,SHVC-HE,,1992-04-24,,RPG,
+0425,Herakles no Eikou IV - Kamigami Kara no Okurimono,ヘラクレスの栄光IV 神々からの贈り物,データイースト / Data East,SHVC-4E,,1994-10-21,,RPG,
+0426,Hero Senki - Project Olympus,ヒーロー戦記 プロジェクト オリュンポス,バンプレスト / ウィンキーソフト / Banpresto / Winkysoft,SHVC-HS,,1992-11-20,,RPG,
+0427,Hi no Ouji Yamato Takeru,火の皇子 ヤマトタケル,東宝 / マルチメディア インテリジェンス トランスファー（ミット） / TOHO / Multimedia Intelligence Transfer (MIT),SHVC-AYTJ-JPN,,1995-09-29,,RPG,
+0428,Higashio Osamu Kanshuu - Super Pro Yakyuu Stadium,東尾 修 監修 スーパープロ野球スタジアム,徳間ジャパンコミュニケーションズ / 徳間書店インターメディア / Tokuma Japan Communications / Tokuma Shoten Intermedia,SHVC-PK,,1993-09-30,,Sports,Baseball
+0429,Hiouden - Mamono-tachi Tono Chikai,緋王伝 魔物達との誓い,ウルフチーム（日本テレネット） / Telenet Japan (Wolfteam),SHVC-HR,,1994-02-11,,Strategy,
+0430,Hiryu no Ken S - Hyper Version,ハイパーバージョン 飛龍の拳S,カルチャーブレーン / Culture Brain,SHVC-HP,,1992-12-11,,Beat 'em All,
+0431,Hiryu no Ken S - Golden Fighter,ゴールデンファイター飛龍の拳S,カルチャーブレーン / Culture Brain,SHVC-HK,,1992-07-31,,Beat 'em All,
+0432,Hissatsu Pachinko Collection,必殺パチンココレクション,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-AHPJ-JPN,,1994-10-21,,Gambling,Pachinko
+0433,Hissatsu Pachinko Collection 2,必殺パチンココレクション2,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-A2HJ-JPN,,1995-03-24,,Gambling,Pachinko
+0434,Hissatsu Pachinko Collection 3,必殺パチンココレクション3,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-A3HJ-JPN,,1995-11-02,,Gambling,Pachinko
+0435,Hissatsu Pachinko Collection 4,必殺パチンココレクション4,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-AH4J-JPN,,1996-08-30,,Gambling,Pachinko
+0436,Hisshou 777 Fighter - Pachi-Slot Ryuuguu Densetsu,必勝スリーセブンファイター パチスロ竜宮伝説,バップ / パチンコ○秘情報編集部 / VAP (NTV),SHVC-IH,,1994-01-14,,Gambling,Pachinko
+0437,Hisshou 777 Fighter 2 - Pachi-Slot Maruhi Jouhou,必勝スリーセブンファイター2 パチスロ○秘情報,バップ / パチンコ○秘情報編集部 / VAP (NTV),SHVC-72,,1994-08-19,,Gambling,Pachinko
+0438,Hisshou 777 Fighter 3 - Kokuryuu Ou no Fukkatsu,必勝777 FIGHTER III 黒竜王の復活 スリーセブンファイター,バップ / パチンコ○秘情報編集部 / VAP (NTV),SHVC-A73J-JPN,,1995-09-15,,Gambling,Pachinko
+0439,Hisshou Pachi-Slot Fun,必勝パチスロファン,プランニングオフィスワダ（パウ） / Planning Office WADA (POW),SHVC-APNJ-JPN,,1994-12-16,,Gambling,Pachinko
+0440,Hokuto no Ken 5 - Tenma Ryuuseiden Ai Zetsu Shou,北斗の拳5 天魔流星伝 哀・絶章,東映動画 / ショウエイシステム / Toei Animation / Shouei System,SHVC-K5,,1992-07-10,,RPG,
+0441,Hokuto no Ken 6 - Gekitou Denshou Ken Haou heno Michi,北斗の拳6 激闘伝承拳 覇王への道,東映動画 / ショウエイシステム / Toei Animation / Shouei System,SHVC-K6,,1992-11-20,,Fighting,Versus
+0442,Hokuto no Ken 7 - Seiken Retsuden - Den Shou Sha he no Michi,北斗の拳7 聖拳列伝 伝承者への道,東映動画 / ショウエイシステム / Toei Animation / Shouei System,SHVC-K7,,1993-12-24,,Fighting,Versus
+0443,Holy Striker,ホーリーストライカー,ヘクト / アクシズ アート アミューズ / Hector / Axes Art Amuse,SHVC-AI,,1993-12-17,,Puzzle,
+0444,Holy Umbrella - Dondera no Mubo!!,ホーリーアンブレラ ドンデラの無謀！！,ナグザット / Naxat Soft,SHVC-ADQJ-JPN,,1995-09-29,,RPG,Action
+0445,Home Alone,ホーム・アローン,アルトロン / Altron / Imagineering,SHVC-HA,SNS-HA,1992-08-11,1991-12-01,Platformer,
+0446,Honkaku Mahjong - Tetsuman,本格麻雀 徹萬,ナグザット / Naxat Soft,SHVC-OM,,1993-09-24,,Table Game,Mahjong
+0447,Honkaku Mahjong - Tetsuman II,本格麻雀 徹萬II,ナグザット/ギャップス / Naxat Soft / GAPS,SHVC-AOXJ-JPN,,1994-10-21,,Table Game,Mahjong
+0448,Honkaku Shougi - Fuuunji Ryuuou,本格将棋 風雲児 龍王,ヴァージンゲーム / Virgin Games,SHVC-AV3J-JPN,,1994-12-22,,Table Game,Shougi
+0449,Honkakuha Igo: Gosei,本格派囲碁 碁聖,タイトー / Taito,SHVC-AKWJ-JPN,,1994-10-28,,Table Game,Igo
+0450,Honke Hanafuda,本家花札,イマジニアズーム / Imagineer-Zoom,SHVC-87,,1994-09-22,,Table Game,Shougi
+0451,Honke Sankyo Fever - Jikki Simulation,本家SANKYO FEVER 実機シミュレーション,デンズ（アイ・ティー・シー） / 三共 / ティー・イー・エヌ / DEN'Z(ITC) / Sankyo / T・E・N,SHVC-AFPJ-JPN,,1995-06-10,,Gambling,Pachinko
+0452,Honke Sankyo Fever - Jikki Simulation 2,本家Sankyo FEVER 2 実機シミュレーション,ボスコミュニケーションズ / 三共 / ティー・イー・エヌ / Boss Communications / Sankyo / T・E・N / Japan Vistec,SHVC-A33J-JPN,,1995-12-15,,Gambling,Pachinko
+0453,Honke Sankyo Fever 3 - Jikki Simulation,本家Sankyo FEVER 3 実機シミュレーション,ボスコミュニケーションズ / 三共 / ティー・イー・エヌ / Boss Communications / Sankyo / T・E・N,SHVC-A37J-JPN,,1996-08-31,,Gambling,Pachinko
+0454,Honoo no Doukyuuji - Dodge Danpei,炎の闘球児 ドッジ弾平,サンソフト（サン電子） / Sunsoft (Sun Electronics),SHVC-DD,,1992-07-31,,Sports,Dodgeball
+0455,Hook,フック,エピック・ソニーレコード （ソニー・ミュージックエンタテインメント） / 浮世亭 / Epic Sony Records / Ukiyotei,SHVC-HO-(ESPG46),SNS-HO,1992-07-17,1992-01-01,Platformer,
+0456,Hoshi no Kirby 3,星のカービィ3,任天堂 / ハル研究所 / Nintendo / HAL Laboratory,SHVC-AFJJ-JPN,SNS-AFJE-USA,1998-03-26,1998-03-27,Platformer,
+0457,Hoshi no Kirby Super Deluxe,星のカービィ スーパーデラックス,任天堂 / ハル研究所 / Nintendo / HAL Laboratory,SHVC-AKFJ-JPN,SNS-AKFE-USA,1996-03-21,1996-09-20,Platformer,
+0458,Houkago in Beppin Jogakuin,放課後 in Beppin 女学院,イマジニアズーム / Imagineer-Zoom,SHVC-ABEJ-JPN,,1995-02-03,,Strategy,
+0459,Hourai Gakuen no Bouken! - Tenkousei Scramble,蓬莱学園の冒険！転校生スクランブル,J・ウイング / ダイナマイト / J-WING / Dynamite,SHVC-AJHJ-JPN,,1996-04-19,,RPG,
+0460,Human Baseball,ヒューマンベースボール,ヒューマン / フィールド / Human / Field,SHVC-HB,,1993-08-06,,Sports,Baseball
+0461,Human Grand Prix,ヒューマングランプリ,ヒューマン / Human,SHVC-HG,,1992-11-20,,Racing,Formule 1
+0462,Human Grand Prix 2,ヒューマングランプリ2,ヒューマン / Human,SHVC-2G,,1993-12-24,,Racing,Formule 1
+0463,Human Grand Prix 3 - F1 Triple Battle,ヒューマングランプリ3 F1トリプルバトル,ヒューマン / Human,SHVC-AGXJ-JPN,,1994-09-30,,Racing,Formule 1
+0464,Human Grand Prix IV - F1 Dream Battle,ヒューマングランプリ4 F1ドリームバトル,ヒューマン / Human,SHVC-AG4J-JPN,,1995-08-25,,Racing,Formule 1
+0465,Hyper Iria,ハイパーイリア,バンプレスト / Banpresto / Crowd / Zeiram Project,SHVC-AZEJ-JPN,,1995-10-13,,Platformer,
+0466,Hyper Zone,ハイパーゾーン,ハル研究所（HALKEN） / HAL Laboratory,SHVC-HZ,,1991-08-31,,SHMUP,Behind
+0467,Idea no Hi,イデアの日,ショウエイシステム / Shouei System,SHVC-ID,,1994-03-18,,RPG,
+0468,Igo Club,囲碁倶楽部,ヘクト / Hector,SHVC-AIVJ-JPN,,1996-01-26,,Table Game,Igo
+0469,Ihatovo Monogatari,イーハトーヴォ物語,ヘクト / Hector,SHVC-H8,,1993-03-05,,RPG,
+0470,Ikari no Yousai,怒りの要塞,ジャレコ / デーシーイー / Jaleco / DCE,SHVC-IY,,1993-04-23,,Shooter,360
+0471,Illvanian no Shiro - Ruins of Illvanian,イルバニアンの城,日本クラリービジネス / アトリエドゥーブル / Japan Clary Buisness / Atelier Double,SHVC-ARIJ-JPN,,1994-10-28,,Strategy,
+0472,Inazuma Serve da!! Super Beach Volley,稲妻サーブだ！ スーパービーチバレー,ヴァージンインタラクティブ エンターテインメント / Virgin Interactive Entertainment,SHVC-AV7J-JPN,,1995-08-04,,Sports,Volleyball
+0473,Indiana Jones' Greatest Adventures,インディ・ジョーンズ,ビクターエンタテインメント / ルーカスアーツ / ファクター5 / Victor Entertainment / Lucas Arts / Factor 5,SHVC-AIJJ-JPN,SNS-AIJE-USA,1995-07-28,1994-10-01,Platformer,
+0474,International Tennis Tour,インターナショナルテニスツアー,マイクロワールド / Micro World / Loriciel,SHVC-IT,SNS-IT,1993-03-26,1993-01-01,Sports,Tennis
+0475,Ippatsu Gyakuten!! Keiba Keirin Kyoutei,一発逆転！！ 競馬・競輪・競艇,プランニングオフィスワダ（パウ） / Planning Office WADA (POW) / Eleca,SHVC-AUMJ-JPN,,1996-04-26,,Sports,Horse
+0476,Iron Commando - Kotetsu no Senshi,鋼鉄の戦士 アイアンコマンドー,パック・イン・ビデオ / ポッポ / アーケードゾーン / Pack-in-Video / Poppo / Arcade Zone,SHVC-AICJ-JPN,,1995-02-10,,Beat 'em All,
+0477,Iso Zuri Ritou Hen,磯釣り 離島篇,パック・イン・ビデオ / Pack-in-Video,SHVC-A5IJ-JPN,,1996-01-19,,Sports,Pêche
+0478,Itadaki Street 2 - Neon Sign ha Bara Iro ni,いただきストリート2 ネオンサインはバラ色に,エニックス / トムキャットシステム / Enix / Tomcat System,SHVC-I2,,1994-02-26,,Table Game,
+0479,Itoi Shigesato no Bass Tsuri No. 1,糸井重里のバス釣りNo.1,任天堂 / ハル研究所 / ダイス / Nintendo / HAL Laboratory / Dice / Shigesato Itoi,SHVC-ZBPJ-JPN,,1997-02-21,,Sports,Pêche
+0480,Itou Hate Rokudan no Shougi Doujou,伊藤果六段の将棋道場,アスク講談社 / Ask Kodansha,SHVC-Q2,,1994-02-04,,Table Game,Shougi
+0481,J League '96 Dream Stadium,Jリーグ'96 ドリームスタジアム,ハドソン / Hudson,SHVC-AJ6J-JPN,,1996-06-01,,Sports,Soccer
+0482,J League Soccer Prime Goal,Jリーグサッカー プライムゴール,ナムコ / Namcot,SHVC-JE,,1993-08-06,,Sports,Soccer
+0483,J League Soccer Prime Goal 2,Jリーグサッカー プライムゴール2,ナムコ / Namcot,SHVC-2H,,1994-08-05,,Sports,Soccer
+0484,J League Soccer Prime Goal 3,Jリーグサッカー プライムゴール3,ナムコ / Namco,SHVC-AJ3J-JPN,,1995-08-04,,Sports,Soccer
+0485,J League Super Soccer,Jリーグ スーパーサッカー,ハドソン / Hudson,SHVC-VX,,1994-03-18,,Sports,Soccer
+0486,J League Super Soccer '95 - Jikkyou Stadium,Jリーグ スーパーサッカー 実況スタジアム,ハドソン / Hudson,SHVC-AJSJ-JPN,,1995-03-17,,Sports,Soccer
+0487,J. League Excite Stage '94,Jリーグエキサイトステージ'94,エポック社 / 小学館プロダクション / Epoch / Shogakukan Production,SHVC-JL,,1994-05-01,,Sports,Soccer
+0488,J. League Excite Stage '95,Jリーグエキサイトステージ'95,エポック社 / 小学館プロダクション / Epoch / Shogakukan Production,SHVC-AJ2J-JPN,,1995-04-28,,Sports,Soccer
+0489,J. League Excite Stage '96,Jリーグエキサイトステージ'96,エポック社 / 小学館プロダクション / Epoch / Shogakukan Production,SHVC-AE3J-JPN,,1996-04-26,,Sports,Soccer
+0490,Jammes,ジャムズ,カロッツェリアジャパン / Carrozzeria Japan,SHVC-AJMJ-JPN,,1995-02-10,,Puzzle,Matching
+0491,Janyuuki - Gokuu Randa,雀遊記 悟空乱打,ヴァージンゲーム / Virgin Games,SHVC-AV4J-JPN,,1995-01-13,,Table Game,Mahjong
+0492,JB The Super Bass,JBザ・スーパーバス,NGP / ギャップス / ナグザット / N&G Project / GAPS / Naxat Soft,SHVC-A94J-JPN,,1995-12-15,,Sports,Pêche
 0493,Jerry Boy,ジェリーボーイ,エピック・ソニーレコード （ソニー・ミュージックエンタテインメント）/ ゲームフリーク / Epic Sony Records / Game Freak,SHVC-JB,,1991-09-13,,Platformer,
 0494,Jigsaw Party,ジグソーパ〜ティ〜,ホリ電機 / Hori Electric,SHVC-Z5,SNS-Z5,1994-07-22,,Puzzle,Puzzle
 0495,Jikkyou Keiba Simulation Stable Star,ステイブルスター 〜厩舎物語〜,コナミ / Konami,SHVC-AKQJ-JPN,,1996-03-22,,Sports,Horse
